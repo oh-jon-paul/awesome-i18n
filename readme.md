@@ -61,7 +61,7 @@
 ### Java
 
 * [Thymeleaf](https://www.thymeleaf.org) - modern server-side Java template engine for both web and standalone environments.
-* [Spring Messages]
+* [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage. 
 
 #### Blog posts & resources
 
