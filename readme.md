@@ -171,16 +171,6 @@
 - Greek question marks look like a semicolon, that one really threw me off when I first saw it.
 
 
-## 🍿 Videos
-
-#### Internationalis(z)ing Code - Computerphile
-![youttube internationalization](youtube-computerphile-internationalization.png)
-Link: https://www.youtube.com/watch?v=0j74jcxSunY
-
-#### The Problem with Time & Timezones - Computerphile
-![youttube internationalization](youtube-computerphile-timezones.png)
-Link: https://www.youtube.com/watch?v=-5wpm-gesOY
-
 ## ✍️ Translation agencies
 
 [✌️Add your agency](https://github.com/jpomykala/awesome-i18n/issues/new)
@@ -194,12 +184,26 @@ Link: https://www.youtube.com/watch?v=-5wpm-gesOY
 
 ## 📘 Documetations
 
-* [The Unicode Consortium](http://unicode.org/)
+* [Google Developers: Internationalization](https://developers.google.com/international/)
 * [Common Language Data Repository](http://cldr.unicode.org/) The Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available.
 * [ICU: International Components for Unicode](http://site.icu-project.org/) ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
-* [Google Developers: Internationalization](https://developers.google.com/international/)
-* [W3C Internationalization overview](http://www.w3.org/standards/webdesign/i18n)
-* [W3C Internationalization Activity homepage](http://www.w3.org/International/)
+* [W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
+
+
+## 🍿 Videos
+
+#### Internationalis(z)ing Code - Computerphile
+
+![youttube internationalization](youtube-computerphile-internationalization.png)
+
+Link: https://www.youtube.com/watch?v=0j74jcxSunY
+
+#### The Problem with Time & Timezones - Computerphile
+
+![youttube internationalization](youtube-computerphile-timezones.png)
+
+Link: https://www.youtube.com/watch?v=-5wpm-gesOY
+
 
 ## 📢 Contribute
 
