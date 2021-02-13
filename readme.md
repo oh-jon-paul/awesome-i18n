@@ -5,7 +5,7 @@
 
 ## 📦 Contents
 
-- [👩‍🎓 Acronyms and keywords](#acronyms-and-keywords)
+- [👩‍🎓 Acronyms and keywords](#-acronyms-and-keywords)
 - [🕵️ SEO i18n](#%EF%B8%8F-seo-i18n)
 - [📚 Libraries](#-libraries)
 - [⚛️ React localization](#%EF%B8%8F-react)
