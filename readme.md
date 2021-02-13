@@ -8,6 +8,7 @@
 - [👩‍🎓 Acronims and keywords](#acronims-and-keywords)
 - [🕵️ SEO i18n](#%EF%B8%8F-seo-i18n)
 - [📚 Libraries](#-libraries)
+- [⚛️ React localization](#react)
 - [👩‍💻  Tools & Services](#-tools-and-services)
 - [📅 Dates & Times](#-dates-and-times)
 - [📞 Telephone](#telephone)
@@ -61,7 +62,7 @@
 - [eo-locale](https://github.com/ibitcy/eo-locale) Elegant lightweight library based on Internationalization API
 
 
-### React apps
+### ⚛️ React
 
 * [bloodyowl/react-translate](https://github.com/bloodyowl/react-translate) Internationalization for react
 - [react-native-localize](https://github.com/zoontek/react-native-localize) A toolbox for your React Native app localization
