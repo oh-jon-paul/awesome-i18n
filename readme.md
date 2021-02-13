@@ -14,7 +14,10 @@
 - [📞 Telephone](#telephone)
 - [📒 Blog posts & articles](#-blog-posts-articles--others)
 - [🦮 Guides](#-guides)
+- [💭 Community Tips & tricks](#-community-tips--tricks)
 - [✍️ Translation agencies](#%EF%B8%8F-translation-agencies)
+- [🦾 Automated translations](#-automated-translations)
+- [🍿 Videos](#-videos)
 
 ## 👩‍🎓 Acronyms and keywords
 
