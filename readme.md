@@ -70,18 +70,22 @@
 
 ### ⚛️ React
 
-* [bloodyowl/react-translate](https://github.com/bloodyowl/react-translate) Internationalization for react
+* [react-translate](https://github.com/bloodyowl/react-translate) Internationalization for react
 - [react-native-localize](https://github.com/zoontek/react-native-localize) A toolbox for your React Native app localization
 * [FormatJS](https://formatjs.io) internationalize your web apps with react-intl library
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) Extract messages from project with FormatJS library
 - [react-localization](https://github.com/stefalda/react-localization) Simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module.
 - [react-i18nify](https://github.com/sealninja/react-i18nify) Simple i18n translation and localization components and helpers for React
 - [react-persian](https://github.com/evandhq/react-persian) react-persian is a set of react components for Persian localization
-* [i18next](http://i18next.com/) i18next is a full-featured i18n javascript library for translating your web application
 - [react-i18next](https://react.i18next.com/) - internationalization framework for React / React Native which is based on i18next
 - [next-translate](https://github.com/vinissimus/next-translate) Easy i18n for Next.js +10
 - [react-translated](https://github.com/amsul/react-translated) A dead simple way to add complex translations in a React project
-- [React-intl hooks](https://github.com/CreateThrive/react-intl-hooks) React-intl-hooks is a small and fast library that you can use to replace Format.js components. 
+- [react-intl hooks](https://github.com/CreateThrive/react-intl-hooks) React-intl-hooks is a small and fast library that you can use to replace Format.js components. 
+- [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) Localization library for handling translations in React.
+- [js-lingui](https://github.com/lingui/js-lingui) A readable, automated, and optimized (5 kb) internationalization for JavaScript
+- [react-translate-component](https://github.com/martinandert/react-translate-component) 
+Translate is a component for React that utilizes the Counterpart module and the Interpolate component to provide multi-lingual/localized text content.
+
 
 
 ### Java
@@ -91,6 +95,7 @@
 * [Thymeleaf i18n docs](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts) using `th:texts` for translations
 * [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) Baeldun post about using Spring Messages
 * [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) Stackoverflow thread
+
 
 
 ### Jekyll
