@@ -5,8 +5,10 @@
 
 ## 📦 Contents
 
-- [Acronims and keywords](#acronims-and-keywords)
-- [Another Section](#another-section)
+- [👩‍🎓 Acronims and keywords](#acronims-and-keywords)
+- [🕵️ SEO i18n](#%EF%B8%8F-seo-i18n)
+- [📚 Libraries](#-libraries)
+- [👩‍💻  Tools & Services](#-tools-and-services)
 
 ## 👩‍🎓 Acronims and keywords
 
@@ -84,7 +86,7 @@
 - [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
 
-## 👩‍💻 Tools and service
+## 👩‍💻 Tools and services
 
 ### 🤖 Localization CLI Tools
 
