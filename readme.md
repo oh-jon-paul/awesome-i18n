@@ -174,11 +174,11 @@
 ## 🍿 Videos
 
 #### Internationalis(z)ing Code - Computerphile
-
+![youttube internationalization](youtube-computerphile-internationalization.png)
 Link: https://www.youtube.com/watch?v=0j74jcxSunY
 
 #### The Problem with Time & Timezones - Computerphile
-
+![youttube internationalization](youtube-computerphile-timezones.png)
 Link: https://www.youtube.com/watch?v=-5wpm-gesOY
 
 ## ✍️ Translation agencies
