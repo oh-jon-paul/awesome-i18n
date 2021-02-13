@@ -170,6 +170,17 @@
 - same goes for percent signs. Sometimes the % shows before the number, and not after. There might be a space between the number and %. It might show as %-KAL in Hungarian.
 - Greek question marks look like a semicolon, that one really threw me off when I first saw it.
 
+
+## 🍿 Videos
+
+#### Internationalis(z)ing Code - Computerphile
+
+Link: https://www.youtube.com/watch?v=0j74jcxSunY
+
+#### The Problem with Time & Timezones - Computerphile
+
+Link: https://www.youtube.com/watch?v=-5wpm-gesOY
+
 ## ✍️ Translation agencies
 
 [✌️Add your agency](https://github.com/jpomykala/awesome-i18n/issues/new)
