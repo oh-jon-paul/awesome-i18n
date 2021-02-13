@@ -144,6 +144,7 @@
 * [MomentJS](https://momentjs.com) JavaScript library for handling times and dates. (outdated)
 * [Luxon](https://moment.github.io/luxon/) A powerful, modern, and friendly wrapper for Javascript dates and times
 * [Daylight saving time and time zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
+- [date-fns](https://date-fns.org) Modern JavaScript date utility library
 
 ## 📞 Telephone
 
