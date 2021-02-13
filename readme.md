@@ -5,7 +5,7 @@
 
 ## 📦 Contents
 
-- [👩‍🎓 Acronims and keywords](#acronims-and-keywords)
+- [👩‍🎓 Acronyms and keywords](#acronyms-and-keywords)
 - [🕵️ SEO i18n](#%EF%B8%8F-seo-i18n)
 - [📚 Libraries](#-libraries)
 - [⚛️ React localization](#%EF%B8%8F-react)
@@ -16,9 +16,9 @@
 - [🦮 Guides](#-guides)
 - [✍️ Translation agencies](#%EF%B8%8F-translation-agencies)
 
-## 👩‍🎓 Acronims and keywords
+## 👩‍🎓 Acronyms and keywords
 
-### 🧐 Acronims
+### 🧐 Acronyms
 * i18n - internationalization
 * l10n - localization
 * xl8 - group of [translation management systems](#translation-management-system)
@@ -44,6 +44,8 @@
 ### JavaScript
 
 * [ECMAScript Internationalization API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) documentation what standard `intl` object in JS can do.
+* [Facebook FBT](https://github.com/facebook/fbt) FBT is an internationalization framework for JavaScript designed to be not just powerful and flexible, but also simple and intuitive
+* [js-lingui](https://github.com/lingui/js-lingui) A readable, automated, and optimized (5kb) internationalization
 * [Globalize](https://github.com/jquery/globalize) library for i18n that leverages the official Unicode CLDR JSON data
 * [Intl.js](https://github.com/andyearnshaw/Intl.js) implementation of the ECMAScript Internationalization API
 * [Jed](http://slexaxton.github.io/Jed/) Gettext Style i18n
@@ -139,22 +141,20 @@
 
 ## 📅 Dates and Times
 
-* [MomentJS] JavaScript library for handling times and dates. (outdated)
+* [MomentJS](https://momentjs.com) JavaScript library for handling times and dates. (outdated)
 * [Luxon](https://moment.github.io/luxon/) A powerful, modern, and friendly wrapper for Javascript dates and times
 * [Daylight saving time and time zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
 
 ## 📞 Telephone
 
-* [E.123: Notation for national and international telephone numbers, e-mail addresses and web addresses](http://www.itu.int/rec/T-REC-E.123/en)
-* [ITU-T E.164 Assigned Country Codes](http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.164D-11-2011-PDF-E.pdf)
-* [International Telephone Input](http://jackocnr.com/intl-tel-input.html)
-* [Random Phone Number Generator](https://fakenumber.org/) Only for a few countries
+* [Random Phone Number Generator](https://fakenumber.org/) Fake phone number generator
 
 ## 📒 Blog posts, articles & others
 
 * [What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/)
 - [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
 - [Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) Blog post on dev.to about top 12 libraries for react localization
+
 
 
 ## 🦮 Guides
