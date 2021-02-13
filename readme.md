@@ -8,7 +8,7 @@
 - [👩‍🎓 Acronims and keywords](#acronims-and-keywords)
 - [🕵️ SEO i18n](#%EF%B8%8F-seo-i18n)
 - [📚 Libraries](#-libraries)
-- [⚛️ React localization](#react)
+- [⚛️ React localization](#%EF%B8%8F-react)
 - [👩‍💻  Tools & Services](#-tools-and-services)
 - [📅 Dates & Times](#-dates-and-times)
 - [📞 Telephone](#telephone)
