@@ -40,7 +40,7 @@
 
 ## 📚 Libraries
 
-### JavaScript & Frameworks
+### JavaScript
 
 * [ECMAScript Internationalization API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) documentation what standard `intl` object in JS can do.
 * [Globalize](https://github.com/jquery/globalize) library for i18n that leverages the official Unicode CLDR JSON data
@@ -51,16 +51,28 @@
 * [International Telephone Input](http://jackocnr.com/intl-tel-input.html) plugin for entering and validating international telephone numbers. 
 * [lisan.js](http://lisanjs.com) fast and small i18n library
 * [Polyglot.js](http://airbnb.io/polyglot.js/) Make your application speak multiple languages
-* [i18next](http://i18next.com/) i18next is a full-featured i18n javascript library for translating your web application
-- [react-i18next](https://react.i18next.com/) - internationalization framework for React / React Native which is based on i18next
 * [c-3po.js](http://c-3po.js.org) library for translations based on ES6 template literals
 - [i18n Ally](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
 * [Angular NGX Translate](http://www.ngx-translate.com) Angular translation library
 - [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
-* [bloodyowl/react-translate](https://github.com/bloodyowl/react-translate) Internationalization for react
 * [vue i18n](https://kazupon.github.io/vue-i18n/) Vue I18n is internationalization plugin for Vue.js
 - [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
 - [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
+- [eo-locale](https://github.com/ibitcy/eo-locale) Elegant lightweight library based on Internationalization API
+
+
+### React apps
+
+* [bloodyowl/react-translate](https://github.com/bloodyowl/react-translate) Internationalization for react
+- [react-native-localize](https://github.com/zoontek/react-native-localize) A toolbox for your React Native app localization
+* [i18next](http://i18next.com/) i18next is a full-featured i18n javascript library for translating your web application
+- [react-i18next](https://react.i18next.com/) - internationalization framework for React / React Native which is based on i18next
+* [FormatJS](https://formatjs.io) internationalize your web apps with react-intl library
+- [react-localization](https://github.com/stefalda/react-localization) Simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module.
+- [react-i18nify](https://github.com/sealninja/react-i18nify) Simple i18n translation and localization components and helpers for React
+- [react-persian](https://github.com/evandhq/react-persian) react-persian is a set of react components for Persian localization
+- [next-translate](https://github.com/vinissimus/next-translate) Easy i18n for Next.js +10
+- [react-translated](https://github.com/amsul/react-translated) A dead simple way to add complex translations in a React project
 
 
 ### Java
@@ -94,7 +106,8 @@
 ## 👩‍💻 Tools and services
 
 ### 🤖 Localization CLI Tools
-
+- [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) Extract messages from project with FormatJS librar
+- [simplelocalize-cli](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) Extract translation keys and messages from various different libraries
 
 ### ☁️ Translation Management Systems
 
