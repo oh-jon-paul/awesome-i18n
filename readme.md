@@ -12,6 +12,7 @@
 - [📅 Dates & Times](#-dates-and-times)
 - [📞 Telephone](#telephone)
 - [📒 Blog posts & articles](#-blog-posts-articles--others)
+- [Translation agencies](#Translation agencies)
 
 ## 👩‍🎓 Acronims and keywords
 
@@ -44,7 +45,7 @@
 * [Globalize](https://github.com/jquery/globalize) library for i18n that leverages the official Unicode CLDR JSON data
 * [Intl.js](https://github.com/andyearnshaw/Intl.js) implementation of the ECMAScript Internationalization API
 * [Jed](http://slexaxton.github.io/Jed/) Gettext Style i18n
-* [FormatJS](https://formatjs.io)internationalize your web apps on the client & server
+* [FormatJS](https://formatjs.io) internationalize your web apps on the client & server
 * [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 * [International Telephone Input](http://jackocnr.com/intl-tel-input.html) plugin for entering and validating international telephone numbers. 
 * [lisan.js](http://lisanjs.com) fast and small i18n library
@@ -93,7 +94,6 @@
 
 ### 🤖 Localization CLI Tools
 
-* [simplelocalize-cli](https://simplelocalize.io/docs/cli/get-started/)
 
 ### ☁️ Translation Management Systems
 
@@ -148,6 +148,7 @@
 
 ## 🦾 Automated translations
 
+* [Gengo](http://gengo.com) Translation is made by real people but you can make an order using API
 * [Google Translate](https://translate.google.com)
 * [Microsoft Translator](https://www.microsoft.com/en-GB/translator/)
 * [DeepL](https://deepl.com)
