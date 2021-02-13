@@ -60,6 +60,10 @@
 * [vue i18n](https://kazupon.github.io/vue-i18n/) Vue I18n is internationalization plugin for Vue.js
 - [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
 - [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
+- [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) Localization library for handling translations in React.
+- [js-lingui](https://github.com/lingui/js-lingui) A readable, automated, and optimized (5 kb) internationalization for JavaScript
+- [react-translate-component](https://github.com/martinandert/react-translate-component) 
+Translate is a component for React that utilizes the Counterpart module and the Interpolate component to provide multi-lingual/localized text content.
 
 
 ### Java
@@ -69,6 +73,7 @@
 * [Thymeleaf i18n docs](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts) using `th:texts` for translations
 * [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) Baeldun post about using Spring Messages
 * [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) Stackoverflow thread
+
 
 
 ### Jekyll
