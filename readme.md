@@ -48,6 +48,7 @@
 * [Intl.js](https://github.com/andyearnshaw/Intl.js) implementation of the ECMAScript Internationalization API
 * [Jed](http://slexaxton.github.io/Jed/) Gettext Style i18n
 * [FormatJS](https://formatjs.io) internationalize your web apps on the client & server
+- [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) Extract messages from project with FormatJS library
 * [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 * [International Telephone Input](http://jackocnr.com/intl-tel-input.html) plugin for entering and validating international telephone numbers. 
 * [lisan.js](http://lisanjs.com) fast and small i18n library
@@ -66,12 +67,13 @@
 
 * [bloodyowl/react-translate](https://github.com/bloodyowl/react-translate) Internationalization for react
 - [react-native-localize](https://github.com/zoontek/react-native-localize) A toolbox for your React Native app localization
-* [i18next](http://i18next.com/) i18next is a full-featured i18n javascript library for translating your web application
-- [react-i18next](https://react.i18next.com/) - internationalization framework for React / React Native which is based on i18next
 * [FormatJS](https://formatjs.io) internationalize your web apps with react-intl library
+- [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) Extract messages from project with FormatJS library
 - [react-localization](https://github.com/stefalda/react-localization) Simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module.
 - [react-i18nify](https://github.com/sealninja/react-i18nify) Simple i18n translation and localization components and helpers for React
 - [react-persian](https://github.com/evandhq/react-persian) react-persian is a set of react components for Persian localization
+* [i18next](http://i18next.com/) i18next is a full-featured i18n javascript library for translating your web application
+- [react-i18next](https://react.i18next.com/) - internationalization framework for React / React Native which is based on i18next
 - [next-translate](https://github.com/vinissimus/next-translate) Easy i18n for Next.js +10
 - [react-translated](https://github.com/amsul/react-translated) A dead simple way to add complex translations in a React project
 - [React-intl hooks](https://github.com/CreateThrive/react-intl-hooks) React-intl-hooks is a small and fast library that you can use to replace Format.js components. 
@@ -108,7 +110,7 @@
 ## 👩‍💻 Tools and services
 
 ### 🤖 Localization CLI Tools
-- [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) Extract messages from project with FormatJS librar
+- [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) Extract messages from project with FormatJS library
 - [simplelocalize-cli](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) Extract translation keys and messages from various different libraries
 
 ### ☁️ Translation Management Systems
