@@ -9,6 +9,9 @@
 - [🕵️ SEO i18n](#%EF%B8%8F-seo-i18n)
 - [📚 Libraries](#-libraries)
 - [👩‍💻  Tools & Services](#-tools-and-services)
+- [📅 Dates & Times](#-dates-and-times)
+- [📞 Telephone](#telephone)
+- [📒 Blog posts & articles](#-blog-posts-articles--others)
 
 ## 👩‍🎓 Acronims and keywords
 
