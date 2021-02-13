@@ -154,6 +154,7 @@
 
 * [What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/)
 - [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
+- [Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) Blog post on dev.to about top 12 libraries for react localization
 
 
 ## 🦮 Guides
