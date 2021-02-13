@@ -73,6 +73,7 @@
 - [react-persian](https://github.com/evandhq/react-persian) react-persian is a set of react components for Persian localization
 - [next-translate](https://github.com/vinissimus/next-translate) Easy i18n for Next.js +10
 - [react-translated](https://github.com/amsul/react-translated) A dead simple way to add complex translations in a React project
+- [React-intl hooks](https://github.com/CreateThrive/react-intl-hooks) React-intl-hooks is a small and fast library that you can use to replace Format.js components. 
 
 
 ### Java
