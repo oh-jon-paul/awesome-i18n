@@ -159,7 +159,7 @@
 * [What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/)
 - [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
 - [Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) Blog post on dev.to about top 12 libraries for react localization
-
+- [Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html) - Blog post with a warning on using different I18n backends in development/production
 
 ## 🦮 Guides
 - [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
