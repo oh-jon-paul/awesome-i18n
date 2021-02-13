@@ -12,7 +12,8 @@
 - [📅 Dates & Times](#-dates-and-times)
 - [📞 Telephone](#telephone)
 - [📒 Blog posts & articles](#-blog-posts-articles--others)
-- [Translation agencies](#Translation agencies)
+- [🦮 Guides](#-guides)
+- [✍️ Translation agencies](#%EF%B8%8F-translation-agencies)
 
 ## 👩‍🎓 Acronims and keywords
 
