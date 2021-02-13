@@ -141,7 +141,7 @@
 
 ## 📅 Dates and Times
 
-* [MomentJS](https://momentjs.com) JavaScript library for handling times and dates. (outdated)
+* [MomentJS](https://momentjs.com) JavaScript library for handling times and dates
 * [Luxon](https://moment.github.io/luxon/) A powerful, modern, and friendly wrapper for Javascript dates and times
 * [Daylight saving time and time zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
 - [date-fns](https://date-fns.org) Modern JavaScript date utility library
@@ -149,6 +149,7 @@
 ## 📞 Telephone
 
 * [Random Phone Number Generator](https://fakenumber.org/) Fake phone number generator
+* [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 
 ## 📒 Blog posts, articles & others
 
@@ -157,10 +158,17 @@
 - [Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) Blog post on dev.to about top 12 libraries for react localization
 
 
-
 ## 🦮 Guides
 - [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
 - [Message extraction](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) Extracting translation keys from project files. JavaScript, Android, iOS/macOS
+
+## 💭 Community Tips & tricks
+
+- If you have tight layouts, my rough rule of thumb is to double the English text and make sure it fits. Then you will usually have enough space for translations.
+- Russian and German tend to have the longest translations, and the longest words. Get familiar with the shy-hyphen ­ character. You put it in the words html and it will only break the word/show the hyphen when necessary. Google “online hyphenation tool” so you know the appropriate places to break the word.
+- you need to translate numbers with decimals because the period appears as a comma in some languages.
+- same goes for percent signs. Sometimes the % shows before the number, and not after. There might be a space between the number and %. It might show as %-KAL in Hungarian.
+- Greek question marks look like a semicolon, that one really threw me off when I first saw it.
 
 ## ✍️ Translation agencies
 
