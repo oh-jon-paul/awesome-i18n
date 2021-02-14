@@ -122,6 +122,7 @@ Translate is a component for React that utilizes the Counterpart module and the 
 ### 🤖 Localization CLI Tools
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [simplelocalize-cli](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extract translation keys and messages from various different libraries
+- [IntelliJ plugin for extractin i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ idea i18next support plugin works with many frameworks and i18n libraries
 
 ### ☁️ Translation Management Systems
 
