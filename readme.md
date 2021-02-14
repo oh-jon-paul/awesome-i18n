@@ -177,6 +177,7 @@ Translate is a component for React that utilizes the Counterpart module and the 
 - You need to translate numbers with decimals and commas because they are reversed in some languages (period appears as a comma, comma as a period).
 - Same goes for percent signs. Sometimes the % shows before the number, and not after. There might be a space between the number and %. It might show as %-KAL in Hungarian.
 - Greek question marks look like a semicolon.
+- Always keep datetimes in database in UTC. Always return datatimes from backend in UTC. Adjust datetimes on UI layer using timezone information from user or web browser. Accept datetimes in backend with any timezone.
 
 
 ## ✍️ Translation agencies
