@@ -58,7 +58,7 @@
 * [International Telephone Input](http://jackocnr.com/intl-tel-input.html) plugin for entering and validating international telephone numbers. 
 * [lisan.js](http://lisanjs.com) fast and small i18n library
 * [Polyglot.js](http://airbnb.io/polyglot.js/) Make your application speak multiple languages
-* [c-3po.js](http://c-3po.js.org) library for translations based on ES6 template literals
+* [ttag](https://ttag.js.org/) library for translations based on ES6 template literals
 - [i18n Ally](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
 * [Angular NGX Translate](http://www.ngx-translate.com) Angular translation library
 - [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
