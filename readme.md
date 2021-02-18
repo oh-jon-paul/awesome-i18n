@@ -42,7 +42,7 @@
 * [What is 'hreflang'](https://simplelocalize.io/blog/posts/what-is-hreflang/)
 
 
-## 📚 Libraries
+## 📚 i18n Libraries
 
 ### JavaScript
 
@@ -117,14 +117,17 @@ Translate is a component for React that utilizes the Counterpart module and the 
 - [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - a flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
 
-## 👩‍💻 Tools and services
 
-### 🤖 Localization CLI Tools
+## 🔦 Message and key extraction
+
+Tools used to search translation key usage in project files. Usually they extract translation keys to some file which can be imported later to [translation management system](#)
+
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [simplelocalize-cli](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extract translation keys and messages from various different libraries
 - [IntelliJ plugin for extractin i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ idea i18next support plugin works with many frameworks and i18n libraries
 
-### ☁️ Translation Management Systems
+
+## ☁️ Translation Management Systems
 
 * [memsource](https://www.memsource.com) - localization service for corporate.
 * [localizejs](https://localizejs.com) - web-based platform for big companies.
@@ -137,7 +140,7 @@ Translate is a component for React that utilizes the Counterpart module and the 
 - [Zanata](http://zanata.org/) - web translation platform for translators and developers to manage localisations.
 - [Traduora](https://github.com/traduora/traduora) - a platform for manage translations.
 
-### 🖥 Desktop apps
+## 🖥 Desktop apps for translation management
 * [GNU gettext](http://www.gnu.org/software/gettext/) - tool for adding native language support to applications
 - [RTranslator](https://github.com/niedev/RTranslator) - simultaneous translator app for Android based on Google's API.
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - a simple and lightweight desktop translator. Allows to translate and speak text using Google, Yandex and Bing translate API.
