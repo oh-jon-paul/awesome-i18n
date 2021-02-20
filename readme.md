@@ -2,6 +2,8 @@
 
 > A curated list of i18n tools, i18n libraries, localization software, localization programs and translation management systems.
 
+If you want to add something just modify [readme.md](readme.md) file and wait for merge ☺️ We don't use any weird scripts, simple, useful list with great content! Enjoy!
+
 
 ## 📦 Contents
 
@@ -36,13 +38,7 @@
 * translation key - element in source code which is used by i18n library to replace it with translation message
 * translation - translated text or message
 
-
-## 🕵️ SEO i18n 
-
-* [What is 'hreflang'](https://simplelocalize.io/blog/posts/what-is-hreflang/)
-
-
-## 📚 i18n Libraries
+## 📚 Libraries
 
 ### JavaScript
 
@@ -69,6 +65,7 @@
 
 
 ### ⚛️ React
+React apps and react localization is so popular so we decided to add a special section for it. Here is the list of react localization libraries:  
 
 * [react-translate](https://github.com/bloodyowl/react-translate) Internationalization for react
 - [react-native-localize](https://github.com/zoontek/react-native-localize) A toolbox for your React Native app localization
@@ -88,7 +85,7 @@ Translate is a component for React that utilizes the Counterpart module and the 
 
 
 
-### Java
+### Java 
 
 * [Thymeleaf](https://www.thymeleaf.org) - modern server-side Java template engine for both web and standalone environments.
 * [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage. 
@@ -120,7 +117,7 @@ Translate is a component for React that utilizes the Counterpart module and the 
 
 ## 🔦 Message and key extraction
 
-Tools used to search translation key usage in project files. Usually they extract translation keys to some file which can be imported later to [translation management system](#)
+Tools used to search translation key usage in project files. Usually they extract translation keys to some file which can be imported later to [translation management system](#-translation-management-systems)
 
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [simplelocalize-cli](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extract translation keys and messages from various different libraries
@@ -141,6 +138,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Traduora](https://github.com/traduora/traduora) - a platform for manage translations.
 
 ## 🖥 Desktop apps for translation management
+
 * [GNU gettext](http://www.gnu.org/software/gettext/) - tool for adding native language support to applications
 - [RTranslator](https://github.com/niedev/RTranslator) - simultaneous translator app for Android based on Google's API.
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - a simple and lightweight desktop translator. Allows to translate and speak text using Google, Yandex and Bing translate API.
@@ -163,16 +161,18 @@ Tools used to search translation key usage in project files. Usually they extrac
 * [Random Phone Number Generator](https://fakenumber.org/) - fake phone number generator
 * [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 
-## 📒 Blog posts, articles & others
+## 📒 Blog posts, articles, guides, docs
 
-* [What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/) - hreflang FAQ and explanation how to use it and why it is important for SEO
 - [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
 - [Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) - Blog post on dev.to about top 12 libraries for react localization
 - [Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html) - blog post with a warning on using different I18n backends in development/production
-
-## 🦮 Guides
+- [What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/) - hreflang FAQ and explanation how to use it and why it is important for SEO
 - [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
 - [Message extraction](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extracting translation keys from project files. JavaScript, Android, iOS/macOS
+* [Google Developers: Internationalization](https://developers.google.com/international/)
+* [Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available.
+* [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
+* [W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
 
 ## 💭 Community tips & tricks
 
@@ -184,6 +184,12 @@ Tools used to search translation key usage in project files. Usually they extrac
 - Always keep datetimes in database in UTC. Always return datatimes from backend in UTC. Adjust datetimes on UI layer using timezone information from user or web browser. Accept datetimes in backend with any timezone.
 
 
+## 🕵️ SEO 
+
+* [What is 'hreflang'](https://simplelocalize.io/blog/posts/what-is-hreflang/)
+
+Add you blog posts, articles or tips here!
+
 ## ✍️ Translation agencies
 
 [✌️Add your agency](https://github.com/jpomykala/awesome-i18n/issues/new)
@@ -194,13 +200,6 @@ Tools used to search translation key usage in project files. Usually they extrac
 * [Google Translate](https://translate.google.com)
 * [Microsoft Translator](https://www.microsoft.com/en-GB/translator/)
 * [DeepL](https://deepl.com)
-
-## 📘 Documetations
-
-* [Google Developers: Internationalization](https://developers.google.com/international/)
-* [Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available.
-* [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
-* [W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
 
 
 ## 🍿 Videos
