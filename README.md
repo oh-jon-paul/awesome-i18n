@@ -2,10 +2,10 @@
 
 > A curated list of i18n tools, i18n libraries, localization software, localization programs and translation management systems.
 
-If you want to add something just modify [readme.md](readme.md) file and wait for merge ☺️ We don't use any weird scripts, simple, useful list with great content! Enjoy!
+If you want to add something just modify [README.md](README.md) file and wait for a merge ☺️ Enjoy!
 
 
-## 📦 Contents
+#### Contents
 
 - [👩‍🎓 Acronyms and keywords](#-acronyms-and-keywords)
 - [🕵️ SEO i18n](#%EF%B8%8F-seo-i18n)
@@ -175,7 +175,8 @@ Tools used to search translation key usage in project files. Usually they extrac
 * [Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available.
 * [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
 * [W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
-* 
+
+
 ## 💭 Community tips & tricks
 
 - If you have tight layouts, my rough rule of thumb is to double the English text and make sure it fits. Then you will usually have enough space for translations.
