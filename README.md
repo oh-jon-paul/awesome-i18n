@@ -1,9 +1,10 @@
+![awesome-i18n](./awesome_i18n.png)
+
 # awesome-i18n [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of i18n tools, i18n libraries, localization software, localization programs and translation management systems.
 
 If you want to add something just modify [README.md](README.md) file and wait for a merge ☺️ Enjoy!
-
 
 #### Contents
 
