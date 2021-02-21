@@ -6,6 +6,8 @@
 
 If you want to add something just modify [README.md](README.md) file and wait for a merge ☺️ Enjoy!
 
+### Remember to give this repo a star! 🌟
+
 #### Contents
 
 - [👩‍🎓 Acronyms and keywords](#-acronyms-and-keywords)
