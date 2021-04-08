@@ -85,7 +85,7 @@ React apps and react localization is so popular so we decided to add a special s
 - [js-lingui](https://github.com/lingui/js-lingui) A readable, automated, and optimized (5 kb) internationalization for JavaScript
 - [react-translate-component](https://github.com/martinandert/react-translate-component) 
 Translate is a component for React that utilizes the Counterpart module and the Interpolate component to provide multi-lingual/localized text content.
-
+- [react-littera](https://github.com/DRFR0ST/react-littera) A lightweight library for robust translations using hooks. Some of the key features are dynamic templates, missing reports, auto locale detection and more
 
 
 ### Java 
