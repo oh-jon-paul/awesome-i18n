@@ -129,17 +129,17 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 ## ☁️ Translation Management Systems
 
-* [memsource](https://www.memsource.com) - localization service for corporate.
-* [localizejs](https://localizejs.com) - web-based platform for big companies.
-- [LocaleApp](https://www.localeapp.com/) - app localization and translation.
-* [SimpleLocalize.io](https://simplelocalize.io) - Easy to use cloud-based platform for translation management. Comes with workflow management support and CLI
 - [Crowdin](https://crowdin.com/) - closed source cloud-based localization service
-- [GitLocalize (sold)](https://gitlocalize.com/) - localization platform that syncs with your GitHub repository (sold to alconst)
+- [GitLocalize (sold)](https://gitlocalize.com/) - localization platform that syncs with your GitHub repository
+- [memsource](https://www.memsource.com) - localization service for corporates.
+- [localizejs](https://localizejs.com) - web-based platform for big companies.
+- [LocaleApp](https://www.localeapp.com/) - app localization and translation.
+- [SimpleLocalize](https://simplelocalize.io) - localization platform for translation management (offers open-source CLI)
 - [Transifex](https://www.transifex.com/) - web-based translation platform, globalization management system.
+- [Traduora](https://github.com/traduora/traduora) - a platform for manage translations.
 - [Weblate](https://weblate.org/) - platform for one of the most positive and empowering communities of libre software.
 - [Zanata](http://zanata.org/) - web translation platform for translators and developers to manage localisations.
-- [Traduora](https://github.com/traduora/traduora) - a platform for manage translations.
-
+- 
 ## 🖥 Desktop apps for translation management
 
 * [GNU gettext](http://www.gnu.org/software/gettext/) - tool for adding native language support to applications
