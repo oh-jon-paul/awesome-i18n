@@ -170,14 +170,15 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) - Blog post on dev.to about top 12 libraries for react localization
 - [Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html) - blog post with a warning on using different I18n backends in development/production
 - [What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/) - hreflang FAQ and explanation how to use it and why it is important for SEO
+- [Language vs Locale](https://simplelocalize.io/blog/posts/language-vs-locale/)
 - [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
 - [FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl) Example project built with React-intl and React.
 - [i18next example project](https://github.com/simplelocalize/simplelocalize-i18next) Example project built with i18next and React.
 - [Message extraction](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extracting translation keys from project files. JavaScript, Android, iOS/macOS
-* [Google Developers: Internationalization](https://developers.google.com/international/)
-* [Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available.
-* [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
-* [W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
+- [Google Developers: Internationalization](https://developers.google.com/international/)
+- [Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available.
+- [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
+- [W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
 
 
 ## 💭 Community tips & tricks
