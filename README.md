@@ -134,7 +134,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [memsource](https://www.memsource.com) - localization service for corporates.
 - [localizejs](https://localizejs.com) - web-based platform for big companies.
 - [LocaleApp](https://www.localeapp.com/) - app localization and translation.
-- [SimpleLocalize](https://simplelocalize.io) - localization platform for translation management (offers open-source CLI)
+- [SimpleLocalize](https://simplelocalize.io) - localization platform, offers free translation hosting and open-source CLI
 - [Transifex](https://www.transifex.com/) - web-based translation platform, globalization management system.
 - [Traduora](https://github.com/traduora/traduora) - a platform for manage translations.
 - [Weblate](https://weblate.org/) - platform for one of the most positive and empowering communities of libre software.
