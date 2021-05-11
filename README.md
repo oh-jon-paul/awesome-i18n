@@ -139,7 +139,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Traduora](https://github.com/traduora/traduora) - a platform for manage translations.
 - [Weblate](https://weblate.org/) - platform for one of the most positive and empowering communities of libre software.
 - [Zanata](http://zanata.org/) - web translation platform for translators and developers to manage localisations.
-- 
+
 ## 🖥 Desktop apps for translation management
 
 * [GNU gettext](http://www.gnu.org/software/gettext/) - tool for adding native language support to applications
