@@ -179,6 +179,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available.
 - [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
 - [W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
+- [How to properly internationalize a React application](https://dev.to/adrai/how-to-properly-internationalize-a-react-application-using-i18next-3hdb) - A simple tutorial on how to best use react-i18next. Some basics of i18next and some cool possibilities on how to optimize your localization workflow.
 
 
 ## 💭 Community tips & tricks
