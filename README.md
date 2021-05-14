@@ -175,7 +175,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl) Example project built with React-intl and React.
 - [i18next example project](https://github.com/simplelocalize/simplelocalize-i18next) Example project built with i18next and React.
 - [Extract messages and translation keys from project files](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extracting translation keys from project files. JavaScript, Android, iOS/macOS
-- [i18n With React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html)
+- [i18n With React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - React Intl is a popular internationalization library. This article demonstrates how to set it up in a new React project and how to manage translations with SimpleLocalize.
 - [Google Developers: Internationalization](https://developers.google.com/international/)
 - [Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available.
 - [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
