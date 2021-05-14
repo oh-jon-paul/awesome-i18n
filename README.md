@@ -62,13 +62,12 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 ### React & React Native
 React apps and react localization is so popular so we decided to add a special section for it. Here is the list of react localization libraries:  
 
-- [FormatJS](https://formatjs.io) - internationalize your web apps with react-intl library
-- [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
-- [js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized (5 kb) internationalization for JavaScript
 - [next-translate](https://github.com/vinissimus/next-translate) - easy i18n for Next.js +10
 - [react-translate](https://github.com/bloodyowl/react-translate) - internationalization for react
 - [react-native-localize](https://github.com/zoontek/react-native-localize) - toolbox for your React Native app localization
 - [react-localization](https://github.com/stefalda/react-localization) - simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module
+- [react-intl](https://formatjs.io) - internationalize your web apps with react-intl library
+- [react-intl (CLI)](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [react-i18nify](https://github.com/sealninja/react-i18nify) - simple i18n translation and localization components and helpers for React
 - [react-i18next](https://react.i18next.com/) - internationalization framework for React and React Native which is based on i18next
 - [react-persian](https://github.com/evandhq/react-persian) - set of react components for Persian localization
