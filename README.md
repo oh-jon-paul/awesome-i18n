@@ -12,6 +12,7 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 
 - [👩‍🎓 Acronyms and keywords](#-acronyms-and-keywords)
 - [📦 Libraries](#-libraries)
+- [☁️ Translation management systems](#%EF%B8%8F-translation-management-systems)
 - [📅 Dates & Times & Telephone](#-date-time-telephone)
 - [📚 Blog posts & articles](#-blog-posts-articles--others)
 - [💭 Community Tips & tricks](#-community-tips--tricks)
@@ -24,7 +25,7 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 ### 🧐 Acronyms
 * i18n - internationalization
 * l10n - localization
-* xl8 - group of [translation management systems](#translation-management-system)
+* xl8 - group of [translation management systems](#%EF%B8%8F-translation-management-systems)
 * t9n - translation
 * g11n - globalization
 * m17n - multilingualization
@@ -110,7 +111,7 @@ React apps and react localization is so popular so we decided to add a special s
 
 ### Ruby
 
-* [TwitterCLDR](https://github.com/twitter/twitter-cldr-rb) implementation of the ICU that uses the Common Locale Data Repository to format dates, plurals
+- [TwitterCLDR](https://github.com/twitter/twitter-cldr-rb) implementation of the ICU that uses the Common Locale Data Repository to format dates, plurals
 - [Ruby i18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API
 
 ### Python
