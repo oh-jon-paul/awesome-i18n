@@ -150,7 +150,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 * [GNU gettext](http://www.gnu.org/software/gettext/) - tool for adding native language support to applications
 - [RTranslator](https://github.com/niedev/RTranslator) - simultaneous translator app for Android based on Google's API
-- [Crow Translate](https://github.com/crow-translate/crow-translate) - a simple and lightweight desktop translator. Allows to translate and speak text using Google, Yandex and Bing translate API
+- [Crow Translate](https://github.com/crow-translate/crow-translate) - simple and lightweight desktop translator. Allows to translate and speak text using Google, Yandex and Bing translate API
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - cross-platform app that automatically translate texts when copied in the clipboard
 - [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - cross-platform i18n manager
 - [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux
@@ -172,12 +172,12 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) - Blog post on dev.to about top 12 libraries for react localization
 - [Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html) - blog post with a warning on using different I18n backends in development/production
 - [What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/) - hreflang FAQ and explanation how to use it and why it is important for SEO
-- [Language vs Locale](https://simplelocalize.io/blog/posts/language-vs-locale/)
+- [Language vs Locale](https://simplelocalize.io/blog/posts/language-vs-locale/) - what is the difference between language and locale
 - [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide
 - [FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl) - example project built with React-intl and React
 - [i18next example project](https://github.com/simplelocalize/simplelocalize-i18next) - example project built with i18next and React
 - [Extract messages and translation keys from project files](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extracting translation keys from project files. JavaScript, Android, iOS/macOS
-- [i18n With React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - React Intl is a popular internationalization library. This article demonstrates how to set it up in a new React project and how to manage translations with SimpleLocalize
+- [i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - React Intl is a popular internationalization library. This article demonstrates how to set it up in a new React project and how to manage translations with SimpleLocalize
 - [Google Developers: Internationalization](https://developers.google.com/international/)
 - [Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available
 - [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications
