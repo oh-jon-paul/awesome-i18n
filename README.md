@@ -11,10 +11,9 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 #### Contents
 
 - [👩‍🎓 Acronyms and keywords](#-acronyms-and-keywords)
-- [📚 Libraries](#-libraries)
-- [📅 Dates & Times & Telephone](#-dates-and-times)
-- [📒 Blog posts & articles](#-blog-posts-articles--others)
-- [🦮 Guides](#-guides)
+- [📦 Libraries](#-libraries)
+- [📅 Dates & Times & Telephone](#-date-time-telephone)
+- [📚 Blog posts & articles](#-blog-posts-articles--others)
 - [💭 Community Tips & tricks](#-community-tips--tricks)
 - [✍️ Translation agencies](#%EF%B8%8F-translation-agencies)
 - [🦾 Automated translations](#-automated-translations)
@@ -37,7 +36,7 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 * translation key - element in source code which is used by i18n library to replace it with translation message
 * translation - translated text or message
 
-## 📚 Libraries
+## 📦 Libraries
 
 ### JavaScript in general
 
@@ -48,20 +47,20 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 - [FormatJS](https://formatjs.io) - internationalize your web apps on the client & server
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
-- [Globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
 - [Intl.js](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - [International Telephone Input](http://jackocnr.com/intl-tel-input.html) - plugin for entering and validating international telephone numbers
 - [i18next](https://www.i18next.com) - internationalization framework for browser or any other JavaScript environment
 - [i18n-ally](https://github.com/antfu/i18n-ally) - extension for VSCode, all in one about i18n
-- [js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized (5kb) internationalization
+- [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
 - [Jed](http://slexaxton.github.io/Jed/) - Gettext Style i18n
 - [lisan.js](http://lisanjs.com) - fast and small i18n library
+- [lingui/js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized (5kb) internationalization
 - [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension
 - [npm i18n](https://www.npmjs.com/package/i18n) - lightweight simple translation module with dynamic json storage
 - [ttag](https://ttag.js.org/) - library for translations based on ES6 template literals
 
 
-### ⚛️ React
+### React & React Native
 React apps and react localization is so popular so we decided to add a special section for it. Here is the list of react localization libraries:  
 
 - [FormatJS](https://formatjs.io) - internationalize your web apps with react-intl library
@@ -89,7 +88,7 @@ React apps and react localization is so popular so we decided to add a special s
 
 - [Angular NGX Translate](http://www.ngx-translate.com) - translation library for Angular
 
-### Quasar
+### Quasar Framework
 
 - [Official Quasar i18n](https://quasar.dev/options/app-internationalization) - app internationalization in Quasar framework
 
@@ -167,7 +166,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Random Phone Number Generator](https://fakenumber.org/) - fake phone number generator
 - [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 
-## 📒 Blog posts, articles, guides, docs, examples
+## 📚 Blog posts, articles, guides, docs, examples
 
 - [Stackoverflow: Localization vs Internationalization](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
 - [Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) - Blog post on dev.to about top 12 libraries for react localization
