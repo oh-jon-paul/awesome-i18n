@@ -65,7 +65,7 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 - [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
 - [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
 - [eo-locale](https://github.com/ibitcy/eo-locale) Elegant lightweight library based on Internationalization API
-- [i18next](https://i18next.com) A very popular internationalization framework for browser or any other javascript environment (eg. Node.js, Deno).
+- [i18next](https://www.i18next.com) - A very popular internationalization framework for browser or any other javascript environment (eg. Node.js, Deno).
 
 
 ### ⚛️ React
@@ -78,7 +78,7 @@ React apps and react localization is so popular so we decided to add a special s
 - [react-localization](https://github.com/stefalda/react-localization) Simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module.
 - [react-i18nify](https://github.com/sealninja/react-i18nify) Simple i18n translation and localization components and helpers for React
 - [react-persian](https://github.com/evandhq/react-persian) react-persian is a set of react components for Persian localization
-- [react-i18next](https://react.i18next.com/) - internationalization framework for React / React Native which is based on [i18next](https://i18next.com)
+- [react-i18next](https://react.i18next.com/) - internationalization framework for React / React Native which is based on [i18next](https://www.i18next.com)
 - [next-translate](https://github.com/vinissimus/next-translate) Easy i18n for Next.js +10
 - [react-translated](https://github.com/amsul/react-translated) A dead simple way to add complex translations in a React project
 - [react-intl hooks](https://github.com/CreateThrive/react-intl-hooks) React-intl-hooks is a small and fast library that you can use to replace Format.js components. 
