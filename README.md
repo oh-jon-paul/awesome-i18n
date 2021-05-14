@@ -94,11 +94,11 @@ React apps and react localization is so popular so we decided to add a special s
 
 ### Java 
 
-* [Thymeleaf](https://www.thymeleaf.org) - modern server-side Java template engine for both web and standalone environments.
-* [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage. 
-* [Thymeleaf i18n docs](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts) using `th:texts` for translations
-* [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) Baeldun post about using Spring Messages
-* [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) Stackoverflow thread
+* [Thymeleaf](https://www.thymeleaf.org) - modern server-side Java template engine for both web and standalone environments
+* [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) - Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage
+* [Thymeleaf i18n docs](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts) - How to use `th:texts` for translations
+* [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) - Baeldun post about using Spring Messages
+* [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) - Stackoverflow thread about i18n in Spring Boot
 
 
 ### Jekyll
@@ -108,12 +108,12 @@ React apps and react localization is so popular so we decided to add a special s
 
 ### Swift (iOS & macOS)
 
-- [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
+- [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - framework to use cloud translation API by Google in Swift
 
 ### Ruby
 
 * [TwitterCLDR](https://github.com/twitter/twitter-cldr-rb) implementation of the ICU that uses the Common Locale Data Repository to format dates, plurals
-- [Ruby i18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API.
+- [Ruby i18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API
 
 ### Python
 
@@ -141,7 +141,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [SimpleLocalize](https://simplelocalize.io) - localization platform, offers free translation hosting and open-source CLI
 - [Stringify](http://stringify.app) - cloud-based localization and translation platform
 - [Transifex](https://www.transifex.com/) - web-based translation platform, globalization management system
-- [Traduora](https://github.com/traduora/traduora) - a platform for manage translations
+- [Traduora](https://github.com/traduora/traduora) - platform for manage translations
 - [Weblate](https://weblate.org/) - platform for one of the most positive and empowering communities of libre software
 - [Zanata](http://zanata.org/) - web translation platform for translators and developers to manage localisations
 
@@ -160,7 +160,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 ## 📅 Date, Time, Telephone
 
-- [Luxon](https://moment.github.io/luxon/) - a powerful, modern, and friendly wrapper for Javascript dates and times
+- [Luxon](https://moment.github.io/luxon/) - powerful, modern, and friendly wrapper for Javascript dates and times
 - [Daylight saving time and time-zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
 - [date-fns](https://date-fns.org) - modern JavaScript date utility library
 - [Random Phone Number Generator](https://fakenumber.org/) - fake phone number generator
@@ -173,16 +173,16 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html) - blog post with a warning on using different I18n backends in development/production
 - [What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/) - hreflang FAQ and explanation how to use it and why it is important for SEO
 - [Language vs Locale](https://simplelocalize.io/blog/posts/language-vs-locale/)
-- [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
-- [FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl) Example project built with React-intl and React.
-- [i18next example project](https://github.com/simplelocalize/simplelocalize-i18next) Example project built with i18next and React.
+- [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide
+- [FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl) - example project built with React-intl and React
+- [i18next example project](https://github.com/simplelocalize/simplelocalize-i18next) - example project built with i18next and React
 - [Extract messages and translation keys from project files](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extracting translation keys from project files. JavaScript, Android, iOS/macOS
-- [i18n With React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - React Intl is a popular internationalization library. This article demonstrates how to set it up in a new React project and how to manage translations with SimpleLocalize.
+- [i18n With React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - React Intl is a popular internationalization library. This article demonstrates how to set it up in a new React project and how to manage translations with SimpleLocalize
 - [Google Developers: Internationalization](https://developers.google.com/international/)
-- [Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available.
-- [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
+- [Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available
+- [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications
 - [W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
-- [How to properly internationalize a React application](https://dev.to/adrai/how-to-properly-internationalize-a-react-application-using-i18next-3hdb) - A simple tutorial on how to best use react-i18next. Some basics of i18next and some cool possibilities on how to optimize your localization workflow.
+- [How to properly internationalize a React application](https://dev.to/adrai/how-to-properly-internationalize-a-react-application-using-i18next-3hdb) - simple tutorial on how to best use react-i18next. Some basics of i18next and some cool possibilities on how to optimize your localization workflow
 
 
 ## 💭 Community tips & tricks
@@ -211,13 +211,13 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 #### Internationalis(z)ing Code - Computerphile
 
-![youttube internationalization](youtube-computerphile-internationalization.png)
+![youtube computerphile about internationalization](youtube-computerphile-internationalization.png)
 
 Link: https://www.youtube.com/watch?v=0j74jcxSunY
 
 #### The Problem with Time & Timezones - Computerphile
 
-![youttube internationalization](youtube-computerphile-timezones.png)
+![youtube computerphile about timezones](youtube-computerphile-timezones.png)
 
 Link: https://www.youtube.com/watch?v=-5wpm-gesOY
 
