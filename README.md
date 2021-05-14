@@ -46,13 +46,11 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 - [facebook/fbt](https://github.com/facebook/fbt) - internationalization framework for JavaScript designed to be not just powerful and flexible, but also simple and intuitive
 - [FormatJS](https://formatjs.io) - internationalize your web apps on the client & server
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
-- [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 - [Intl.js](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
-- [International Telephone Input](http://jackocnr.com/intl-tel-input.html) - plugin for entering and validating international telephone numbers
 - [i18next](https://www.i18next.com) - internationalization framework for browser or any other JavaScript environment
 - [i18n-ally](https://github.com/antfu/i18n-ally) - extension for VSCode, all in one about i18n
 - [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
-- [Jed](http://slexaxton.github.io/Jed/) - Gettext Style i18n
+- [Jed](http://slexaxton.github.io/Jed/) - Gettext style i18n library
 - [lisan.js](http://lisanjs.com) - fast and small i18n library
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized (5kb) internationalization
 - [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension
@@ -165,6 +163,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [date-fns](https://date-fns.org) - modern JavaScript date utility library
 - [Random Phone Number Generator](https://fakenumber.org/) - fake phone number generator
 - [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
+- [International Telephone Input](http://jackocnr.com/intl-tel-input.html) - plugin for entering and validating international telephone numbers
 
 ## 📚 Blog posts, articles, guides, docs, examples
 
