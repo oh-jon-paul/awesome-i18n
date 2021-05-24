@@ -57,7 +57,7 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 - [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension
 - [npm i18n](https://www.npmjs.com/package/i18n) - lightweight simple translation module with dynamic json storage
 - [ttag](https://ttag.js.org/) - library for translations based on ES6 template literals
-- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - An opinionated, fully type-safe, lightweight localization library for TypeScript projects with no external dependencies.
+- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - An opinionated, fully type-safe, lightweight localization library for TypeScript projects with no external dependencies
 
 
 ### React & React Native
@@ -77,7 +77,7 @@ React apps and react localization is so popular so we decided to add a special s
 - [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) - localization library for handling translations
 - [react-translate-component](https://github.com/martinandert/react-translate-component) - component for React that utilizes the Counterpart module and the Interpolate component to provide multi-lingual/localized text content
 - [react-littera](https://github.com/DRFR0ST/react-littera) - lightweight library for robust translations using hooks. Some of the key features are dynamic templates, missing reports, auto-locale detection and more
-- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - An opinionated, fully type-safe, lightweight localization library for TypeScript projects with no external dependencies.
+- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - An opinionated, fully type-safe, lightweight localization library for TypeScript projects with no external dependencies
 
 
 ### VueJS
@@ -91,7 +91,7 @@ React apps and react localization is so popular so we decided to add a special s
 ### Svelte
 
 - [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization for Svelte
-- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - An opinionated, fully type-safe, lightweight localization library for TypeScript projects with no external dependencies.
+- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - An opinionated, fully type-safe, lightweight localization library for TypeScript projects with no external dependencies
 
 ### Quasar Framework
 
@@ -189,7 +189,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications
 - [W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
 - [How to properly internationalize a React application](https://dev.to/adrai/how-to-properly-internationalize-a-react-application-using-i18next-3hdb) - simple tutorial on how to best use react-i18next. Some basics of i18next and some cool possibilities on how to optimize your localization workflow
-- [i18n - my journey to a simple, powerful and type-safe solution](https://dev.to/ivanhofer/i18n-my-journey-to-a-simple-powerful-and-type-safe-solution-2c46) - motivation on how the [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) library was created, with some examples.
+- [i18n - my journey to a simple, powerful and type-safe solution](https://dev.to/ivanhofer/i18n-my-journey-to-a-simple-powerful-and-type-safe-solution-2c46) - motivation on how the [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) library was created, with some examples
 
 
 ## 💭 Community tips & tricks
