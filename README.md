@@ -41,7 +41,7 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 
 ### JavaScript in general
 
-- [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper library written in JavaScript, made to work both in the browser and in CommonJS environments. It provides a simple solution for interpolation and pluralization, based off of Airbnb’s experience 
+- [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper library written in JavaScript, made to work both in the browser and in CommonJS environments. It provides a simple solution for interpolation and pluralization, based off of Airbnb’s experience
 - [eo-locale](https://github.com/ibitcy/eo-locale) - elegant lightweight library based on Internationalization API
 - [ECMAScript Internationalization API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) - documentation what standard `intl` object in JS can do
 - [facebook/fbt](https://github.com/facebook/fbt) - internationalization framework for JavaScript designed to be not just powerful and flexible, but also simple and intuitive
@@ -61,7 +61,7 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 
 
 ### React & React Native
-React apps and react localization is so popular so we decided to add a special section for it. Here is the list of react localization libraries:  
+React apps and react localization is so popular so we decided to add a special section for it. Here is the list of react localization libraries:
 
 - [next-translate](https://github.com/vinissimus/next-translate) - easy i18n for Next.js +10
 - [react-translate](https://github.com/bloodyowl/react-translate) - internationalization for react
@@ -73,7 +73,7 @@ React apps and react localization is so popular so we decided to add a special s
 - [react-i18next](https://react.i18next.com/) - internationalization framework for React and React Native which is based on i18next
 - [react-persian](https://github.com/evandhq/react-persian) - set of react components for Persian localization
 - [react-translated](https://github.com/amsul/react-translated) - dead simple way to add complex translations
-- [react-intl-hooks](https://github.com/CreateThrive/react-intl-hooks) - small and fast library that you can use to replace FormatJS components. 
+- [react-intl-hooks](https://github.com/CreateThrive/react-intl-hooks) - small and fast library that you can use to replace FormatJS components.
 - [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) - localization library for handling translations
 - [react-translate-component](https://github.com/martinandert/react-translate-component) - component for React that utilizes the Counterpart module and the Interpolate component to provide multi-lingual/localized text content
 - [react-littera](https://github.com/DRFR0ST/react-littera) - lightweight library for robust translations using hooks. Some of the key features are dynamic templates, missing reports, auto-locale detection and more
@@ -97,7 +97,7 @@ React apps and react localization is so popular so we decided to add a special s
 
 - [Official Quasar i18n](https://quasar.dev/options/app-internationalization) - app internationalization in Quasar framework
 
-### Java 
+### Java
 
 * [Thymeleaf](https://www.thymeleaf.org) - modern server-side Java template engine for both web and standalone environments
 * [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) - Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage
@@ -137,6 +137,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 ## ☁️ Translation Management Systems
 
+- [Texterify](https://texterify.com) - web-based translation and localization management system
 - [Crowdin](https://crowdin.com/) - closed source cloud-based localization service
 - [GitLocalize (sold)](https://gitlocalize.com/) - localization platform that syncs with your GitHub repository
 - [memsource](https://www.memsource.com) - localization service for corporates
