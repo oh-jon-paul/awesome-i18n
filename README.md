@@ -137,7 +137,6 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 ## ☁️ Translation Management Systems
 
-- [Texterify](https://texterify.com) - web-based translation and localization management system
 - [Crowdin](https://crowdin.com/) - closed source cloud-based localization service
 - [GitLocalize (sold)](https://gitlocalize.com/) - localization platform that syncs with your GitHub repository
 - [memsource](https://www.memsource.com) - localization service for corporates
@@ -148,6 +147,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Stringify](http://stringify.app) - cloud-based localization and translation platform
 - [Transifex](https://www.transifex.com/) - web-based translation platform, globalization management system
 - [Traduora](https://github.com/traduora/traduora) - platform for manage translations
+- [Texterify](https://texterify.com) - web-based translation and localization management system
 - [Weblate](https://weblate.org/) - platform for one of the most positive and empowering communities of libre software
 - [Zanata](http://zanata.org/) - web translation platform for translators and developers to manage localisations
 
