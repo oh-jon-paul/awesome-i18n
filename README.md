@@ -13,7 +13,7 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 - [👩‍🎓 Acronyms and keywords](#-acronyms-and-keywords)
 - [📦 Libraries](#-libraries)
 - [☁️ Translation management systems](#%EF%B8%8F-translation-management-systems)
-- [📅 Dates & Times & Telephone](#-date-time-telephone)
+- [📅 Utility libraries](#-utility-libraries)
 - [📚 Blog posts & articles](#-blog-posts-articles--others)
 - [💭 Community Tips & tricks](#-community-tips--tricks)
 - [✍️ Translation agencies](#%EF%B8%8F-translation-agencies)
@@ -41,9 +41,9 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 
 ### JavaScript in general
 
-- [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper library written in JavaScript, made to work both in the browser and in CommonJS environments. It provides a simple solution for interpolation and pluralization, based off of Airbnb’s experience
+- [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper library written in JavaScript, made to work both in the browser and in CommonJS environments
 - [eo-locale](https://github.com/ibitcy/eo-locale) - elegant lightweight library based on Internationalization API
-- [ECMAScript Internationalization API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) - documentation what standard `intl` object in JS can do
+- [ECMAScript Internationalization API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) - documentation for standard `intl` object from JavaScript
 - [facebook/fbt](https://github.com/facebook/fbt) - internationalization framework for JavaScript designed to be not just powerful and flexible, but also simple and intuitive
 - [FormatJS](https://formatjs.io) - internationalize your web apps on the client & server
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
@@ -53,15 +53,15 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 - [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
 - [Jed](http://slexaxton.github.io/Jed/) - Gettext style i18n library
 - [lisan.js](http://lisanjs.com) - fast and small i18n library
-- [lingui/js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized (5kb) internationalization
-- [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension
-- [npm i18n](https://www.npmjs.com/package/i18n) - lightweight simple translation module with dynamic json storage
+- [lingui/js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized internationalization
+- [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - internationalize your browser extension. APIs to get localized strings from locale files
+- [npm i18n](https://www.npmjs.com/package/i18n) - lightweight simple translation module with dynamic JSON storage
 - [ttag](https://ttag.js.org/) - library for translations based on ES6 template literals
 - [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - An opinionated, fully type-safe, lightweight localization library for TypeScript projects with no external dependencies
 
 
 ### React & React Native
-React apps and react localization is so popular so we decided to add a special section for it. Here is the list of react localization libraries:
+React apps and react localization is so popular so we decided to add a special section for it. Here is the list of react localization libraries:  
 
 - [next-translate](https://github.com/vinissimus/next-translate) - easy i18n for Next.js +10
 - [react-translate](https://github.com/bloodyowl/react-translate) - internationalization for react
@@ -73,11 +73,10 @@ React apps and react localization is so popular so we decided to add a special s
 - [react-i18next](https://react.i18next.com/) - internationalization framework for React and React Native which is based on i18next
 - [react-persian](https://github.com/evandhq/react-persian) - set of react components for Persian localization
 - [react-translated](https://github.com/amsul/react-translated) - dead simple way to add complex translations
-- [react-intl-hooks](https://github.com/CreateThrive/react-intl-hooks) - small and fast library that you can use to replace FormatJS components.
+- [react-intl-hooks](https://github.com/CreateThrive/react-intl-hooks) - small and fast library that you can use to replace FormatJS components. 
 - [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) - localization library for handling translations
 - [react-translate-component](https://github.com/martinandert/react-translate-component) - component for React that utilizes the Counterpart module and the Interpolate component to provide multi-lingual/localized text content
 - [react-littera](https://github.com/DRFR0ST/react-littera) - lightweight library for robust translations using hooks. Some of the key features are dynamic templates, missing reports, auto-locale detection and more
-- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - An opinionated, fully type-safe, lightweight localization library for TypeScript projects with no external dependencies
 
 
 ### VueJS
@@ -86,24 +85,23 @@ React apps and react localization is so popular so we decided to add a special s
 
 ### Angular
 
-- [Angular NGX Translate](http://www.ngx-translate.com) - translation library for Angular
+- [NGX Translate](http://www.ngx-translate.com) - translation library for Angular
 
 ### Svelte
 
-- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization for Svelte
-- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - An opinionated, fully type-safe, lightweight localization library for TypeScript projects with no external dependencies
+- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - internationalization for Svelte
 
-### Quasar Framework
+### Quasar.dev
 
-- [Official Quasar i18n](https://quasar.dev/options/app-internationalization) - app internationalization in Quasar framework
+- [Quasar i18n](https://quasar.dev/options/app-internationalization) - official Quasar framework document page about internationalization
 
-### Java
+### Java 
 
-* [Thymeleaf](https://www.thymeleaf.org) - modern server-side Java template engine for both web and standalone environments
-* [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) - Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage
-* [Thymeleaf i18n docs](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts) - How to use `th:texts` for translations
-* [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) - Baeldun post about using Spring Messages
-* [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) - Stackoverflow thread about i18n in Spring Boot
+- [Thymeleaf](https://www.thymeleaf.org) - modern server-side Java template engine for both web and standalone environments
+- [Thymeleaf i18n docs](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts) - How to use `th:texts` for translations
+- [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) - Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage
+- [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) - Baeldun post about using Spring Messages
+- [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) - Stackoverflow thread about i18n in Spring Boot
 
 
 ### Jekyll
@@ -117,13 +115,13 @@ React apps and react localization is so popular so we decided to add a special s
 
 ### Ruby
 
-- [TwitterCLDR](https://github.com/twitter/twitter-cldr-rb) implementation of the ICU that uses the Common Locale Data Repository to format dates, plurals
-- [Ruby i18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API
+- [Twitter/CLDR](https://github.com/twitter/twitter-cldr-rb) - implementation of the ICU that uses the Common Locale Data Repository to format dates, plurals
+- [Ruby i18n](https://guides.rubyonrails.org/i18n.html) - official internationalization API document page
 
 ### Python
 
-- [Python-i18n](https://pypi.org/project/python-i18n/) - internationalization (i18n) package
-- [deep-translator](https://github.com/nidhaloff/deep-translator) - flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt
+- [Python-i18n](https://pypi.org/project/python-i18n/) - internationalization package
+- [deep-translator](https://github.com/nidhaloff/deep-translator) - library to translate between different languages in a simple way using multiple translators
 
 
 ## 🔦 Message and key extraction
@@ -137,60 +135,57 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 ## ☁️ Translation Management Systems
 
-- [Crowdin](https://crowdin.com/) - closed source cloud-based localization service
-- [GitLocalize (sold)](https://gitlocalize.com/) - localization platform that syncs with your GitHub repository
-- [memsource](https://www.memsource.com) - localization service for corporates
-- [localizejs](https://localizejs.com) - web-based platform for big companies
-- [LocaleApp](https://www.localeapp.com/) - app localization and translation
-- [locize](https://locize.com) - pay-per-use continuous localization management platform
-- [SimpleLocalize](https://simplelocalize.io) - localization platform, offers free translation hosting and open-source CLI
-- [Stringify](http://stringify.app) - cloud-based localization and translation platform
-- [Transifex](https://www.transifex.com/) - web-based translation platform, globalization management system
-- [Traduora](https://github.com/traduora/traduora) - platform for manage translations
-- [Texterify](https://texterify.com) - web-based translation and localization management system
-- [Weblate](https://weblate.org/) - platform for one of the most positive and empowering communities of libre software
-- [Zanata](http://zanata.org/) - web translation platform for translators and developers to manage localisations
+- [Crowdin](https://crowdin.com) - web-based localization service for open source
+- [GitLocalize](https://gitlocalize.com) - localization platform that syncs with your GitHub repository
+- [Memsource](https://www.memsource.com) - localization service for enterprise systems
+- [Localizejs](https://localizejs.com) - web-based platform for enterprise systems
+- [LocaleApp](https://www.localeapp.com) - localization and translation
+- [Locize](https://locize.co) - localization management platform
+- [SimpleLocalize](https://simplelocalize.io) - translation management with free translation hosting and open-source CLI
+- [Transifex](https://www.transifex.com) - web-based translation platform, globalization management system
+- [Traduora](https://github.com/ever-co/ever-traduora) - platform for translations management
+- [Weblate](https://weblate.org) - web-based platform for localization
+- [Zanata](http://zanata.org) - web-based translation platform for translators, content creators and developers
 
 
 ## 🖥 Desktop apps for translation management
 
-* [GNU gettext](http://www.gnu.org/software/gettext/) - tool for adding native language support to applications
+- [Argos Translate](https://github.com/argosopentech/argos-translate) - open source offline translation app based on OpenNMT
+- [GNU gettext](http://www.gnu.org/software/gettext) - tool for adding native language support to applications
 - [RTranslator](https://github.com/niedev/RTranslator) - simultaneous translator app for Android based on Google's API
-- [Crow Translate](https://github.com/crow-translate/crow-translate) - simple and lightweight desktop translator. Allows to translate and speak text using Google, Yandex and Bing translate API
+- [Crow Translate](https://github.com/crow-translate/crow-translate) - lightweight desktop translator, uses Google, Yandex and Bing translate API.
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - cross-platform app that automatically translate texts when copied in the clipboard
 - [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - cross-platform i18n manager
-- [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux
-- [Argos Translate](https://github.com/argosopentech/argos-translate) - open source offline translation app based on OpenNMT
+- [OmegaT](https://omegat.org) - free translation memory application that works on all popular operating systems
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - self-hosted web application to translate texts
+- [POEditor](https://poeditor.com) - tool for managing PO language files
 
 
-## 📅 Date, Time, Telephone
+## 📅 Utility libraries
 
-- [Luxon](https://moment.github.io/luxon/) - powerful, modern, and friendly wrapper for Javascript dates and times
+- [Luxon](https://moment.github.io/luxon/) - powerful, modern, and friendly wrapper for JavaScript dates and times (replaces momentjs)
 - [Daylight saving time and time-zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
 - [date-fns](https://date-fns.org) - modern JavaScript date utility library
-- [Random Phone Number Generator](https://fakenumber.org/) - fake phone number generator
+- [Random Phone Number Generator](https://fakenumber.org) - fake phone number generator
 - [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
-- [International Telephone Input](http://jackocnr.com/intl-tel-input.html) - plugin for entering and validating international telephone numbers
+- [International Telephone Input](http://jackocnr.com/intl-tel-input.html) - plugin for entering and validating international phone numbers
 
 ## 📚 Blog posts, articles, guides, docs, examples
 
 - [Stackoverflow: Localization vs Internationalization](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
-- [Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) - Blog post on dev.to about top 12 libraries for react localization
-- [Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html) - blog post with a warning on using different I18n backends in development/production
-- [What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/) - hreflang FAQ and explanation how to use it and why it is important for SEO
-- [Language vs Locale](https://simplelocalize.io/blog/posts/language-vs-locale/) - what is the difference between language and locale
-- [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide
-- [FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl) - example project built with React-intl and React
-- [i18next example project](https://github.com/simplelocalize/simplelocalize-i18next) - example project built with i18next and React
+- [DevTo: Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) - Blog post on dev.to about top 12 libraries for react localization
+- [Blog post: Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html) - blog post with a warning on using different I18n backends in development/production
+- [Blog post: What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/) - hreflang FAQ and explanation how to use it and why it is important for SEO
+- [Blog post: Language vs Locale](https://simplelocalize.io/blog/posts/language-vs-locale/) - what is the difference between language and locale
+- [Guide: Angular i18n](https://angular.io/guide/i18n) - Official Angular i18n document page
+- [Github: FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl) - example project built with React-intl and React
+- [Github: i18next example project](https://github.com/simplelocalize/simplelocalize-i18next) - example project built with i18next and React
 - [Extract messages and translation keys from project files](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extracting translation keys from project files. JavaScript, Android, iOS/macOS
-- [i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - React Intl is a popular internationalization library. This article demonstrates how to set it up in a new React project and how to manage translations with SimpleLocalize
-- [Google Developers: Internationalization](https://developers.google.com/international/)
-- [Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available
+- [Blog post: i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - React Intl is a popular internationalization library. This article demonstrates how to set it up in a new React project and how to manage translations with SimpleLocalize
+- [Guide: Google Developers: Internationalization](https://developers.google.com/international/)
+- [Guide: Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available
 - [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications
-- [W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
-- [How to properly internationalize a React application](https://dev.to/adrai/how-to-properly-internationalize-a-react-application-using-i18next-3hdb) - simple tutorial on how to best use react-i18next. Some basics of i18next and some cool possibilities on how to optimize your localization workflow
-- [i18n - my journey to a simple, powerful and type-safe solution](https://dev.to/ivanhofer/i18n-my-journey-to-a-simple-powerful-and-type-safe-solution-2c46) - motivation on how the [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) library was created, with some examples
+- [Guide: W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
 
 
 ## 💭 Community tips & tricks
@@ -209,10 +204,10 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 ## 🦾 Automated translations
 
-* [Gengo](http://gengo.com) - translation is made by real people but you can make an order using API
-* [Google Translate](https://translate.google.com)
-* [Microsoft Translator](https://www.microsoft.com/en-GB/translator/)
-* [DeepL](https://deepl.com)
+- [Gengo](http://gengo.com) - translation is made by real people but you can make an order using API
+- [Google Translate](https://translate.google.com)
+- [Microsoft Translator](https://www.microsoft.com/en-GB/translator/)
+- [DeepL](https://deepl.com)
 
 
 ## 🍿 Videos
