@@ -77,6 +77,7 @@ React apps and react localization is so popular so we decided to add a special s
 - [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) - localization library for handling translations
 - [react-translate-component](https://github.com/martinandert/react-translate-component) - component for React that utilizes the Counterpart module and the Interpolate component to provide multi-lingual/localized text content
 - [react-littera](https://github.com/DRFR0ST/react-littera) - lightweight library for robust translations using hooks. Some of the key features are dynamic templates, missing reports, auto-locale detection and more
+- [talkr](https://github.com/DoneDeal0/Talkr) - lightest i18n provider for React applications (< 1kb). Supports Typescript, 0 dependencies.
 
 
 ### VueJS
