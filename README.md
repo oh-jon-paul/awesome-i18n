@@ -69,11 +69,11 @@ React apps and react localization is so popular so we decided to add a special s
 - [react-localization](https://github.com/stefalda/react-localization) - simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module
 - [react-intl](https://formatjs.io) - internationalize your web apps with react-intl library
 - [react-intl (CLI)](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
+- [react-intl-hooks](https://github.com/CreateThrive/react-intl-hooks) - small and fast library that you can use to replace FormatJS components
 - [react-i18nify](https://github.com/sealninja/react-i18nify) - simple i18n translation and localization components and helpers for React
 - [react-i18next](https://react.i18next.com/) - internationalization framework for React and React Native which is based on i18next
 - [react-persian](https://github.com/evandhq/react-persian) - set of react components for Persian localization
 - [react-translated](https://github.com/amsul/react-translated) - dead simple way to add complex translations
-- [react-intl-hooks](https://github.com/CreateThrive/react-intl-hooks) - small and fast library that you can use to replace FormatJS components. 
 - [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) - localization library for handling translations
 - [react-translate-component](https://github.com/martinandert/react-translate-component) - component for React that utilizes the Counterpart module and the Interpolate component to provide multi-lingual/localized text content
 - [react-littera](https://github.com/DRFR0ST/react-littera) - lightweight library for robust translations using hooks. Some of the key features are dynamic templates, missing reports, auto-locale detection and more
