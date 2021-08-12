@@ -143,6 +143,8 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [LocaleApp](https://www.localeapp.com) - localization and translation
 - [Locize](https://locize.co) - localization management platform
 - [SimpleLocalize](https://simplelocalize.io) - translation management with free translation hosting and open-source CLI
+- [Stringify](http://stringify.app) - cloud-based localization and translation platform
+- [Texterify](https://texterify.com) - web-based translation and localization management system
 - [Transifex](https://www.transifex.com) - web-based translation platform, globalization management system
 - [Traduora](https://github.com/ever-co/ever-traduora) - platform for translations management
 - [Weblate](https://weblate.org) - web-based platform for localization
