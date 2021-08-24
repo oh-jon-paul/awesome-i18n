@@ -230,4 +230,4 @@ Link: https://www.youtube.com/watch?v=-5wpm-gesOY
 
 ## 📢 Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Feel free to add or update the content!
