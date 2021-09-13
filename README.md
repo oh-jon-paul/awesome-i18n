@@ -141,7 +141,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Memsource](https://www.memsource.com) - localization service for enterprise systems
 - [Localizejs](https://localizejs.com) - web-based platform for enterprise systems
 - [LocaleApp](https://www.localeapp.com) - localization and translation
-- [Locize](https://locize.co) - localization management platform
+- [Locize](https://locize.com) - localization management platform
 - [SimpleLocalize](https://simplelocalize.io) - translation management with free translation hosting and open-source CLI
 - [Stringify](http://stringify.app) - cloud-based localization and translation platform
 - [Texterify](https://texterify.com) - web-based translation and localization management system
