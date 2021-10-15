@@ -138,6 +138,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 - [Crowdin](https://crowdin.com) - web-based localization service for open source
 - [GitLocalize](https://gitlocalize.com) - localization platform that syncs with your GitHub repository
+- [Inlang](https://inlang.dev) - end-to-end cloud-based open-source translation management platform compatible with typesafe-i18n and react-i18next
 - [Memsource](https://www.memsource.com) - localization service for enterprise systems
 - [Localizejs](https://localizejs.com) - web-based platform for enterprise systems
 - [LocaleApp](https://www.localeapp.com) - localization and translation
