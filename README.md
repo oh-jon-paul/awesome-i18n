@@ -136,19 +136,20 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 ## ☁️ Translation Management Systems
 
-- [Crowdin](https://crowdin.com) - web-based localization service for open source
-- [GitLocalize](https://gitlocalize.com) - localization platform that syncs with your GitHub repository
-- [Memsource](https://www.memsource.com) - localization service for enterprise systems
+- [Crowdin](https://crowdin.com) - web-based localization service with **free tier for open-source**
+- [GitLocalize](https://gitlocalize.com) - web-based localization platform with GitHub integration
+- [Inlang](https://github.com/inlang/inlang) - web-based open-source translation management platform
+- [Memsource](https://www.memsource.com) - web-based localization service for enterprise systems
 - [Localizejs](https://localizejs.com) - web-based platform for enterprise systems
-- [LocaleApp](https://www.localeapp.com) - localization and translation
-- [Locize](https://locize.com) - localization management platform
-- [SimpleLocalize](https://simplelocalize.io) - translation management with free translation hosting and open-source CLI
-- [Stringify](http://stringify.app) - cloud-based localization and translation platform
-- [Texterify](https://texterify.com) - web-based translation and localization management system
-- [Transifex](https://www.transifex.com) - web-based translation platform, globalization management system
-- [Traduora](https://github.com/ever-co/ever-traduora) - platform for translations management
+- [LocaleApp](https://www.localeapp.com) - web-based localization and translation with **free tier**
+- [Locize](https://locize.com) - web-based localization management platform
+- [SimpleLocalize](https://simplelocalize.io) - web-based translation management system with **free tier** and open-source CLI
+- [Stringify](http://stringify.app) - web-based localization and translation platform with **free tier**
+- [Texterify](https://texterify.com) - web-based translation and localization management system with **free tier**
+- [Transifex](https://www.transifex.com) - web-based platform and globalization management system
+- [Traduora](https://github.com/ever-co/ever-traduora) - web-based open-source platform for translation management
 - [Weblate](https://weblate.org) - web-based platform for localization
-- [Zanata](http://zanata.org) - web-based translation platform for translators, content creators and developers
+- [Zanata](http://zanata.org) - web-based platform for translators, content creators and developers
 
 
 ## 🖥 Desktop apps for translation management
