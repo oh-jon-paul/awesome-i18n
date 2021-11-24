@@ -23,19 +23,19 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 ## 👩‍🎓 Acronyms and keywords
 
 ### 🧐 Acronyms
-* i18n - internationalization
-* l10n - localization
-* xl8 - group of [translation management systems](#%EF%B8%8F-translation-management-systems)
-* t9n - translation
-* g11n - globalization
-* m17n - multilingualization
-* ICU - International Components for Unicode
-* TMS - translation management system
-* GMS - globalization translation system (same thing as TMS)
+- i18n - internationalization
+- l10n - localization
+- xl8 - group of [translation management systems](#%EF%B8%8F-translation-management-systems)
+- t9n - translation
+- g11n - globalization
+- m17n - multilingualization
+- ICU - International Components for Unicode
+- TMS - translation management system
+- GMS - globalization translation system (same thing as TMS)
 
 ### 🔑 Keywords
-* translation key - element in source code which is used by i18n library to replace it with translation message
-* translation - translated text or message
+- translation key - element in source code which is used by i18n library to replace it with translation message
+- translation - translated text or message
 
 ## 📦 Libraries
 
@@ -57,14 +57,14 @@ If you want to add something just modify [README.md](README.md) file and wait fo
 - [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - internationalize your browser extension. APIs to get localized strings from locale files
 - [npm i18n](https://www.npmjs.com/package/i18n) - lightweight simple translation module with dynamic JSON storage
 - [ttag](https://ttag.js.org/) - library for translations based on ES6 template literals
-- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - An opinionated, fully type-safe, lightweight localization library for TypeScript projects with no external dependencies
+- [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - type-safe, lightweight localization library for TypeScript with no external dependencies
 
 
 ### React & React Native
 React apps and react localization is so popular so we decided to add a special section for it. Here is the list of react localization libraries:  
 
-- [next-translate](https://github.com/vinissimus/next-translate) - easy i18n for Next.js +10
-- [react-translate](https://github.com/bloodyowl/react-translate) - internationalization for react
+- [next-translate](https://github.com/vinissimus/next-translate) - easy i18n for NextJS
+- [react-translate](https://github.com/bloodyowl/react-translate) - internationalization for React
 - [react-native-localize](https://github.com/zoontek/react-native-localize) - toolbox for your React Native app localization
 - [react-localization](https://github.com/stefalda/react-localization) - simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module
 - [react-intl](https://formatjs.io) - internationalize your web apps with react-intl library
@@ -107,8 +107,8 @@ React apps and react localization is so popular so we decided to add a special s
 
 ### Jekyll
 
-* [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin) - Jekyll Multiple Languages is an internationalization plugin for Jekyll.
-* [jekyll-i18n](https://github.com/liamzebedee/jekyll-i18n) - Jekyll i18n is a plugin that enables simplistic multi-language site designs using Jekyll. (not maintained)
+- [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin) - Jekyll Multiple Languages is an internationalization plugin for Jekyll.
+- [jekyll-i18n](https://github.com/liamzebedee/jekyll-i18n) - Jekyll i18n is a plugin that enables simplistic multi-language site designs using Jekyll. (not maintained)
 
 ### Swift (iOS & macOS)
 
@@ -131,7 +131,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [simplelocalize-cli](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extract translation keys and messages from various different libraries
-- [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ idea i18next support plugin works with many frameworks and i18n libraries
+- [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ IDEA plugin for extracing i18n keys
 
 
 ## ☁️ Translation Management Systems
@@ -144,10 +144,10 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [LocaleApp](https://www.localeapp.com) - web-based localization and translation with **free tier**
 - [Locize](https://locize.com) - web-based localization management platform
 - [SimpleLocalize](https://simplelocalize.io) - web-based translation management system with **free tier** and open-source CLI
-- [Stringify](http://stringify.app) - web-based localization and translation platform with **free tier**
+- [Stringify](https://stringify.app) - web-based localization and translation platform with **free tier**
 - [Texterify](https://texterify.com) - web-based translation and localization management system with **free tier**
 - [Transifex](https://www.transifex.com) - web-based platform and globalization management system
-- [Traduora](https://github.com/ever-co/ever-traduora) - web-based open-source platform for translation management
+- [Traduora](https://github.com/ever-co/ever-traduora) - web-based **open-source** platform for translation management
 - [Weblate](https://weblate.org) - web-based platform for localization
 - [Zanata](http://zanata.org) - web-based platform for translators, content creators and developers
 
@@ -159,7 +159,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [RTranslator](https://github.com/niedev/RTranslator) - simultaneous translator app for Android based on Google's API
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - lightweight desktop translator, uses Google, Yandex and Bing translate API.
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - cross-platform app that automatically translate texts when copied in the clipboard
-- [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - cross-platform i18n manager
+- [ElectronJS i18n](https://www.electronjs.org/apps/i18n-manager) - cross-platform i18n manager
 - [OmegaT](https://omegat.org) - free translation memory application that works on all popular operating systems
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - self-hosted web application to translate texts
 - [POEditor](https://poeditor.com) - tool for managing PO language files
@@ -168,17 +168,17 @@ Tools used to search translation key usage in project files. Usually they extrac
 ## 📅 Utility libraries
 
 - [Luxon](https://moment.github.io/luxon/) - powerful, modern, and friendly wrapper for JavaScript dates and times (replaces momentjs)
-- [Daylight saving time and time-zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
-- [date-fns](https://date-fns.org) - modern JavaScript date utility library
-- [Random Phone Number Generator](https://fakenumber.org) - fake phone number generator
+- [date-fns](https://date-fns.org) - JS library for dates
+- [fakenumber.org](https://fakenumber.org) - fake phone number generator
 - [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
-- [International Telephone Input](http://jackocnr.com/intl-tel-input.html) - plugin for entering and validating international phone numbers
+- [intl-tel-input.com](https://intl-tel-input.com/) - JS library for entering and validating international phone numbers
 
 ## 📚 Blog posts, articles, guides, docs, examples
 
 - [Stackoverflow: Localization vs Internationalization](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
+- [Stackoverflow: Daylight saving time and time-zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
 - [DevTo: Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) - Blog post on dev.to about top 12 libraries for react localization
-- [Blog post: Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html) - blog post with a warning on using different I18n backends in development/production
+- [Blog post: Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html) - blog post with a warning on using different i18n backends in development/production
 - [Blog post: What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/) - hreflang FAQ and explanation how to use it and why it is important for SEO
 - [Blog post: Language vs Locale](https://simplelocalize.io/blog/posts/language-vs-locale/) - what is the difference between language and locale
 - [Guide: Angular i18n](https://angular.io/guide/i18n) - Official Angular i18n document page
@@ -186,9 +186,9 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Github: i18next example project](https://github.com/simplelocalize/simplelocalize-i18next) - example project built with i18next and React
 - [Extract messages and translation keys from project files](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extracting translation keys from project files. JavaScript, Android, iOS/macOS
 - [Blog post: i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - React Intl is a popular internationalization library. This article demonstrates how to set it up in a new React project and how to manage translations with SimpleLocalize
-- [Guide: Google Developers: Internationalization](https://developers.google.com/international/)
+- [Guide: Google Developers - Internationalization](https://developers.google.com/international/)
 - [Guide: Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available
-- [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications
+- [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature and widely used providing Unicode and Globalization support for software applications
 - [Guide: W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
 
 
@@ -200,11 +200,6 @@ Tools used to search translation key usage in project files. Usually they extrac
 - Same goes for percent signs. Sometimes the % shows before the number, and not after. There might be a space between the number and %. It might show as %-KAL in Hungarian.
 - Greek question marks look like a semicolon.
 - Always keep datetimes in database in UTC. Always return datatimes from backend in UTC. Adjust datetimes on UI layer using timezone information from user or web browser. Accept datetimes in backend with any timezone.
-
-
-## ✍️ Translation agencies
-
-[✌️Add your agency](https://github.com/jpomykala/awesome-i18n/issues/new)
 
 ## 🦾 Automated translations
 
