@@ -103,7 +103,10 @@ React apps and react localization is so popular so we decided to add a special s
 - [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) - Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage
 - [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) - Baeldun post about using Spring Messages
 - [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) - Stackoverflow thread about i18n in Spring Boot
+- [Java Time Classes](https://stackoverflow.com/questions/5175728/how-to-get-the-current-date-time-in-java/5175900) - Stackoverflow thread about time and timezones in Java.
 
+
+![Java time classes](https://i.stack.imgur.com/MZe55.png)
 
 ### Jekyll
 
@@ -179,19 +182,21 @@ All web-based apps are more or less the same, and its features may change over t
 
 - [Stackoverflow: Localization vs Internationalization](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
 - [Stackoverflow: Daylight saving time and time-zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
-- [DevTo: Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) - Blog post on dev.to about top 12 libraries for react localization
+- [Blog post: Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) - Blog post on dev.to about top 12 libraries for react localization
+- [Blog post: Generating images with multi-language texts](https://bannerly.io/blog/posts/multi-language-image-variants/) - article about images localization and i18n in blog post banners
+- [Blog post: Language vs Locale](https://simplelocalize.io/blog/posts/language-vs-locale/) - what is the difference between language and locale
 - [Blog post: Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html) - blog post with a warning on using different i18n backends in development/production
 - [Blog post: What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/) - hreflang FAQ and explanation how to use it and why it is important for SEO
-- [Blog post: Language vs Locale](https://simplelocalize.io/blog/posts/language-vs-locale/) - what is the difference between language and locale
-- [Guide: Angular i18n](https://angular.io/guide/i18n) - Official Angular i18n document page
+- [Blog post: i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - article demonstrates how to set up and manage translations with SimpleLocalize
 - [Github: FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl) - example project built with React-intl and React
 - [Github: i18next example project](https://github.com/simplelocalize/simplelocalize-i18next) - example project built with i18next and React
-- [Extract messages and translation keys from project files](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extracting translation keys from project files. JavaScript, Android, iOS/macOS
-- [Blog post: i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - React Intl is a popular internationalization library. This article demonstrates how to set it up in a new React project and how to manage translations with SimpleLocalize
-- [Guide: Google Developers - Internationalization](https://developers.google.com/international/)
+- [Guide: Google Developers - Internationalization](https://developers.google.com/international/) - official Google document page
+- [Guide: Angular i18n](https://angular.io/guide/i18n) - official Angular i18n document page
+- [Guide: W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
 - [Guide: Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available
 - [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature and widely used providing Unicode and Globalization support for software applications
-- [Guide: W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
+- [Extract messages and translation keys from project files](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extracting translation keys from project files. JavaScript, Android, iOS/macOS
+
 
 
 ## 💭 Community tips & tricks
