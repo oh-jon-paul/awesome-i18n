@@ -134,22 +134,24 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ IDEA plugin for extracing i18n keys
 
 
-## ☁️ Translation Management Systems
+## ☁️ Web-based apps for translation management
 
-- [Crowdin](https://crowdin.com) - web-based localization service with **free tier for open-source**
-- [GitLocalize](https://gitlocalize.com) - web-based localization platform with GitHub integration
-- [Inlang](https://github.com/inlang/inlang) - web-based open-source translation management platform
-- [Memsource](https://www.memsource.com) - web-based localization service for enterprise systems
-- [Localizejs](https://localizejs.com) - web-based platform for enterprise systems
-- [LocaleApp](https://www.localeapp.com) - web-based localization and translation with **free tier**
-- [Locize](https://locize.com) - web-based localization management platform
-- [SimpleLocalize](https://simplelocalize.io) - web-based translation management system with **free tier** and open-source CLI
-- [Stringify](https://stringify.app) - web-based localization and translation platform with **free tier**
-- [Texterify](https://texterify.com) - web-based translation and localization management system with **free tier**
-- [Transifex](https://www.transifex.com) - web-based platform and globalization management system
-- [Traduora](https://github.com/ever-co/ever-traduora) - web-based **open-source** platform for translation management
-- [Weblate](https://weblate.org) - web-based platform for localization
-- [Zanata](http://zanata.org) - web-based platform for translators, content creators and developers
+All web-based apps are more or less the same, and its features may change over time. I added only the most significant feature of each, if any. 
+
+- [Crowdin](https://crowdin.com) - free tier for open-source
+- [GitLocalize](https://gitlocalize.com) - GitHub integration
+- [Inlang](https://github.com/inlang/inlang)
+- [Memsource](https://www.memsource.com)
+- [Localizejs](https://localizejs.com)
+- [LocaleApp](https://www.localeapp.com)
+- [Locize](https://locize.com)
+- [SimpleLocalize](https://simplelocalize.io)
+- [Stringify](https://stringify.app)
+- [Texterify](https://texterify.com)
+- [Transifex](https://www.transifex.com)
+- [Traduora](https://github.com/ever-co/ever-traduora) - fully free and open-source
+- [Weblate](https://weblate.org)
+- [Zanata](http://zanata.org)
 
 
 ## 🖥 Desktop apps for translation management
