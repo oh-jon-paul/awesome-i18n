@@ -43,7 +43,8 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 
 - [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper library written in JavaScript, made to work both in the browser and in CommonJS environments
 - [eo-locale](https://github.com/ibitcy/eo-locale) - elegant lightweight library based on Internationalization API
-- [ECMAScript Internationalization API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) - documentation for standard `intl` object from JavaScript
+- [MDN: Intl object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) - documentation for standard `intl` object from JavaScript
+- [MDN: i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - internationalize your browser extension. APIs to get localized strings from locale files
 - [facebook/fbt](https://github.com/facebook/fbt) - internationalization framework for JavaScript designed to be not just powerful and flexible, but also simple and intuitive
 - [FormatJS](https://formatjs.io) - internationalize your web apps on the client & server
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
@@ -53,11 +54,13 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 - [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
 - [Jed](http://slexaxton.github.io/Jed/) - Gettext style i18n library
 - [lisan.js](http://lisanjs.com) - fast and small i18n library
-- [lingui/js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized internationalization
-- [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - internationalize your browser extension. APIs to get localized strings from locale files
+- [js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized internationalization
 - [npm i18n](https://www.npmjs.com/package/i18n) - lightweight simple translation module with dynamic JSON storage
 - [ttag](https://ttag.js.org/) - library for translations based on ES6 template literals
 - [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - type-safe, lightweight localization library for TypeScript with no external dependencies
+- [schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js
+- [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages
+- [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
 
 
 ### React & React Native
@@ -72,6 +75,7 @@ React apps and react localization is so popular so we decided to add a special s
 - [react-intl-hooks](https://github.com/CreateThrive/react-intl-hooks) - small and fast library that you can use to replace FormatJS components
 - [react-i18nify](https://github.com/sealninja/react-i18nify) - simple i18n translation and localization components and helpers for React
 - [react-i18next](https://react.i18next.com/) - internationalization framework for React and React Native which is based on i18next
+- [react-i18n-mini](https://github.com/SanichKotikov/react-i18n-mini) - A tiny (~2.39 kB) internationalisation library for React
 - [react-persian](https://github.com/evandhq/react-persian) - set of react components for Persian localization
 - [react-translated](https://github.com/amsul/react-translated) - dead simple way to add complex translations
 - [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) - localization library for handling translations
@@ -137,25 +141,6 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ IDEA plugin for extracing i18n keys
 
 
-## ☁️ Web-based apps for translation management
-
-All web-based apps are more or less the same, and its features may change over time. I added only the most significant feature of each, if any. 
-
-- [Crowdin](https://crowdin.com) - free tier for open-source
-- [GitLocalize](https://gitlocalize.com) - GitHub integration
-- [Inlang](https://github.com/inlang/inlang)
-- [Memsource](https://www.memsource.com)
-- [Localizejs](https://localizejs.com)
-- [LocaleApp](https://www.localeapp.com)
-- [Locize](https://locize.com)
-- [SimpleLocalize](https://simplelocalize.io)
-- [Stringify](https://stringify.app)
-- [Texterify](https://texterify.com)
-- [Transifex](https://www.transifex.com)
-- [Traduora](https://github.com/ever-co/ever-traduora) - fully free and open-source
-- [Weblate](https://weblate.org)
-- [Zanata](http://zanata.org)
-
 
 ## 🖥 Desktop apps for translation management
 
@@ -183,11 +168,12 @@ All web-based apps are more or less the same, and its features may change over t
 - [Stackoverflow: Localization vs Internationalization](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
 - [Stackoverflow: Daylight saving time and time-zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
 - [Blog post: Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) - Blog post on dev.to about top 12 libraries for react localization
+- [Blog post: Building a minimal i18n library](https://janmonschke.com/building-a-minimal-i18n-library)
 - [Blog post: Generating images with multi-language texts](https://bannerly.io/blog/posts/multi-language-image-variants/) - article about images localization and i18n in blog post banners
 - [Blog post: Language vs Locale](https://simplelocalize.io/blog/posts/language-vs-locale/) - what is the difference between language and locale
 - [Blog post: Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html) - blog post with a warning on using different i18n backends in development/production
 - [Blog post: What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/) - hreflang FAQ and explanation how to use it and why it is important for SEO
-- [Blog post: i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - article demonstrates how to set up and manage translations with SimpleLocalize
+- [Blog post: i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - article demonstrates how to set up and manage translations with autogenerated translation keys with FormatJS
 - [Github: FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl) - example project built with React-intl and React
 - [Github: i18next example project](https://github.com/simplelocalize/simplelocalize-i18next) - example project built with i18next and React
 - [Guide: Google Developers - Internationalization](https://developers.google.com/international/) - official Google document page
@@ -196,7 +182,6 @@ All web-based apps are more or less the same, and its features may change over t
 - [Guide: Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available
 - [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature and widely used providing Unicode and Globalization support for software applications
 - [Extract messages and translation keys from project files](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extracting translation keys from project files. JavaScript, Android, iOS/macOS
-
 
 
 ## 💭 Community tips & tricks
