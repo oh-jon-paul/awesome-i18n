@@ -12,11 +12,10 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 
 - [👩‍🎓 Acronyms and keywords](#-acronyms-and-keywords)
 - [📦 Libraries](#-libraries)
-- [☁️ Translation management systems](#%EF%B8%8F-translation-management-systems)
+- [🖥 Desktop apps for translation management](#-desktop-apps-for-translation-management)
 - [📅 Utility libraries](#-utility-libraries)
-- [📚 Blog posts & articles](#-blog-posts-articles--others)
+- [📚 Resources](#-resources)
 - [💭 Community Tips & tricks](#-community-tips--tricks)
-- [✍️ Translation agencies](#%EF%B8%8F-translation-agencies)
 - [🦾 Automated translations](#-automated-translations)
 - [🍿 Videos](#-videos)
 
@@ -39,7 +38,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 
 ## 📦 Libraries
 
-### JavaScript in general
+### JavaScript / TypeScript
 
 - [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper library written in JavaScript, made to work both in the browser and in CommonJS environments
 - [eo-locale](https://github.com/ibitcy/eo-locale) - elegant lightweight library based on Internationalization API
@@ -63,7 +62,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
 
 
-### React & React Native
+### React / React Native
 React apps and react localization is so popular so we decided to add a special section for it. Here is the list of react localization libraries:  
 
 - [next-translate](https://github.com/vinissimus/next-translate) - easy i18n for NextJS
@@ -163,7 +162,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 - [intl-tel-input.com](https://intl-tel-input.com/) - JS library for entering and validating international phone numbers
 
-## 📚 Blog posts, articles, guides, docs, examples
+## 📚 Resources
 
 - [Stackoverflow: Localization vs Internationalization](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
 - [Stackoverflow: Daylight saving time and time-zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
@@ -193,7 +192,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - Greek question marks look like a semicolon.
 - Always keep datetimes in database in UTC. Always return datatimes from backend in UTC. Adjust datetimes on UI layer using timezone information from user or web browser. Accept datetimes in backend with any timezone.
 
-## 🦾 Automated translations
+## 🦾 Automated translation
 
 - [Gengo](http://gengo.com) - translation is made by real people but you can make an order using API
 - [Google Translate](https://translate.google.com)
