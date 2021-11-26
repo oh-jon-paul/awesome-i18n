@@ -59,7 +59,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 - [schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js
 - [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
-- [Intl.js (archived)](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
+- [Intl.js (UNMAINTAINED)](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 
 
 ### React / React Native
