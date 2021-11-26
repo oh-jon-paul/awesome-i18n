@@ -47,11 +47,10 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 - [facebook/fbt](https://github.com/facebook/fbt) - internationalization framework for JavaScript designed to be not just powerful and flexible, but also simple and intuitive
 - [FormatJS](https://formatjs.io) - internationalize your web apps on the client & server
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
-- [Intl.js](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - [i18next](https://www.i18next.com) - internationalization framework for browser or any other JavaScript environment
 - [i18n-ally](https://github.com/antfu/i18n-ally) - extension for VSCode, all in one about i18n
 - [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
-- [Jed](http://slexaxton.github.io/Jed/) - Gettext style i18n library
+- [Jed](https://github.com/messageformat/Jed/) - Gettext style i18n library
 - [lisan.js](http://lisanjs.com) - fast and small i18n library
 - [js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized internationalization
 - [npm i18n](https://www.npmjs.com/package/i18n) - lightweight simple translation module with dynamic JSON storage
@@ -60,6 +59,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 - [schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js
 - [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
+- [Intl.js (archived)](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 
 
 ### React / React Native
