@@ -86,6 +86,7 @@ React apps and react localization is so popular so we decided to add a special s
 ### VueJS
 
 - [vue i18n](https://kazupon.github.io/vue-i18n/) - vue i18n is internationalization plugin for Vue.js
+- [sweet-i18n](https://github.com/wood3n/sweet-i18n) - automatic extraction and conversion of Chinese characters in Vue and JS files based on Babel
 
 ### Angular
 
