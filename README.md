@@ -4,6 +4,8 @@
 
 > A curated list of i18n tools, i18n libraries, localization software, localization programs and translation management systems.
 
+No paid or freemium services.
+
 If you want to add something just modify [README.md](README.md) file ☺️ Enjoy!
 
 ### Remember to give this repo a star! 🌟
