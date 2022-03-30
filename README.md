@@ -153,7 +153,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [OmegaT](https://omegat.org) - free translation memory application that works on all popular operating systems
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - self-hosted web application to translate texts
 - [POEditor](https://poeditor.com) - tool for managing PO language files
-
+- [Tolgee](https://tolgee.io) - web-based localization platform enabling users to translate directly in the app they develop
 
 ## 📅 Utility libraries
 
