@@ -43,6 +43,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 ### JavaScript / TypeScript
 
 - [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper library written in JavaScript, made to work both in the browser and in CommonJS environments
+- [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for `Javascript/Typescript/Vue/React/Solidjs/SvelteJs/ReactNative`
 - [eo-locale](https://github.com/ibitcy/eo-locale) - elegant lightweight library based on Internationalization API
 - [MDN: Intl object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) - documentation for standard `intl` object from JavaScript
 - [MDN: i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - internationalize your browser extension. APIs to get localized strings from locale files
