@@ -52,6 +52,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [i18next](https://www.i18next.com) - internationalization framework for browser or any other JavaScript environment
 - [i18n-ally](https://github.com/antfu/i18n-ally) - extension for VSCode, all in one about i18n
+- [intljulep](https://github.com/laurentpayot/intljulep) - super lightweight yet powerful i18n library
 - [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
 - [Jed](https://github.com/messageformat/Jed/) - Gettext style i18n library
 - [lisan.js](http://lisanjs.com) - fast and small i18n library
