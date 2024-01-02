@@ -71,7 +71,6 @@ React apps and react localization is so popular so we decided to add a special s
 
 - [next-translate](https://github.com/vinissimus/next-translate) - easy i18n for NextJS, ~1kb of size
 - [next-intl](https://github.com/amannn/next-intl) - a minimal, but complete solution for internationalization in Next.js apps works with SSR and SSG
-- [next-i18n-tooling](https://inlang.com/c/nextjs) - easy NextJS i18n setup (App Router and Pages Router)
 - [react-translate](https://github.com/bloodyowl/react-translate) - internationalization for React
 - [react-native-localize](https://github.com/zoontek/react-native-localize) - toolbox for your React Native app localization
 - [react-localization](https://github.com/stefalda/react-localization) - simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module
