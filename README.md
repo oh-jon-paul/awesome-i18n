@@ -63,6 +63,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 - [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
 - [Intl.js (UNMAINTAINED)](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
+- [ParaglideJS](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) - synchronous, typesafe and lightweight i18n library
 
 
 ### React / React Native
@@ -157,6 +158,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [OmegaT](https://omegat.org) - free translation memory application that works on all popular operating systems
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - self-hosted web application to translate texts
 - [POEditor](https://poeditor.com) - tool for managing PO language files
+- [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
 
 
 ## 📅 Utility libraries
