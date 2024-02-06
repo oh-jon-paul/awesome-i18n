@@ -8,7 +8,7 @@ No paid or freemium services.
 
 If you want to add something just modify [README.md](README.md) file ☺️ Enjoy!
 
-### Remember to give this repo a star! 🌟
+## Remember to give this repo a star! 🌟
 
 #### Contents
 
