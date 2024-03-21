@@ -65,6 +65,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
 - [Intl.js (UNMAINTAINED)](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - [ParaglideJS](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) - synchronous, typesafe and lightweight i18n library
+- [Sherlock](https://inlang.com/m/r7kp499g/app-inlang-ideExtension) - extension for VSCode: visualize, edit & lint translations
 
 
 ### React / React Native
