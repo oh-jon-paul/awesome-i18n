@@ -70,6 +70,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 ### React / React Native
 React apps and react localization is so popular so we decided to add a special section for it. Here is the list of react localization libraries:  
 
+- [general translation](https://github.com/generaltranslation/gt) - modern AI-powered translation that supports both React and Next.js with SSR/SSG, requires no separate dictionary files, and includes automated library implementation that automatically sets up and integrates the library into your project.
 - [next-translate](https://github.com/vinissimus/next-translate) - easy i18n for NextJS, ~1kb of size
 - [next-intl](https://github.com/amannn/next-intl) - a minimal, but complete solution for internationalization in Next.js apps works with SSR and SSG
 - [react-translate](https://github.com/bloodyowl/react-translate) - internationalization for React
