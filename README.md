@@ -58,6 +58,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 - [lisan.js](http://lisanjs.com) - fast and small i18n library
 - [js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized internationalization
 - [npm i18n](https://www.npmjs.com/package/i18n) - lightweight simple translation module with dynamic JSON storage
+- [ʻŌlelo Honua](https://www.olelohonua.com) - rapidly internationalize your website using LLMs & cutting-edge translate/critique/repair loop
 - [ttag](https://ttag.js.org/) - library for translations based on ES6 template literals
 - [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - type-safe, lightweight localization library for TypeScript with no external dependencies
 - [schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js
