@@ -26,7 +26,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 ### 🧐 Acronyms
 - i18n - internationalization
 - l10n - localization
-- xl8 - group of [translation management systems](#%EF%B8%8F-translation-management-systems)
+- xl8 - group of translation management systems
 - t9n - translation
 - g11n - globalization
 - m17n - multilingualization
