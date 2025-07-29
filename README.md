@@ -41,7 +41,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 ## 📦 Libraries
 
 ### JavaScript / TypeScript
-
+- [date-formatter-i18n](https://github.com/asmaelabid/date-formatter-i18n) - Lightweight JavaScript library for formatting dates with i18n support, relative time ("3 days ago").
 - [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper library written in JavaScript, made to work both in the browser and in CommonJS environments
 - [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for `Javascript/Typescript/Vue/React/Solidjs/SvelteJs/ReactNative`
 - [eo-locale](https://github.com/ibitcy/eo-locale) - elegant lightweight library based on Internationalization API
