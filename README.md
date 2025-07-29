@@ -185,7 +185,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Github: i18next example project](https://github.com/simplelocalize/simplelocalize-i18next) - example project built with i18next and React
 - [Guide: Google Developers - Internationalization](https://developers.google.com/international/) - official Google document page
 - [Guide: Angular i18n](https://angular.io/guide/i18n) - official Angular i18n document page
-- [Guide: W3C i18n standards](http://www.w3.org/standards/webdesign/i18n)
+- [Guide: W3C i18n standards](https://www.w3.org/International/i18n-drafts/nav/about)
 - [Guide: Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available
 - [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature and widely used providing Unicode and Globalization support for software applications
 - [Extract messages and translation keys from project files](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extracting translation keys from project files. JavaScript, Android, iOS/macOS
