@@ -41,6 +41,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 ## 📦 Libraries
 
 ### JavaScript / TypeScript
+- [MessageFormat 2](https://messageformat.unicode.org) - a full featured localization system, from Unicode
 - [date-formatter-i18n](https://github.com/asmaelabid/date-formatter-i18n) - Lightweight JavaScript library for formatting dates with i18n support, relative time ("3 days ago").
 - [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper library written in JavaScript, made to work both in the browser and in CommonJS environments
 - [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for `Javascript/Typescript/Vue/React/Solidjs/SvelteJs/ReactNative`
@@ -72,9 +73,9 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 ### React / React Native
 React apps and react localization is so popular so we decided to add a special section for it. Here is the list of react localization libraries:  
 
-- [general translation](https://github.com/generaltranslation/gt) - modern AI-powered translation that supports both React and Next.js with SSR/SSG, requires no separate dictionary files, and includes automated library implementation that automatically sets up and integrates the library into your project.
+- [general translation](https://github.com/generaltranslation/gt) - modern AI-powered translation that supports both React and Next.js with SSR/SSG
 - [next-translate](https://github.com/vinissimus/next-translate) - easy i18n for NextJS, ~1kb of size
-- [next-intl](https://github.com/amannn/next-intl) - a minimal, but complete solution for internationalization in Next.js apps works with SSR and SSG
+- [next-intl](https://github.com/amannn/next-intl) - a minimal solution for internationalization in Next.js
 - [react-translate](https://github.com/bloodyowl/react-translate) - internationalization for React
 - [react-native-localize](https://github.com/zoontek/react-native-localize) - toolbox for your React Native app localization
 - [react-localization](https://github.com/stefalda/react-localization) - simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module
@@ -94,7 +95,7 @@ React apps and react localization is so popular so we decided to add a special s
 
 ### VueJS
 
-- [vue i18n](https://kazupon.github.io/vue-i18n/) - vue i18n is internationalization plugin for Vue.js
+- [vue-i18n](https://github.com/intlify/vue-i18n) - vue i18n is internationalization plugin for Vue.js
 - [sweet-i18n](https://github.com/wood3n/sweet-i18n) - automatic extraction and conversion of Chinese characters in Vue and JS files based on Babel
 
 ### Angular
@@ -146,7 +147,6 @@ React apps and react localization is so popular so we decided to add a special s
 Tools used to search translation key usage in project files. Usually they extract translation keys to some file which can be imported later to [translation management system](#-translation-management-systems)
 
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
-- [simplelocalize-cli](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extract translation keys and messages from various different libraries
 - [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ IDEA plugin for extracing i18n keys
 
 
