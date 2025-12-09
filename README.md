@@ -207,6 +207,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 ## 🦾 Automated translation
 
+- [Dire](https://github.com/juliandreas/dire-cli) - Go-based CLI that automatically processes missing translations in your i18n JSON files using translation and AI providers, glossary definitions, and translation memory
 - [Gengo](http://gengo.com) - translation is made by real people but you can make an order using API
 - [Google Translate](https://translate.google.com)
 - [Microsoft Translator](https://www.microsoft.com/en-GB/translator/)
