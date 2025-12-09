@@ -140,6 +140,7 @@ React apps and react localization is so popular so we decided to add a special s
 
 - [Python-i18n](https://pypi.org/project/python-i18n/) - internationalization package
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - library to translate between different languages in a simple way using multiple translators
+- [LangLint](https://github.com/HzaCode/Langlint) - high-performance Rust-powered automated translation tool for code comments and docstrings (10-50x faster, supports 28+ file types including Python, JavaScript, Jupyter notebooks)
 
 
 ## 🔦 Message and key extraction
