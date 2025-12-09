@@ -162,6 +162,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [ElectronJS i18n](https://www.electronjs.org/apps/i18n-manager) - cross-platform i18n manager
 - [OmegaT](https://omegat.org) - free translation memory application that works on all popular operating systems
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - self-hosted web application to translate texts
+- [LRM](https://github.com/nickprotop/LocalizationManager) - cross-platform CLI/TUI for managing JSON (i18next compatible) and .resx localization files with 10 translation providers and CLDR plural rules
 - [POEditor](https://poeditor.com) - tool for managing PO language files
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
 
