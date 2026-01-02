@@ -207,6 +207,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 
 ## 🦾 Automated translation
 
+- [Vedika](https://vedika.io) - AI-powered Vedic astrology API with 22 language support including Hindi, Tamil, Telugu, Bengali, and 10 other Indian languages plus European and Asian languages. Offers OpenAPI 3.0 spec, GraphQL endpoint, and automated multilingual responses.
 - [Dire](https://github.com/juliandreas/dire-cli) - Go-based CLI that automatically processes missing translations in your i18n JSON files using translation and AI providers, glossary definitions, and translation memory
 - [Gengo](http://gengo.com) - translation is made by real people but you can make an order using API
 - [Google Translate](https://translate.google.com)
