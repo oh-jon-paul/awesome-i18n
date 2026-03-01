@@ -53,6 +53,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [i18next](https://www.i18next.com) - internationalization framework for browser or any other JavaScript environment
 - [i18n-ally](https://github.com/antfu/i18n-ally) - extension for VSCode, all in one about i18n
+- [intlayer](https://intlayer.org) - Per-component solution and i18n toolkit
 - [intljulep](https://github.com/laurentpayot/intljulep) - super lightweight yet powerful i18n library
 - [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
 - [Jed](https://github.com/messageformat/Jed/) - Gettext style i18n library
@@ -79,6 +80,7 @@ React apps and react localization is so popular so we decided to add a special s
 - [react-native-localize](https://github.com/zoontek/react-native-localize) - toolbox for your React Native app localization
 - [react-localization](https://github.com/stefalda/react-localization) - simple module to localize the React interface using the same syntax used in the ReactNativeLocalization module
 - [react-intl](https://formatjs.io) - internationalize your web apps with react-intl library
+- [react-intlayer](https://intlayer.org/doc/environment/vite-and-react) - Per-component solution and i18n toolkit
 - [react-intl (CLI)](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [react-intl-hooks](https://github.com/CreateThrive/react-intl-hooks) - small and fast library that you can use to replace FormatJS components
 - [react-i18nify](https://github.com/sealninja/react-i18nify) - simple i18n translation and localization components and helpers for React
@@ -96,15 +98,18 @@ React apps and react localization is so popular so we decided to add a special s
 
 - [vue-i18n](https://github.com/intlify/vue-i18n) - vue i18n is internationalization plugin for Vue.js
 - [sweet-i18n](https://github.com/wood3n/sweet-i18n) - automatic extraction and conversion of Chinese characters in Vue and JS files based on Babel
+- [vue-intlayer](https://intlayer.org/doc/environment/vite-and-vue) - Per-component solution and i18n toolkit
 
 ### Angular
 
 - [ngx-translate](https://github.com/ngx-translate/core) - translation library for Angular
 - [transloco](https://github.com/jsverse/transloco) - The internationalization (i18n) library for Angular
+- [angular-intlayer](https://intlayer.org/doc/environment/angular) - Per-component solution and i18n toolkit
 
 ### Svelte
 
 - [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - internationalization for Svelte
+- [svelte-intlayer](https://intlayer.org/doc/environment/vite-and-svelte) - Per-component solution and i18n toolkit
 
 ### Quasar.dev
 
