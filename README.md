@@ -211,6 +211,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Google Translate](https://translate.google.com)
 - [Microsoft Translator](https://www.microsoft.com/en-GB/translator/)
 - [DeepL](https://deepl.com)
+- [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support, change detection, and reviewed translation preservation.
 
 
 ## 🍿 Videos
