@@ -174,6 +174,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [fakenumber.org](https://fakenumber.org) - fake phone number generator
 - [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 - [intl-tel-input.com](https://intl-tel-input.com/) - JS library for entering and validating international phone numbers
+- [anywhen](https://github.com/kirilinsky/anywhen) - Relative and absolute fuzzy date formatting for any language, zero deps, native Intl.
 
 ## 📚 Resources
 
