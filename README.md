@@ -67,7 +67,7 @@ If you want to add something just modify [README.md](README.md) file ☺️ Enjo
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
 - [Intl.js (UNMAINTAINED)](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - [Sherlock](https://inlang.com/m/r7kp499g/app-inlang-ideExtension) - extension for VSCode: visualize, edit & lint translations
-
+- [Intlayer](https://intlayer.org) - Per-component i18n for Js app 
 
 ### React / React Native
 React apps and react localization is so popular so we decided to add a special section for it. Here is the list of react localization libraries:  
@@ -90,21 +90,26 @@ React apps and react localization is so popular so we decided to add a special s
 - [react-translate-component](https://github.com/martinandert/react-translate-component) - component for React that utilizes the Counterpart module and the Interpolate component to provide multi-lingual/localized text content
 - [react-littera](https://github.com/DRFR0ST/react-littera) - lightweight library for robust translations using hooks. Some of the key features are dynamic templates, missing reports, auto-locale detection and more
 - [talkr](https://github.com/DoneDeal0/Talkr) - lightest i18n provider for React applications (< 1kb). Supports Typescript, provides smart autocompletion based on your own json translation files, handles complex plural rules, 0 dependencies.
+- [react-intlayer](https://intlayer.org/doc/environment/vite-and-react) - Per-component i18n for React App 
+- [react-native-intlayer](https://intlayer.org/doc/environment/react-native-and-expo) - Per-component i18n for React Native 
 
 
 ### VueJS
 
 - [vue-i18n](https://github.com/intlify/vue-i18n) - vue i18n is internationalization plugin for Vue.js
 - [sweet-i18n](https://github.com/wood3n/sweet-i18n) - automatic extraction and conversion of Chinese characters in Vue and JS files based on Babel
+- [vue-intlayer](https://intlayer.org/doc/environment/vite-and-vue) - Per-component i18n for React Native 
 
 ### Angular
 
 - [ngx-translate](https://github.com/ngx-translate/core) - translation library for Angular
 - [transloco](https://github.com/jsverse/transloco) - The internationalization (i18n) library for Angular
+- [angular-intlayer](https://intlayer.org/doc/environment/angular) - Per-component i18n for Angular app 
 
 ### Svelte
 
 - [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - internationalization for Svelte
+- [svelte-intlayer](https://intlayer.org/doc/environment/vite-and-svelte) - Per-component i18n for Svelte app 
 
 ### Quasar.dev
 
@@ -174,6 +179,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [fakenumber.org](https://fakenumber.org) - fake phone number generator
 - [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 - [intl-tel-input.com](https://intl-tel-input.com/) - JS library for entering and validating international phone numbers
+- [anywhen](https://github.com/kirilinsky/anywhen) - Relative and absolute fuzzy date formatting for any language, zero deps, native Intl.
 
 ## 📚 Resources
 
@@ -194,7 +200,8 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Guide: Common Language Data Repository](http://cldr.unicode.org/) - the Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available
 - [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature and widely used providing Unicode and Globalization support for software applications
 - [Extract messages and translation keys from project files](https://simplelocalize.io/docs/cli/i18n-keys-extraction/) - extracting translation keys from project files. JavaScript, Android, iOS/macOS
-
+- [SEO & I18n: The Guide to Making Your Website Multilingual](https://intlayer.org/blog/SEO-and-i18n) - Seo guide for i18n app
+- [Compiler vs. Declarative i18n](https://intlayer.org/blog/compiler-vs-declarative-i18n) - Comparing declarative i18n vs compiler based solutions 
 
 ## 💭 Community tips & tricks
 
@@ -213,6 +220,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [Microsoft Translator](https://www.microsoft.com/en-GB/translator/)
 - [DeepL](https://deepl.com)
 - [AITranslateKit](https://aitranslatekit.vercel.app) - AI-powered i18n JSON file translator that preserves structure, variables, and context. Supports 20+ languages via web UI.
+- [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support, change detection, and reviewed translation preservation.
 
 
 ## 🍿 Videos
