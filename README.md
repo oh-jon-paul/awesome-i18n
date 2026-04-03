@@ -171,6 +171,7 @@ Tools used to search translation key usage in project files. Usually they extrac
 - [POEditor](https://poeditor.com) - tool for managing PO language files
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
 
+- [TaleForge](https://www.tale-forge.com/) - Creative writing platform with next-intl, 10 locales (EN, FR, ES, DE, PT, IT, JA, ZH, AR, HE), RTL support.
 
 ## 📅 Utility libraries
 
