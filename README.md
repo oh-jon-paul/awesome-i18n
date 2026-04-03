@@ -4,7 +4,15 @@
 
 > A curated list of i18n tools, i18n libraries, localization software, localization programs and translation management systems.
 
-**Please do not add paid/freemium services, nor AI slop tools**
+## How to contribute
+
+- do not add paid/freemium services
+- do not add AI slop tools / libraries
+- do not add libraries that required paid service to work
+- keep your entry as short as possible, (<150 chars)
+- do not end your entry with period
+- try to keep it lowercase
+- focus on what is unique, rather than generic message
 
 ## Remember to give this repo a star! 🌟
 
@@ -14,16 +22,15 @@
 ### JavaScript / TypeScript
 
 - [MessageFormat 2](https://messageformat.unicode.org) - a full featured localization system, from Unicode
-- [date-formatter-i18n](https://github.com/asmaelabid/date-formatter-i18n) - Lightweight JavaScript library for formatting dates with i18n support, relative time ("3 days ago").
-- [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper library written in JavaScript, made to work both in the browser and in CommonJS environments
-- [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for JavaScript projects
-- [eo-locale](https://github.com/ibitcy/eo-locale) - elegant lightweight library based on Internationalization API
+- [date-formatter-i18n](https://github.com/asmaelabid/date-formatter-i18n) - lightweight library for formatting dates with i18n support, relative time
+- [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper, works in browser and CommonJS environment
+- [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - internationalization solution for JavaScript projects
+- [eo-locale](https://github.com/ibitcy/eo-locale) - elegant lightweight library based on internationalization API
 - [MDN: Intl object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) - documentation for standard `intl` object from JavaScript
 - [MDN: i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - internationalize your browser extension. APIs to get localized strings from locale files
 - [FormatJS](https://formatjs.io) - internationalize your web apps on the client & server
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [i18next](https://www.i18next.com) - internationalization framework for browser or any other JavaScript environment
-- [i18n-ally](https://github.com/antfu/i18n-ally) - extension for VSCode, all in one about i18n
 - [intljulep](https://github.com/laurentpayot/intljulep) - super lightweight yet powerful i18n library
 - [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data\
 - [intlayer](https://intlayer.org) - per-component translations for JavaScript projects
@@ -31,7 +38,7 @@
 - [lisan.js](http://lisanjs.com) - fast and small i18n library
 - [js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized internationalization
 - [npm i18n](https://www.npmjs.com/package/i18n) - lightweight simple translation module with dynamic JSON storage
-- [ʻŌlelo Honua](https://www.olelohonua.com) - rapidly internationalize your website using LLMs & cutting-edge translate/critique/repair loop
+- [ʻŌlelo Honua](https://www.olelohonua.com) - internationalize your website with LLMs, and cutting-edge translate/critique/repair loop
 - [ttag](https://ttag.js.org/) - library for translations based on ES6 template literals
 - [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - type-safe, lightweight localization library for TypeScript with no external dependencies
 - [schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js
@@ -40,14 +47,14 @@
 - (archived) [Intl.js](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - (archived) [facebook/fbt](https://github.com/facebook/fbt) - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
 
-### React / React Native
+### React framework
 
 - [general translation](https://github.com/generaltranslation/gt) - component translation for Next.js with SSR/SSG
 - [next-translate](https://github.com/vinissimus/next-translate) - easy i18n for NextJS, ~1kb of size
 - [next-intl](https://github.com/amannn/next-intl) - a minimal solution for internationalization in Next.js
 - [react-translate](https://github.com/bloodyowl/react-translate) - internationalization for React
 - [react-native-localize](https://github.com/zoontek/react-native-localize) - toolbox for your React Native app localization
-- [react-localization](https://github.com/stefalda/react-localization) - localize the React interface using the same syntax used in the ReactNativeLocalization module
+- [react-localization](https://github.com/stefalda/react-localization) - translate using the same syntax as used in ReactNativeLocalization
 - [react-intl](https://formatjs.io) - internationalize your web apps with react-intl library
 - [react-intl (CLI)](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [react-intl-hooks](https://github.com/CreateThrive/react-intl-hooks) - small and fast library that you can use to replace FormatJS components
@@ -59,9 +66,9 @@
 - [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) - localization library for handling translations
 - [react-translate-component](https://github.com/martinandert/react-translate-component) - component for React that utilizes the Counterpart module and the Interpolate component
 - [react-littera](https://github.com/DRFR0ST/react-littera) - lightweight library for i18n using hooks
-- [talkr](https://github.com/DoneDeal0/Talkr) - lightest i18n provider for React applications (< 1kb). Supports Typescript, smart autocompletion, handles plural rules, 0 dependencies.
+- [talkr](https://github.com/DoneDeal0/Talkr) - light i18n provider for React (< 1kb), Typescript, smart autocompletion, plural rules
 
-#### Framework specific 
+#### Other JS/TS frameworks 
 
 - (Angular) [ngx-translate](https://github.com/ngx-translate/core) - i18n for Angular
 - (Angular) [transloco](https://github.com/jsverse/transloco) - i18n for Angular
@@ -77,16 +84,9 @@
 - [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) - Baeldun post about using Spring Messages
 - [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) - Stackoverflow thread about i18n in Spring Boot
 - [Java Time Classes](https://stackoverflow.com/questions/5175728/how-to-get-the-current-date-time-in-java/5175900) - Stackoverflow thread about time and timezones in Java.
+- (image) [Java time classes)()
 
-
-![Java time classes](https://i.stack.imgur.com/MZe55.png)
-
-### Jekyll
-
-- [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin) - Jekyll Multiple Languages is an internationalization plugin for Jekyll.
-- [jekyll-i18n](https://github.com/liamzebedee/jekyll-i18n) - Jekyll i18n is a plugin that enables simplistic multi-language site designs using Jekyll. (not maintained)
-
-### Swift (iOS & macOS)
+### Swift
 
 - [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - framework to use cloud translation API by Google in Swift
 
@@ -101,6 +101,10 @@
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - library to translate between different languages in a simple way using multiple translators
 - [LangLint](https://github.com/HzaCode/Langlint) - high-performance Rust-powered automated translation tool for code comments and docstrings
 
+### Jekyll
+
+- [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin) - Jekyll Multiple Languages is an internationalization plugin for Jekyll.
+- [jekyll-i18n](https://github.com/liamzebedee/jekyll-i18n) - Jekyll i18n is a plugin that enables simplistic multi-language site designs using Jekyll. (not maintained)
 
 ## 🔦 Message and key extraction
 
@@ -110,19 +114,20 @@
 
 ## 💻 Apps and extensions for translation management
 
+- [POEditor](https://poeditor.com) - tool for managing PO language files
+- [Crow Translate](https://github.com/crow-translate/crow-translate) - lightweight desktop translator, uses Google, Yandex and Bing translate API
+- [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - cross-platform app that automatically translate texts when copied in the clipboard
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - open source offline translation app based on OpenNMT
 - [AITranslateKit](https://aitranslatekit.vercel.app) - AI-powered i18n JSON file translator that preserves structure, variables, and context
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that translates i18n files (XLIFF, JSON) using LLM providers
-- [Crow Translate](https://github.com/crow-translate/crow-translate) - lightweight desktop translator, uses Google, Yandex and Bing translate API
-- [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - cross-platform app that automatically translate texts when copied in the clipboard
 - [gettext](http://www.gnu.org/software/gettext) - tool for adding native language support to applications
 - [RTranslator](https://github.com/niedev/RTranslator) - simultaneous translator app for Android based on Google's API
+- [i18n-ally](https://github.com/antfu/i18n-ally) - VS Code extension
+- [Sherlock](https://inlang.com/m/r7kp498g/app-inlang-ideExtension) - VS Code extension
 - [ElectronJS i18n](https://www.electronjs.org/apps/i18n-manager) - cross-platform i18n manager
 - [OmegaT](https://omegat.org) - free translation memory application that works on all popular operating systems
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - self-hosted web application to translate texts
 - [LRM](https://github.com/nickprotop/LocalizationManager) - cross-platform CLI for managing JSON (i18next compatible) and .resx localization files
-- [POEditor](https://poeditor.com) - tool for managing PO language files
-- [Sherlock](https://inlang.com/m/r7kp498g/app-inlang-ideExtension) - extension for VS Code
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
 
 
@@ -131,7 +136,7 @@
 - [Luxon](https://moment.github.io/luxon/) - powerful, modern, and friendly wrapper for JavaScript dates and times (replaces momentjs)
 - [date-fns](https://date-fns.org) - JavaScript library for dates
 - [fakenumber.org](https://fakenumber.org) - fake phone number generator
-- [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
+- [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - parsing, formatting, and validating phone numbers (Java, C++, JavaScript) 
 - [intl-tel-input.com](https://intl-tel-input.com/) - JavaScrript library for validating international phone numbers
 - [anywhen](https://github.com/kirilinsky/anywhen) - relative and absolute fuzzy date formatting for any language, zero deps, native Intl.
 
@@ -201,6 +206,3 @@ Link: https://www.youtube.com/watch?v=-5wpm-gesOY
 - translation key - element in source code which is used by i18n library to replace it with translation message
 - translation - translated text or message
 
-## 📢 Contribute
-
-Feel free to add or update the content!
