@@ -84,7 +84,7 @@
 - [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) - Baeldun post about using Spring Messages
 - [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) - Stackoverflow thread about i18n in Spring Boot
 - [Java Time Classes](https://stackoverflow.com/questions/5175728/how-to-get-the-current-date-time-in-java/5175900) - Stackoverflow thread about time and timezones in Java.
-- (image) [Java time classes)()
+- (image) [Java time classes](https://github.com/oh-jon-paul/awesome-i18n/blob/main/time-api.png)
 
 ### Swift
 
