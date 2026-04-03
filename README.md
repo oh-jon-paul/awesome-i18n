@@ -179,7 +179,11 @@
 ## 🍿 Videos
 
 - [Internationalis(z)ing Code - Computerphile](https://www.youtube.com/watch?v=0j74jcxSunY)
+![youtube computerphile about internationalization](youtube-computerphile-internationalization.png)
+  
 - [The Problem with Time & Timezones - Computerphile](https://www.youtube.com/watch?v=-5wpm-gesOY)
+![youtube computerphile about timezones](youtube-computerphile-timezones.png)
+
 
 **Please avoid adding low-quality videos. Focus on high-level problems from trusted sources that will remain relevant over time.**
 
