@@ -10,6 +10,7 @@
 - do not add AI slop tools / libraries
 - do not add libraries that required paid service to work
 - keep your entry as short as possible (<150 chars)
+- entry must be short enough to not wrap
 - do not end your entry with a period
 - try to keep it lowercase
 - focus on what is unique, rather than generic message
