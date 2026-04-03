@@ -96,7 +96,7 @@
 
 ### Ruby
 
-- [Twitter/CLDR](https://github.com/twitter/twitter-cldr-rb) - implementation of the ICU that uses the Common Locale Data Repository to format dates, plurals
+- [Twitter/CLDR](https://github.com/twitter/twitter-cldr-rb) - ICU implementation that uses the CLDR to format dates, plurals
 - [Ruby i18n](https://guides.rubyonrails.org/i18n.html) - official internationalization API document page
 
 ### Python
