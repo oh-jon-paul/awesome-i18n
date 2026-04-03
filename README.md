@@ -242,3 +242,4 @@ Link: https://www.youtube.com/watch?v=-5wpm-gesOY
 ## 📢 Contribute
 
 Feel free to add or update the content!
+- [TaleForge](https://www.tale-forge.com) - Creative writing platform supporting 10 languages with full i18n. Built with Next.js.
