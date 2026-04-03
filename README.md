@@ -119,7 +119,7 @@
 - (JS) [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 
 
-## 💻 Apps and extensions for translation management
+## Apps and extensions for translation management
 
 - [POEditor](https://poeditor.com) - tool for managing PO language files
 - [fakenumber.org](https://fakenumber.org) - fake phone number generator
@@ -139,14 +139,10 @@
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - self-hosted web application to translate texts
 - [LRM](https://github.com/nickprotop/LocalizationManager) - cross-platform CLI for managing JSON (i18next compatible) and .resx localization files
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
-
-
-## 🦾 Translation services
-
 - [Gengo](http://gengo.com) - translation is made by real people but you can make an order using API
-- [DeepL](https://deepl.com) - high-quality translation service
-- [Google Translate](https://translate.google.com)
-- [Microsoft Translator](https://www.microsoft.com/en-GB/translator/)
+- [DeepL](https://deepl.com) - high-quality text translation service
+- [Google Translate](https://translate.google.com) - text translation service
+- [Microsoft Translator](https://www.microsoft.com/en-GB/translator/) - text translation service
 
 ## 📚 Resources
 
