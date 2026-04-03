@@ -9,8 +9,8 @@
 - do not add paid/freemium services
 - do not add AI slop tools / libraries
 - do not add libraries that required paid service to work
-- keep your entry as short as possible, (<150 chars)
-- do not end your entry with period
+- keep your entry as short as possible (<150 chars)
+- do not end your entry with a period
 - try to keep it lowercase
 - focus on what is unique, rather than generic message
 - feel free to add more cateogories
