@@ -22,7 +22,7 @@
 
 ### JavaScript / TypeScript
 
-- [MessageFormat 2](https://messageformat.unicode.org) - a full featured localization system, from Unicode
+- [MessageFormat2](https://messageformat.unicode.org) - a full featured localization system, from Unicode
 - [date-formatter-i18n](https://github.com/asmaelabid/date-formatter-i18n) - lightweight library for formatting dates with i18n support, relative time
 - [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper, works in browser and CommonJS environment
 - [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - internationalization solution for JavaScript projects
