@@ -13,6 +13,7 @@
 - do not end your entry with period
 - try to keep it lowercase
 - focus on what is unique, rather than generic message
+- feel free to add more cateogories
 
 ## Remember to give this repo a star! 🌟
 
@@ -32,9 +33,9 @@
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [i18next](https://www.i18next.com) - internationalization framework for browser or any other JavaScript environment
 - [intljulep](https://github.com/laurentpayot/intljulep) - super lightweight yet powerful i18n library
-- [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data\
+- [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
 - [intlayer](https://intlayer.org) - per-component translations for JavaScript projects
-- [Jed](https://github.com/messageformat/Jed/) - Gettext style i18n library
+- [Jed](https://github.com/messageformat/Jed/) - gettext style i18n library
 - [lisan.js](http://lisanjs.com) - fast and small i18n library
 - [js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized internationalization
 - [npm i18n](https://www.npmjs.com/package/i18n) - lightweight simple translation module with dynamic JSON storage
@@ -42,7 +43,7 @@
 - [ttag](https://ttag.js.org/) - library for translations based on ES6 template literals
 - [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - type-safe, lightweight localization library for TypeScript with no external dependencies
 - [schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js
-- [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages
+- [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for JavaScript, plural and gender capable messages
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
 - (archived) [Intl.js](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - (archived) [facebook/fbt](https://github.com/facebook/fbt) - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
@@ -64,7 +65,7 @@
 - [react-persian](https://github.com/evandhq/react-persian) - set of react components for Persian localization
 - [react-translated](https://github.com/amsul/react-translated) - dead simple way to add complex translations
 - [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) - localization library for handling translations
-- [react-translate-component](https://github.com/martinandert/react-translate-component) - component for React that utilizes the Counterpart module and the Interpolate component
+- [react-translate-component](https://github.com/martinandert/react-translate-component) - component that utilizes the Counterpart/Interpolate components
 - [react-littera](https://github.com/DRFR0ST/react-littera) - lightweight library for i18n using hooks
 - [talkr](https://github.com/DoneDeal0/Talkr) - light i18n provider for React (< 1kb), Typescript, smart autocompletion, plural rules
 
@@ -83,7 +84,7 @@
 - [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) - Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage
 - [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) - Baeldun post about using Spring Messages
 - [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) - Stackoverflow thread about i18n in Spring Boot
-- [Java Time Classes](https://stackoverflow.com/questions/5175728/how-to-get-the-current-date-time-in-java/5175900) - Stackoverflow thread about time and timezones in Java.
+- [Java Time Classes](https://stackoverflow.com/questions/5175728/how-to-get-the-current-date-time-in-java/5175900) - Stackoverflow thread about time and timezones in Java
 - (image) [Java time classes](https://github.com/oh-jon-paul/awesome-i18n/blob/main/time-api.png)
 
 ### Swift
@@ -103,8 +104,8 @@
 
 ### Jekyll
 
-- [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin) - Jekyll Multiple Languages is an internationalization plugin for Jekyll.
-- [jekyll-i18n](https://github.com/liamzebedee/jekyll-i18n) - Jekyll i18n is a plugin that enables simplistic multi-language site designs using Jekyll. (not maintained)
+- [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin) - Jekyll Multiple Languages is an internationalization plugin
+- (archived) [jekyll-i18n](https://github.com/liamzebedee/jekyll-i18n) - Jekyll i18n is a plugin that enables simplistic multi-language site designs
 
 ## 🔦 Message and key extraction
 
@@ -138,7 +139,7 @@
 - [fakenumber.org](https://fakenumber.org) - fake phone number generator
 - [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - parsing, formatting, and validating phone numbers (Java, C++, JavaScript) 
 - [intl-tel-input.com](https://intl-tel-input.com/) - JavaScrript library for validating international phone numbers
-- [anywhen](https://github.com/kirilinsky/anywhen) - relative and absolute fuzzy date formatting for any language, zero deps, native Intl.
+- [anywhen](https://github.com/kirilinsky/anywhen) - relative and absolute fuzzy date formatting for any language, zero deps, native Intl
 
 ## 📚 Resources
 
