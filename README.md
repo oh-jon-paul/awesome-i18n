@@ -70,13 +70,14 @@
 - [react-littera](https://github.com/DRFR0ST/react-littera) - lightweight library for i18n using hooks
 - [talkr](https://github.com/DoneDeal0/Talkr) - light i18n provider for React (< 1kb), Typescript, smart autocompletion, plural rules
 
+
 #### Other JS/TS frameworks 
 
 - (Angular) [ngx-translate](https://github.com/ngx-translate/core) - i18n for Angular
 - (Angular) [transloco](https://github.com/jsverse/transloco) - i18n for Angular
 - (Svelte) [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - i18n for Svelte
 - (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) - i18n for VueJS
-- (VueJS) [sweet-i18n](https://github.com/wood3n/sweet-i18n) - automatic extraction and conversion of Chinese characters in Vue and JS files based on Babel
+- (VueJS) [sweet-i18n](https://github.com/wood3n/sweet-i18n) - automatic extraction and conversion of Chinese characters in Vue/JS files
 
 
 ### Java 
