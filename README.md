@@ -48,6 +48,7 @@
 - (archived) [Intl.js](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - (archived) [facebook/fbt](https://github.com/facebook/fbt) - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
 
+
 ### React framework
 
 - [general translation](https://github.com/generaltranslation/gt) - component translation for Next.js with SSR/SSG
@@ -76,6 +77,7 @@
 - (Svelte) [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - i18n for Svelte
 - (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) - i18n for VueJS
 - (VueJS) [sweet-i18n](https://github.com/wood3n/sweet-i18n) - automatic extraction and conversion of Chinese characters in Vue and JS files based on Babel
+
 
 ### Java 
 
@@ -107,24 +109,31 @@
 - [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin) - Jekyll Multiple Languages is an internationalization plugin
 - (archived) [jekyll-i18n](https://github.com/liamzebedee/jekyll-i18n) - Jekyll i18n is a plugin that enables simplistic multi-language site designs
 
-## 🔦 Message and key extraction
+## 📅 Utility libraries
 
-- [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
-- [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ IDEA plugin for extracing i18n keys
+- (JS) [Luxon](https://moment.github.io/luxon/) - powerful, modern, and friendly wrapper for JavaScript dates and times (replaces momentjs)
+- (JS) [date-fns](https://date-fns.org) - JavaScript library for dates
+- (JS) [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - parsing, formatting, and validating phone numbers (Java, C++, JavaScript) 
+- (JS) [intl-tel-input.com](https://intl-tel-input.com/) - JavaScrript library for validating international phone numbers
+- (JS) [anywhen](https://github.com/kirilinsky/anywhen) - relative and absolute fuzzy date formatting for any language, zero deps, native Intl
+- (JS) [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 
 
 ## 💻 Apps and extensions for translation management
 
 - [POEditor](https://poeditor.com) - tool for managing PO language files
+- [fakenumber.org](https://fakenumber.org) - fake phone number generator
+- [Dire](https://github.com/juliandreas/dire-cli) - CLI that processes missing translations in JSON files using AI
+- [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ IDEA plugin for extracing i18n keys
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - lightweight desktop translator, uses Google, Yandex and Bing translate API
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - cross-platform app that automatically translate texts when copied in the clipboard
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - open source offline translation app based on OpenNMT
 - [AITranslateKit](https://aitranslatekit.vercel.app) - AI-powered i18n JSON file translator that preserves structure, variables, and context
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that translates i18n files (XLIFF, JSON) using LLM providers
 - [gettext](http://www.gnu.org/software/gettext) - tool for adding native language support to applications
+- [i18n-ally](https://github.com/antfu/i18n-ally) - VS Code extension for i18n
 - [RTranslator](https://github.com/niedev/RTranslator) - simultaneous translator app for Android based on Google's API
-- [i18n-ally](https://github.com/antfu/i18n-ally) - VS Code extension
-- [Sherlock](https://inlang.com/m/r7kp498g/app-inlang-ideExtension) - VS Code extension
+- [Sherlock](https://inlang.com/m/r7kp498g/app-inlang-ideExtension) - VS Code extension for i18n
 - [ElectronJS i18n](https://www.electronjs.org/apps/i18n-manager) - cross-platform i18n manager
 - [OmegaT](https://omegat.org) - free translation memory application that works on all popular operating systems
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - self-hosted web application to translate texts
@@ -132,63 +141,51 @@
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
 
 
-## 📅 Utility libraries
+## 🦾 Translation services
 
-- [Luxon](https://moment.github.io/luxon/) - powerful, modern, and friendly wrapper for JavaScript dates and times (replaces momentjs)
-- [date-fns](https://date-fns.org) - JavaScript library for dates
-- [fakenumber.org](https://fakenumber.org) - fake phone number generator
-- [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) - parsing, formatting, and validating phone numbers (Java, C++, JavaScript) 
-- [intl-tel-input.com](https://intl-tel-input.com/) - JavaScrript library for validating international phone numbers
-- [anywhen](https://github.com/kirilinsky/anywhen) - relative and absolute fuzzy date formatting for any language, zero deps, native Intl
+- [Gengo](http://gengo.com) - translation is made by real people but you can make an order using API
+- [DeepL](https://deepl.com) - high-quality translation service
+- [Google Translate](https://translate.google.com)
+- [Microsoft Translator](https://www.microsoft.com/en-GB/translator/)
 
 ## 📚 Resources
 
-- [Stackoverflow: Localization vs Internationalization](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
+- [Stackoverflow: Localization vs Internationalization](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference)
 - [Stackoverflow: Daylight saving time and time-zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
-- [Blog post: Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8) - Blog post on dev.to about top 12 libraries for react localization
+- [Blog post: Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8)
 - [Blog post: Building a minimal i18n library](https://janmonschke.com/building-a-minimal-i18n-library)
-- [Blog post: Generating images with multi-language texts](https://bannerly.io/blog/posts/multi-language-image-variants/) - article about images localization and i18n in blog post banners
-- [Blog post: Language vs Locale](https://simplelocalize.io/blog/posts/language-vs-locale/) - what is the difference between language and locale
-- [Blog post: Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html) - blog post with a warning on using different i18n backends in development/production
-- [Blog post: What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/) - hreflang FAQ and explanation how to use it and why it is important for SEO
-- [Blog post: i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html) - article demonstrates how to set up and manage translations with autogenerated translation keys with FormatJS
-- [Github: FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl) - example project built with React-intl and React
-- [Github: i18next example project](https://github.com/simplelocalize/simplelocalize-i18next) - example project built with i18next and React
-- [Guide: Google Developers - Internationalization](https://developers.google.com/international/) - official Google document page for i18n
+- [Blog post: Generating images with multi-language texts](https://bannerly.io/blog/posts/multi-language-image-variants/)
+- [Blog post: Language vs Locale](https://simplelocalize.io/blog/posts/language-vs-locale/)
+- [Blog post: Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html)
+- [Blog post: What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/)
+- [Blog post: i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html)
+- [GitHub: FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl)
+- [GitHub: i18next example project](https://github.com/simplelocalize/simplelocalize-i18next)
+- [Guide: Google Developers - Internationalization](https://developers.google.com/international/)
 - [Guide: W3C i18n standards](https://www.w3.org/International/i18n-drafts/nav/about)
-- [Guide: Common Language Data Repository](http://cldr.unicode.org/) - Unicode CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available
-- [ICU: International Components for Unicode](http://site.icu-project.org/) - ICU is a mature and widely used providing Unicode and Globalization support for software applications
+- [Guide: Common Language Data Repository](http://cldr.unicode.org/)
+- [ICU: International Components for Unicode](http://site.icu-project.org/)
 
 ## 💭 Community tips & tricks
 
-- If you have tight layouts, my rough rule of thumb is to double the English text and make sure it fits. Then you will usually have enough space for translations.
-- Russian and German tend to have the longest translations, and the longest words. Get familiar with the shy-hyphen `&shy;` character. You put it in the word's html and it will only break the word/show the hyphen when necessary. Google “online hyphenation tool” so you know the appropriate places to break the word.
-- You need to translate numbers with decimals and commas because they are reversed in some languages (period appears as a comma, comma as a period).
-- Same goes for percent signs. Sometimes the % shows before the number, and not after. There might be a space between the number and %. It might show as %-KAL in Hungarian.
-- Greek question marks look like a semicolon.
-- Always keep datetimes in database in UTC. Always return datatimes from backend in UTC. Adjust datetimes on UI layer using timezone information from user or web browser. Accept datetimes in backend with any timezone.
+> If you have tight layouts, my rough rule of thumb is to double the English text and make sure it fits. Then you will usually have enough space for translations.
 
-## 🦾 Automated translation
+> Russian and German tend to have the longest translations, and the longest words. Get familiar with the shy-hyphen `&shy;` character. You put it in the word's html and it will only break the word/show the hyphen when necessary. Google “online hyphenation tool” so you know the appropriate places to break the word.
 
-- [Dire](https://github.com/juliandreas/dire-cli) - Go-based CLI that automatically processes missing translations in your i18n JSON files using translation and AI providers, glossary definitions, and translation memory
-- [Gengo](http://gengo.com) - translation is made by real people but you can make an order using API
-- [Google Translate](https://translate.google.com)
-- [Microsoft Translator](https://www.microsoft.com/en-GB/translator/)
-- [DeepL](https://deepl.com) - high-quality translation service
+> You need to translate numbers with decimals and commas because they are reversed in some languages (period appears as a comma, comma as a period). Same goes for percent signs. Sometimes the % shows before the number, and not after. There might be a space between the number and %. It might show as %-KAL in Hungarian.
+
+> Greek question marks look like a semicolon.
+
+> Always keep datetimes in database in UTC. Always return datatimes from backend in UTC. Adjust datetimes on UI layer using timezone information from user or web browser. Accept datetimes in backend with any timezone.
+
+
 
 ## 🍿 Videos
 
-#### Internationalis(z)ing Code - Computerphile
+- [Internationalis(z)ing Code - Computerphile](https://www.youtube.com/watch?v=0j74jcxSunY)
+- [The Problem with Time & Timezones - Computerphile](https://www.youtube.com/watch?v=-5wpm-gesOY)
 
-![youtube computerphile about internationalization](youtube-computerphile-internationalization.png)
-
-Link: https://www.youtube.com/watch?v=0j74jcxSunY
-
-####  The Problem with Time & Timezones - Computerphile
-
-![youtube computerphile about timezones](youtube-computerphile-timezones.png)
-
-Link: https://www.youtube.com/watch?v=-5wpm-gesOY
+**Please avoid adding low-quality videos. Focus on high-level problems from trusted sources that will remain relevant over time.**
 
 ## 👩‍🎓 Acronyms and keywords
 
