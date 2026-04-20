@@ -33,6 +33,7 @@
 - [FormatJS](https://formatjs.io) - internationalize your web apps on the client & server
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [i18next](https://www.i18next.com) - internationalization framework for browser or any other JavaScript environment
+- [locale-lint](https://github.com/francisojeah/locale-lint) - zero-config cli to detect missing i18n keys, unused translations, hardcoded strings, and interpolation mismatches
 - [intljulep](https://github.com/laurentpayot/intljulep) - super lightweight yet powerful i18n library
 - [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
 - [intlayer](https://intlayer.org) - per-component translations for JavaScript projects
