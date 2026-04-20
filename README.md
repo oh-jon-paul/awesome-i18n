@@ -76,6 +76,7 @@
 
 - (Angular) [ngx-translate](https://github.com/ngx-translate/core) - i18n for Angular
 - (Angular) [transloco](https://github.com/jsverse/transloco) - i18n for Angular
+- (Angular) [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) - manage translation files for native Angular CLI i18n
 - (Svelte) [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - i18n for Svelte
 - (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) - i18n for VueJS
 - (VueJS) [sweet-i18n](https://github.com/wood3n/sweet-i18n) - automatic extraction and conversion of Chinese characters in Vue/JS files
