@@ -134,6 +134,7 @@
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - open source offline translation app based on OpenNMT
 - [AITranslateKit](https://aitranslatekit.vercel.app) - AI-powered i18n JSON file translator that preserves structure, variables, and context
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that translates i18n files (XLIFF, JSON) using LLM providers
+- [BeLikeNative i18n Checker](https://github.com/theluckystrike/bln-i18n-checker) - GitHub Action that detects hardcoded user-facing strings in JS/TS pull requests and posts inline review comments with i18n extraction suggestions
 - [gettext](http://www.gnu.org/software/gettext) - tool for adding native language support to applications
 - [i18n-ally](https://github.com/antfu/i18n-ally) - VS Code extension for i18n
 - [RTranslator](https://github.com/niedev/RTranslator) - simultaneous translator app for Android based on Google's API
