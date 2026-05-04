@@ -147,6 +147,7 @@
 - [DeepL](https://deepl.com) - high-quality text translation service
 - [Google Translate](https://translate.google.com) - text translation service
 - [Microsoft Translator](https://www.microsoft.com/en-GB/translator/) - text translation service
+- [NRG](https://github.com/nanolaba/readme-generator) - markdown template engine that generates multi-language READMEs from a single .src.md source
 
 ## 📚 Resources
 
