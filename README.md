@@ -128,14 +128,13 @@
 
 - [POEditor](https://poeditor.com) - tool for managing PO language files
 - [SimpleLocalize.io](https://simplelocalize.io) - dead simple app for managing translations and markdowns
-- [fakenumber.org](https://fakenumber.org) - fake phone number generator
 - [Dire](https://github.com/juliandreas/dire-cli) - CLI that processes missing translations in JSON files using AI
 - [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ IDEA plugin for extracing i18n keys
-- [Crow Translate](https://github.com/crow-translate/crow-translate) - lightweight desktop translator, uses Google, Yandex and Bing translate API
-- [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - cross-platform app that automatically translate texts when copied in the clipboard
+- [Crow Translate](https://github.com/crow-translate/crow-translate) - lightweight desktop translator
+- [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - cross-platform app that automatically translate texts when copied
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - open source offline translation app based on OpenNMT
 - [NRG](https://github.com/nanolaba/readme-generator) - template engine that generates multi-language markdowns
-- [AITranslateKit](https://aitranslatekit.vercel.app) - AI-powered i18n JSON file translator that preserves structure, variables, and context
+- [AITranslateKit](https://aitranslatekit.vercel.app) - AI-powered i18n JSON file translator preserves structure, and variables
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that translates i18n files (XLIFF, JSON) using LLM providers
 - [i18n Checker](https://github.com/theluckystrike/bln-i18n-checker) - GitHub Action that detects hardcoded user-facing strings in JS/TS
 - [gettext](http://www.gnu.org/software/gettext) - tool for adding native language support to applications
@@ -147,10 +146,17 @@
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - self-hosted web application to translate texts
 - [LRM](https://github.com/nickprotop/LocalizationManager) - cross-platform CLI for managing JSON (i18next compatible) and .resx localization files
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
-- [Gengo](http://gengo.com) - translation is made by real people but you can make an order using API
-- [DeepL](https://deepl.com) - high-quality text translation service
+
+## Text translation services
+- [DeepL](https://deepl.com) - text translation service
 - [Google Translate](https://translate.google.com) - text translation service
 - [Microsoft Translator](https://www.microsoft.com/en-GB/translator/) - text translation service
+- [Gengo](http://gengo.com) - translation made by real people, but you can make an order using API
+
+
+## Other
+
+- [fakenumber.org](https://fakenumber.org) - fake phone number generator
 
 
 ## 📚 Resources
