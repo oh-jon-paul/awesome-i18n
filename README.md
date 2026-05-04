@@ -35,6 +35,7 @@
 - [i18next](https://www.i18next.com) - internationalization framework for browser or any other JavaScript environment
 - [locale-lint](https://github.com/francisojeah/locale-lint) - detect missing keys, unused translations, hardcoded strings, interpolation mismatches
 - [intljulep](https://github.com/laurentpayot/intljulep) - super lightweight yet powerful i18n library
+- [zero-intl](https://github.com/zero-intl/zero-intl) - dead simple library for modern apps
 - [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
 - [intlayer](https://intlayer.org) - per-component translations for JavaScript projects
 - [Jed](https://github.com/messageformat/Jed/) - gettext style i18n library
@@ -126,7 +127,7 @@
 ## Apps and extensions for translation management
 
 - [POEditor](https://poeditor.com) - tool for managing PO language files
-- [SimpleLocalize.io](https://simplelocalize.io) - app for managing translations and markdowns
+- [SimpleLocalize.io](https://simplelocalize.io) - dead simple app for managing translations and markdowns
 - [fakenumber.org](https://fakenumber.org) - fake phone number generator
 - [Dire](https://github.com/juliandreas/dire-cli) - CLI that processes missing translations in JSON files using AI
 - [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ IDEA plugin for extracing i18n keys
