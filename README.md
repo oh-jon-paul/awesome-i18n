@@ -146,6 +146,7 @@
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - self-hosted web application to translate texts
 - [LRM](https://github.com/nickprotop/LocalizationManager) - cross-platform CLI for managing JSON (i18next compatible) and .resx localization files
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
+- [WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate) - desktop app that generates translated subtitles from any video (whisper.cpp + local LLM or DeepL/OpenAI/Gemini)
 
 ## Text translation services
 - [DeepL](https://deepl.com) - text translation service
