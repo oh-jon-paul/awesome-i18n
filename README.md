@@ -23,6 +23,7 @@
 
 ### JavaScript / TypeScript
 
+- [Cosmo](https://cosmo.miloun.com/?lang=js) - Effortlessly localise dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
 - [MessageFormat2](https://messageformat.unicode.org) - a full featured localization system, from Unicode
 - [date-formatter-i18n](https://github.com/asmaelabid/date-formatter-i18n) - lightweight library for formatting dates with i18n support, relative time
 - [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper, works in browser and CommonJS environment
@@ -86,6 +87,7 @@
 
 ### Java 
 
+- [Cosmo](https://cosmo.miloun.com/?lang=java) - Effortlessly localise dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
 - [Thymeleaf](https://www.thymeleaf.org) - modern server-side Java template engine for both web and standalone environments
 - [Thymeleaf i18n docs](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts) - How to use `th:texts` for translations
 - [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) - Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage
@@ -105,9 +107,14 @@
 
 ### Python
 
+- [Cosmo](https://cosmo.miloun.com/?lang=python) - Effortlessly localise dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
 - [Python-i18n](https://pypi.org/project/python-i18n/) - internationalization package
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - library to translate between different languages in a simple way using multiple translators
 - [LangLint](https://github.com/HzaCode/Langlint) - high-performance Rust-powered automated translation tool for code comments and docstrings
+
+### PHP
+
+- [Cosmo](https://cosmo.miloun.com/?lang=php) - Effortlessly localise dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
 
 ### Jekyll
 
