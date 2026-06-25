@@ -146,6 +146,7 @@
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - self-hosted web application to translate texts
 - [LRM](https://github.com/nickprotop/LocalizationManager) - cross-platform CLI for managing JSON (i18next compatible) and .resx localization files
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
+- [i18n-inline-editor](https://github.com/thezuck/i18n-inline-editor-vite-demo) - Inline translation editor for vite - update in your actual web UI, save direclty to code
 
 ## Text translation services
 - [DeepL](https://deepl.com) - text translation service
