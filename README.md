@@ -52,6 +52,8 @@
 - (archived) [facebook/fbt](https://github.com/facebook/fbt) - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
 
 
+- [locakit](https://github.com/berkayyalcin7/locakit) - deterministic i18n engine: key diffing, lockfile staleness tracking, placeholder & glossary checks, zero deps
+
 ### React framework
 
 - [general translation](https://github.com/generaltranslation/gt) - component translation for Next.js with SSR/SSG
