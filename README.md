@@ -39,7 +39,6 @@
 - [intljulep](https://github.com/laurentpayot/intljulep) - super lightweight yet powerful i18n library
 - [zero-intl](https://github.com/zero-intl/zero-intl) - dead simple library for modern apps
 - [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
-- [Cosmo](https://cosmo.miloun.com/?lang=js) - effortlessly localise dates, numbers, money and units
 - [intlayer](https://intlayer.org) - per-component translations for JavaScript projects
 - [Jed](https://github.com/messageformat/Jed/) - gettext style i18n library
 - [lisan.js](http://lisanjs.com) - fast and small i18n library
@@ -109,7 +108,6 @@
 
 ### Python
 
-- [Cosmo](https://cosmo.miloun.com/?lang=python) - Effortlessly localise dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
 - [Python-i18n](https://pypi.org/project/python-i18n/) - internationalization package
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - library to translate between different languages in a simple way using multiple translators
 - [LangLint](https://github.com/HzaCode/Langlint) - high-performance Rust-powered automated translation tool for code comments and docstrings
