@@ -24,7 +24,7 @@
 ### JavaScript / TypeScript
 
 
-- [MessageFormat2](https://messageformat.unicode.org) - a full featured localization system, from Unicode
+- [MessageFormat2](https://messageformat.unicode.org) - full featured localization system, from Unicode
 - [date-formatter-i18n](https://github.com/asmaelabid/date-formatter-i18n) - lightweight library for formatting dates with i18n support, relative time
 - [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper, works in browser and CommonJS environment
 - [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - internationalization solution for JavaScript projects
@@ -44,8 +44,7 @@
 - [lisan.js](http://lisanjs.com) - fast and small i18n library
 - [js-lingui](https://github.com/lingui/js-lingui) - readable, automated, and optimized internationalization
 - [npm i18n](https://www.npmjs.com/package/i18n) - lightweight simple translation module with dynamic JSON storage
-- [ʻŌlelo Honua](https://www.olelohonua.com) - internationalize your website with LLMs, and cutting-edge translate/critique/repair loop
-- [ttag](https://ttag.js.org/) - library for translations based on ES6 template literals
+- [ttag](https://ttag.js.org/) - library for translations based on template literals
 - [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - type-safe, lightweight localization library for TypeScript with no external dependencies
 - [schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js
 - [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for JavaScript, plural and gender capable messages
@@ -59,7 +58,7 @@
 
 - [general translation](https://github.com/generaltranslation/gt) - component translation for Next.js with SSR/SSG
 - [next-translate](https://github.com/vinissimus/next-translate) - easy i18n for NextJS, ~1kb of size
-- [next-intl](https://github.com/amannn/next-intl) - a minimal solution for internationalization in Next.js
+- [next-intl](https://github.com/amannn/next-intl) - minimal solution for internationalization in Next.js
 - [react-translate](https://github.com/bloodyowl/react-translate) - internationalization for React
 - [react-native-localize](https://github.com/zoontek/react-native-localize) - toolbox for your React Native app localization
 - [react-localization](https://github.com/stefalda/react-localization) - translate using the same syntax as used in ReactNativeLocalization
@@ -68,7 +67,7 @@
 - [react-intl-hooks](https://github.com/CreateThrive/react-intl-hooks) - small and fast library that you can use to replace FormatJS components
 - [react-i18nify](https://github.com/sealninja/react-i18nify) - simple i18n translation and localization components and helpers for React
 - [react-i18next](https://react.i18next.com/) - internationalization framework for React and React Native which is based on i18next
-- [react-i18n-mini](https://github.com/SanichKotikov/react-i18n-mini) - a tiny (~2.39 kB) internationalisation library for React
+- [react-i18n-mini](https://github.com/SanichKotikov/react-i18n-mini) - tiny (~2.39 kB) internationalisation library for React
 - [react-persian](https://github.com/evandhq/react-persian) - set of react components for Persian localization
 - [react-translated](https://github.com/amsul/react-translated) - dead simple way to add complex translations
 - [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) - localization library for handling translations
@@ -91,11 +90,11 @@
 
 - [Thymeleaf](https://www.thymeleaf.org) - modern server-side Java template engine for both web and standalone environments
 - [Thymeleaf i18n docs](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts) - How to use `th:texts` for translations
-- [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) - Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage
-- [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) - Baeldun post about using Spring Messages
-- [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) - Stackoverflow thread about i18n in Spring Boot
-- [Java Time Classes](https://stackoverflow.com/questions/5175728/how-to-get-the-current-date-time-in-java/5175900) - Stackoverflow thread about time and timezones in Java
-- (image) [Java time classes](https://github.com/oh-jon-paul/awesome-i18n/blob/main/time-api.png)
+- [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) - Spring Boot internationalization, LocaleResolver & LocaleChangeInterceptor usage
+- [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) - Baeldung post about using Spring Messages
+- [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) - StackOverflow thread about i18n in Spring Boot
+- [Java Time Classes](https://stackoverflow.com/questions/5175728/how-to-get-the-current-date-time-in-java/5175900) - Stackoverflow thread about time and timezones
+- (image) [Java time classes](https://github.com/oh-jon-paul/awesome-i18n/blob/main/time-api.png) - table with date-time classes
 
 ### Swift
 
