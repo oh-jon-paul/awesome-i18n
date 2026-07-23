@@ -23,7 +23,7 @@
 
 ### JavaScript / TypeScript
 
-- [Cosmo](https://cosmo.miloun.com/?lang=js) - Effortlessly localise dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
+
 - [MessageFormat2](https://messageformat.unicode.org) - a full featured localization system, from Unicode
 - [date-formatter-i18n](https://github.com/asmaelabid/date-formatter-i18n) - lightweight library for formatting dates with i18n support, relative time
 - [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper, works in browser and CommonJS environment
@@ -35,9 +35,11 @@
 - [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - [i18next](https://www.i18next.com) - internationalization framework for browser or any other JavaScript environment
 - [locale-lint](https://github.com/francisojeah/locale-lint) - detect missing keys, unused translations, hardcoded strings, interpolation mismatches
+- [locakit](https://github.com/berkayyalcin7/locakit) - i18n engine for key diffing, lockfile staleness tracking, placeholder, glossary checks
 - [intljulep](https://github.com/laurentpayot/intljulep) - super lightweight yet powerful i18n library
 - [zero-intl](https://github.com/zero-intl/zero-intl) - dead simple library for modern apps
 - [jquery/globalize](https://github.com/jquery/globalize) - library for i18n that leverages the official Unicode CLDR JSON data
+- [Cosmo](https://cosmo.miloun.com/?lang=js) - effortlessly localise dates, numbers, money and units
 - [intlayer](https://intlayer.org) - per-component translations for JavaScript projects
 - [Jed](https://github.com/messageformat/Jed/) - gettext style i18n library
 - [lisan.js](http://lisanjs.com) - fast and small i18n library
@@ -53,8 +55,6 @@
 - (archived) [Intl.js](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - (archived) [facebook/fbt](https://github.com/facebook/fbt) - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
 
-
-- [locakit](https://github.com/berkayyalcin7/locakit) - deterministic i18n engine: key diffing, lockfile staleness tracking, placeholder & glossary checks, zero deps
 
 ### React framework
 
@@ -90,7 +90,6 @@
 
 ### Java 
 
-- [Cosmo](https://cosmo.miloun.com/?lang=java) - Effortlessly localise dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
 - [Thymeleaf](https://www.thymeleaf.org) - modern server-side Java template engine for both web and standalone environments
 - [Thymeleaf i18n docs](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts) - How to use `th:texts` for translations
 - [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) - Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage
@@ -144,20 +143,20 @@
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - cross-platform app that automatically translate texts when copied
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - open source offline translation app based on OpenNMT
 - [NRG](https://github.com/nanolaba/readme-generator) - template engine that generates multi-language markdowns
-- [AITranslateKit](https://aitranslatekit.vercel.app) - AI-powered i18n JSON file translator preserves structure, and variables
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that translates i18n files (XLIFF, JSON) using LLM providers
 - [i18n Checker](https://github.com/theluckystrike/bln-i18n-checker) - GitHub Action that detects hardcoded user-facing strings in JS/TS
 - [gettext](http://www.gnu.org/software/gettext) - tool for adding native language support to applications
 - [i18n-ally](https://github.com/antfu/i18n-ally) - VS Code extension for i18n
+- [i18n-inline-editor](https://github.com/thezuck/i18n-inline-editor-vite-demo) - inline translation editor for Vite
 - [RTranslator](https://github.com/niedev/RTranslator) - simultaneous translator app for Android based on Google's API
-- [Sherlock](https://inlang.com/m/r7kp498g/app-inlang-ideExtension) - VS Code extension for i18n
+- [Sherlock](https://inlang.com/m/rR7kp498g/app-inlang-ideExtension) - VS Code extension for i18n
 - [ElectronJS i18n](https://www.electronjs.org/apps/i18n-manager) - cross-platform i18n manager
 - [OmegaT](https://omegat.org) - free translation memory application that works on all popular operating systems
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - self-hosted web application to translate texts
 - [LRM](https://github.com/nickprotop/LocalizationManager) - cross-platform CLI for managing JSON (i18next compatible) and .resx localization files
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
-- [i18n-convert](https://github.com/i18n-agent/i18n-convert) - Rust CLI that losslessly converts between 32 i18n file formats (PO, XLIFF, Android XML, iOS Strings, xcstrings, ARB, JSON variants, YAML, RESX, TMX, and more) with explicit data-loss warnings
-- [i18n-inline-editor](https://github.com/thezuck/i18n-inline-editor-vite-demo) - Inline translation editor for vite - update in your actual web UI, save direclty to code
+- [i18n-convert](https://github.com/i18n-agent/i18n-convert) - cli that losslessly converts between i18n file formats
+
 
 ## Text translation services
 - [DeepL](https://deepl.com) - text translation service
