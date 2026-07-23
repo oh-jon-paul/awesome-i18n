@@ -23,6 +23,7 @@
 
 ### JavaScript / TypeScript
 
+- [Cosmo](https://cosmo.miloun.com/?lang=js) - Effortlessly localise dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
 - [MessageFormat2](https://messageformat.unicode.org) - a full featured localization system, from Unicode
 - [date-formatter-i18n](https://github.com/asmaelabid/date-formatter-i18n) - lightweight library for formatting dates with i18n support, relative time
 - [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper, works in browser and CommonJS environment
@@ -48,9 +49,12 @@
 - [schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js
 - [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for JavaScript, plural and gender capable messages
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
+- [ilingo](https://ilingo.tada5hi.net) - framework-agnostic i18n core with pluggable stores, BCP-47 fallback and Intl-native plurals & formatters
 - (archived) [Intl.js](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - (archived) [facebook/fbt](https://github.com/facebook/fbt) - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
 
+
+- [locakit](https://github.com/berkayyalcin7/locakit) - deterministic i18n engine: key diffing, lockfile staleness tracking, placeholder & glossary checks, zero deps
 
 ### React framework
 
@@ -86,6 +90,7 @@
 
 ### Java 
 
+- [Cosmo](https://cosmo.miloun.com/?lang=java) - Effortlessly localise dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
 - [Thymeleaf](https://www.thymeleaf.org) - modern server-side Java template engine for both web and standalone environments
 - [Thymeleaf i18n docs](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts) - How to use `th:texts` for translations
 - [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) - Spring Boot internationalization. LocaleResolver & LocaleChangeInterceptor example usage
@@ -105,9 +110,14 @@
 
 ### Python
 
+- [Cosmo](https://cosmo.miloun.com/?lang=python) - Effortlessly localise dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
 - [Python-i18n](https://pypi.org/project/python-i18n/) - internationalization package
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - library to translate between different languages in a simple way using multiple translators
 - [LangLint](https://github.com/HzaCode/Langlint) - high-performance Rust-powered automated translation tool for code comments and docstrings
+
+### PHP
+
+- [Cosmo](https://cosmo.miloun.com/?lang=php) - Effortlessly localise dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
 
 ### Jekyll
 
@@ -147,6 +157,7 @@
 - [LRM](https://github.com/nickprotop/LocalizationManager) - cross-platform CLI for managing JSON (i18next compatible) and .resx localization files
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
 - [i18n-convert](https://github.com/i18n-agent/i18n-convert) - Rust CLI that losslessly converts between 32 i18n file formats (PO, XLIFF, Android XML, iOS Strings, xcstrings, ARB, JSON variants, YAML, RESX, TMX, and more) with explicit data-loss warnings
+- [i18n-inline-editor](https://github.com/thezuck/i18n-inline-editor-vite-demo) - Inline translation editor for vite - update in your actual web UI, save direclty to code
 
 ## Text translation services
 - [DeepL](https://deepl.com) - text translation service
