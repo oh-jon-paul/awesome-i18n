@@ -89,7 +89,7 @@
 ### Java 
 
 - [Thymeleaf](https://www.thymeleaf.org) - modern server-side Java template engine for both web and standalone environments
-- [Thymeleaf i18n docs](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts) - How to use `th:texts` for translations
+- [Thymeleaf i18n docs](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#using-texts) - how to use `th:texts` for translations
 - [Spring Messages](https://www.baeldung.com/spring-boot-internationalization) - Spring Boot internationalization, LocaleResolver & LocaleChangeInterceptor usage
 - [Spring Boot localization](https://www.baeldung.com/spring-boot-internationalization) - Baeldung post about using Spring Messages
 - [i18n in Spring Boot](https://stackoverflow.com/questions/36531131/i18n-in-spring-boot-thymeleaf) - StackOverflow thread about i18n in Spring Boot
@@ -111,10 +111,6 @@
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - library to translate between different languages in a simple way using multiple translators
 - [LangLint](https://github.com/HzaCode/Langlint) - high-performance Rust-powered automated translation tool for code comments and docstrings
 
-### PHP
-
-- [Cosmo](https://cosmo.miloun.com/?lang=php) - Effortlessly localise dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
-
 ### Jekyll
 
 - [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin) - Jekyll Multiple Languages is an internationalization plugin
@@ -134,7 +130,7 @@
 
 - [POEditor](https://poeditor.com) - tool for managing PO language files
 - [SimpleLocalize.io](https://simplelocalize.io) - dead simple app for managing translations and markdowns
-- [Dire](https://github.com/juliandreas/dire-cli) - CLI that processes missing translations in JSON files using AI
+- [Dire](https://github.com/juliandreas/dire-cli) - cli that processes missing translations in JSON files using AI
 - [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ IDEA plugin for extracing i18n keys
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - lightweight desktop translator
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - cross-platform app that automatically translate texts when copied
