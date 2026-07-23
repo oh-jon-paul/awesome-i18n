@@ -85,6 +85,9 @@
 - (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) - i18n for VueJS
 - (VueJS) [sweet-i18n](https://github.com/wood3n/sweet-i18n) - automatic extraction and conversion of Chinese characters in Vue/JS files
 
+### PHP
+
+[Add your links here](https://github.com/oh-jon-paul/awesome-i18n/issues/new)
 
 ### Java 
 
@@ -116,7 +119,7 @@
 - [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin) - Jekyll Multiple Languages is an internationalization plugin
 - (archived) [jekyll-i18n](https://github.com/liamzebedee/jekyll-i18n) - Jekyll i18n is a plugin that enables simplistic multi-language site designs
 
-## 📅 Utility libraries
+## 📅 Utilities
 
 - (JS) [Luxon](https://moment.github.io/luxon/) - powerful, modern, and friendly wrapper for JavaScript dates and times (replaces momentjs)
 - (JS) [date-fns](https://date-fns.org) - JavaScript library for dates
@@ -208,7 +211,7 @@
 
 ## 👩‍🎓 Acronyms and keywords
 
-### 🧐 Acronyms
+### Acronyms
 - i18n - internationalization
 - l10n - localization
 - xl8 - group of translation management systems
@@ -219,7 +222,7 @@
 - TMS - translation management system
 - GMS - globalization translation system (same thing as TMS)
 
-### 🔑 Keywords
+### Keywords
 - translation key - element in source code which is used by i18n library to replace it with translation message
 - translation - translated text or message
 
