@@ -144,6 +144,7 @@
 - [NRG](https://github.com/nanolaba/readme-generator) - template engine that generates multi-language markdowns
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that translates i18n files (XLIFF, JSON) using LLM providers
 - [i18n Checker](https://github.com/theluckystrike/bln-i18n-checker) - GitHub Action that detects hardcoded user-facing strings in JS/TS
+- [japan-ux-copy](https://github.com/create-aquarius/japan-ux-copy) - local-first CLI and GitHub Action for Japanese locale checks
 - [gettext](http://www.gnu.org/software/gettext) - tool for adding native language support to applications
 - [i18n-ally](https://github.com/antfu/i18n-ally) - VS Code extension for i18n
 - [i18n-inline-editor](https://github.com/thezuck/i18n-inline-editor-vite-demo) - inline translation editor for Vite
