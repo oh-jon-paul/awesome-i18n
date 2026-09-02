@@ -53,6 +53,7 @@
 - [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for JavaScript, plural and gender capable messages
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
 - [ilingo](https://ilingo.tada5hi.net) - framework-agnostic i18n core with pluggable stores, BCP-47 fallback and Intl-native plurals & formatters
+- [BidiLens](https://github.com/CodeinScrubs/BidiLens) - per-block rtl/ltr direction and inline isolation without rewriting source text
 - (archived) [Intl.js](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - (archived) [facebook/fbt](https://github.com/facebook/fbt) - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
 
