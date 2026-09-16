@@ -155,6 +155,7 @@
 - [LRM](https://github.com/nickprotop/LocalizationManager) - cross-platform CLI for managing JSON (i18next compatible) and .resx localization files
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
 - [i18n-convert](https://github.com/i18n-agent/i18n-convert) - cli that losslessly converts between i18n file formats
+- [XLIFF Word Counter](https://nextgenailearning.com/tools/xliff-word-counter) - counts translatable words in XLIFF, minus locked units and repeats
 
 
 ## Text translation services
