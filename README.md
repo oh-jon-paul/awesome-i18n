@@ -180,6 +180,7 @@
 - [Blog post: Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html)
 - [Blog post: What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/)
 - [Blog post: i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html)
+- [Blog post: What language 158 million websites declare](https://www.stackscan.com/blog/website-language-statistics)
 - [GitHub: FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl)
 - [GitHub: i18next example project](https://github.com/simplelocalize/simplelocalize-i18next)
 - [Guide: Google Developers - Internationalization](https://developers.google.com/international/)
