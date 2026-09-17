@@ -132,6 +132,7 @@
 - (JS) [intl-tel-input.com](https://intl-tel-input.com/) - JavaScrript library for validating international phone numbers
 - (JS) [anywhen](https://github.com/kirilinsky/anywhen) - relative and absolute fuzzy date formatting for any language, zero deps, native Intl
 - (JS) [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
+- (JS) [ux-ui-audit](https://github.com/uxbyissa/ux-ui-audit) - browser probes that audit arabic plural agreement, numeral mixing and bidi hazards
 
 
 ## Apps and extensions for translation management
