@@ -87,6 +87,8 @@
 - (Svelte) [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - i18n for Svelte
 - (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) - i18n for VueJS
 - (VueJS) [sweet-i18n](https://github.com/wood3n/sweet-i18n) - automatic extraction and conversion of Chinese characters in Vue/JS files
+- (Nuxt) [nuxt-i18n-micro](https://github.com/s00d/nuxt-i18n-micro) - strategy-based i18n; @i18n-micro packages for vue/react/preact/solid/astro/node
+
 
 ### PHP
 
