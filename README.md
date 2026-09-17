@@ -16,8 +16,7 @@
 - do not end your entry with a period
 - try to keep it lowercase
 - focus on what is unique, rather than generic message
-- feel free to add more cateogories
-
+- feel free to add more categories
 
 ## Remember to give this repo a star! 🌟
 
