@@ -163,6 +163,7 @@
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
 - [i18n-convert](https://github.com/i18n-agent/i18n-convert) - cli that losslessly converts between i18n file formats
 - [XLIFF Word Counter](https://nextgenailearning.com/tools/xliff-word-counter) - counts translatable words in XLIFF, minus locked units and repeats
+- [enum-plus](https://github.com/shijistar/enum-plus) - localized labels, badges and dropdown options straight from your enums, with React/Vue/Next plugins
 
 
 ## Text translation services
