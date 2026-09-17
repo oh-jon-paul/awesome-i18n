@@ -16,8 +16,7 @@
 - do not end your entry with a period
 - try to keep it lowercase
 - focus on what is unique, rather than generic message
-- feel free to add more cateogories
-
+- feel free to add more categories
 
 ## Remember to give this repo a star! 🌟
 
@@ -53,6 +52,9 @@
 - [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for JavaScript, plural and gender capable messages
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
 - [ilingo](https://ilingo.tada5hi.net) - framework-agnostic i18n core with pluggable stores, BCP-47 fallback and Intl-native plurals & formatters
+- [bazi-terms](https://github.com/favkit/bazi-kit) - bilingual (zh/en) bazi & four-pillars terminology database with a translate() helper
+- [BidiLens](https://github.com/CodeinScrubs/BidiLens) - per-block rtl/ltr direction and inline isolation without rewriting source text
+
 - (archived) [Intl.js](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - (archived) [facebook/fbt](https://github.com/facebook/fbt) - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
 
@@ -84,9 +86,12 @@
 - (Angular) [ngx-translate](https://github.com/ngx-translate/core) - i18n for Angular
 - (Angular) [transloco](https://github.com/jsverse/transloco) - i18n for Angular
 - (Angular) [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) - manage translation files for native Angular CLI i18n
+- (Angular) [ngx-runtime-i18n](https://github.com/AshwinSathian/ngx-runtime-i18n) - signals-first, SSR-safe runtime i18n for Angular
 - (Svelte) [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - i18n for Svelte
 - (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) - i18n for VueJS
 - (VueJS) [sweet-i18n](https://github.com/wood3n/sweet-i18n) - automatic extraction and conversion of Chinese characters in Vue/JS files
+- (Nuxt) [nuxt-i18n-micro](https://github.com/s00d/nuxt-i18n-micro) - strategy-based i18n; @i18n-micro packages for vue/react/preact/solid/astro/node
+
 
 ### PHP
 
@@ -130,6 +135,7 @@
 - (JS) [intl-tel-input.com](https://intl-tel-input.com/) - JavaScrript library for validating international phone numbers
 - (JS) [anywhen](https://github.com/kirilinsky/anywhen) - relative and absolute fuzzy date formatting for any language, zero deps, native Intl
 - (JS) [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
+- (JS) [ux-ui-audit](https://github.com/uxbyissa/ux-ui-audit) - browser probes that audit arabic plural agreement, numeral mixing and bidi hazards
 
 
 ## Apps and extensions for translation management
@@ -144,6 +150,7 @@
 - [NRG](https://github.com/nanolaba/readme-generator) - template engine that generates multi-language markdowns
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that translates i18n files (XLIFF, JSON) using LLM providers
 - [i18n Checker](https://github.com/theluckystrike/bln-i18n-checker) - GitHub Action that detects hardcoded user-facing strings in JS/TS
+- [Shipi18n](https://github.com/Shipi18n/shipi18n) - ci linter for locale files: key/placeholder/plural checks + optional llm mistranslation pass; json, po, xliff, arb, xcstrings
 - [gettext](http://www.gnu.org/software/gettext) - tool for adding native language support to applications
 - [i18n-ally](https://github.com/antfu/i18n-ally) - VS Code extension for i18n
 - [i18n-inline-editor](https://github.com/thezuck/i18n-inline-editor-vite-demo) - inline translation editor for Vite
@@ -155,6 +162,7 @@
 - [LRM](https://github.com/nickprotop/LocalizationManager) - cross-platform CLI for managing JSON (i18next compatible) and .resx localization files
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
 - [i18n-convert](https://github.com/i18n-agent/i18n-convert) - cli that losslessly converts between i18n file formats
+- [XLIFF Word Counter](https://nextgenailearning.com/tools/xliff-word-counter) - counts translatable words in XLIFF, minus locked units and repeats
 
 
 ## Text translation services
@@ -180,6 +188,7 @@
 - [Blog post: Development/Production parity for Rails i18n](https://withatwist.dev/the-12-factor-app-dev-and-prod-parity.html)
 - [Blog post: What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/)
 - [Blog post: i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html)
+- [Blog post: What language 158 million websites declare (2026)](https://www.stackscan.com/blog/website-language-statistics)
 - [Dataset: Currency symbols and separators by country](https://alice51849.github.io/ios-app-guide/data/currency-format-by-country.html)
 - [GitHub: FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl)
 - [GitHub: i18next example project](https://github.com/simplelocalize/simplelocalize-i18next)
