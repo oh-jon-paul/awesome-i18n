@@ -142,6 +142,7 @@
 
 - [POEditor](https://poeditor.com) - tool for managing PO language files
 - [SimpleLocalize.io](https://simplelocalize.io) - dead simple app for managing translations and markdowns
+- [App Store Localizer](https://asolocalization.com) - free OSS tool to localize App Store / Play Store listing metadata and screenshots
 - [Dire](https://github.com/juliandreas/dire-cli) - cli that processes missing translations in JSON files using AI
 - [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ IDEA plugin for extracing i18n keys
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - lightweight desktop translator
