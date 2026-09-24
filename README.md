@@ -52,6 +52,7 @@
 - [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for JavaScript, plural and gender capable messages
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
 - [ilingo](https://ilingo.tada5hi.net) - framework-agnostic i18n core with pluggable stores, BCP-47 fallback and Intl-native plurals & formatters
+- [@i18n-micro/runtime](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/runtime) - framework-agnostic createI18n for browser and workers, no fs
 - [bazi-terms](https://github.com/favkit/bazi-kit) - bilingual (zh/en) bazi & four-pillars terminology database with a translate() helper
 - [BidiLens](https://github.com/CodeinScrubs/BidiLens) - per-block rtl/ltr direction and inline isolation without rewriting source text
 
