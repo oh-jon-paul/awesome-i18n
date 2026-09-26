@@ -178,6 +178,7 @@
 ## Other
 
 - [fakenumber.org](https://fakenumber.org) - fake phone number generator
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) - switch android emulator and phone locale, rtl and pseudo-locales in one click on macos
 
 
 ## 📚 Resources
