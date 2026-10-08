@@ -136,6 +136,7 @@
 - (JS) [anywhen](https://github.com/kirilinsky/anywhen) - relative and absolute fuzzy date formatting for any language, zero deps, native Intl
 - (JS) [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - (JS) [ux-ui-audit](https://github.com/uxbyissa/ux-ui-audit) - browser probes that audit arabic plural agreement, numeral mixing and bidi hazards
+- (Rust) [chislo](https://github.com/rekurt/chislo) - russian number-to-words with gender, currency and date formatting
 
 
 ## Apps and extensions for translation management
