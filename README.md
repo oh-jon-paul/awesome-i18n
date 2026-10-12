@@ -184,6 +184,7 @@
 
 - [Stackoverflow: Localization vs Internationalization](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference)
 - [Stackoverflow: Daylight saving time and time-zone best practices](http://stackoverflow.com/questions/2532729/daylight-saving-time-and-time-zone-best-practices)
+- [date ambiguity checker](https://www.keithstaggers.com/notes/ambiguous-date-checker/) - compare day-first and month-first dates
 - [Blog post: Top 12 libraries for React localization](https://dev.to/jpomykala/top-12-libraries-for-nextjs-react-apps-and-react-native-apps-for-i18n-and-react-localization-5fi8)
 - [Blog post: Building a minimal i18n library](https://janmonschke.com/building-a-minimal-i18n-library)
 - [Blog post: Generating images with multi-language texts](https://bannerly.io/blog/posts/multi-language-image-variants/)
