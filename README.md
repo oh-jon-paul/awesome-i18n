@@ -136,6 +136,7 @@
 - (JS) [anywhen](https://github.com/kirilinsky/anywhen) - relative and absolute fuzzy date formatting for any language, zero deps, native Intl
 - (JS) [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - (JS) [ux-ui-audit](https://github.com/uxbyissa/ux-ui-audit) - browser probes that audit arabic plural agreement, numeral mixing and bidi hazards
+- (JS) [app store storefronts](https://shotlingo.com/tools/app-store-storefronts) - free dataset of 50 app store storefronts with iso country codes, currencies and the locale to ship first
 
 
 ## Apps and extensions for translation management
