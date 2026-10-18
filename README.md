@@ -153,6 +153,7 @@
 - [i18n Checker](https://github.com/theluckystrike/bln-i18n-checker) - GitHub Action that detects hardcoded user-facing strings in JS/TS
 - [japan-ux-copy](https://github.com/create-aquarius/japan-ux-copy) - local-first CLI and GitHub Action for Japanese locale checks
 - [Shipi18n](https://github.com/Shipi18n/shipi18n) - ci linter for locale files: key/placeholder/plural checks + optional llm mistranslation pass; json, po, xliff, arb, xcstrings
+- [Locale Guard](https://github.com/Mohamed-Almarag/locale-guard) - github action that comments on pull requests with missing keys, broken placeholders and plural forms, failing only on new issues
 - [gettext](http://www.gnu.org/software/gettext) - tool for adding native language support to applications
 - [i18n-ally](https://github.com/antfu/i18n-ally) - VS Code extension for i18n
 - [i18n-inline-editor](https://github.com/thezuck/i18n-inline-editor-vite-demo) - inline translation editor for Vite
