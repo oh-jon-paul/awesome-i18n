@@ -173,6 +173,7 @@
 - [Google Translate](https://translate.google.com) - text translation service
 - [Microsoft Translator](https://www.microsoft.com/en-GB/translator/) - text translation service
 - [Gengo](http://gengo.com) - translation made by real people, but you can make an order using API
+- [TheSubAI](https://thesubai.com) - AI translation of subtitle files (SRT, VTT, ASS, SSA, SBV, TTML) into 130+ languages, keeping timing intact. Freemium.
 
 
 ## Other
