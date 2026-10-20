@@ -54,6 +54,7 @@
 - [ilingo](https://ilingo.tada5hi.net) - framework-agnostic i18n core with pluggable stores, BCP-47 fallback and Intl-native plurals & formatters
 - [bazi-terms](https://github.com/favkit/bazi-kit) - bilingual (zh/en) bazi & four-pillars terminology database with a translate() helper
 - [BidiLens](https://github.com/CodeinScrubs/BidiLens) - per-block rtl/ltr direction and inline isolation without rewriting source text
+- [comvi](https://github.com/comvi-io/comvi-js) - type-checked keys, icu plurals, html tags in translations without innerHTML; bindings for vue/react/svelte/solid/next/nuxt
 
 - (archived) [Intl.js](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - (archived) [facebook/fbt](https://github.com/facebook/fbt) - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
