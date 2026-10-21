@@ -80,6 +80,7 @@
 - [react-translate-component](https://github.com/martinandert/react-translate-component) - component that utilizes the Counterpart/Interpolate components
 - [react-littera](https://github.com/DRFR0ST/react-littera) - lightweight library for i18n using hooks
 - [talkr](https://github.com/DoneDeal0/Talkr) - light i18n provider for React (< 1kb), Typescript, smart autocompletion, plural rules
+- [babelize elements](https://github.com/babelize/babelize-elements) - copy-paste React + Tailwind components for language switchers and locale pickers
 
 
 #### Other JS/TS frameworks 
