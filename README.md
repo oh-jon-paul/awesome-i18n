@@ -145,6 +145,7 @@
 - (JS) [Hreflang Cluster Auditor](https://github.com/edilec/hreflang-cluster-auditor) - verifies hreflang links
 - (Rust) [chislo](https://github.com/rekurt/chislo) - russian number-to-words with gender, currency and date formatting
 - (Go) [go-propisyu](https://github.com/rekurt/go-propisyu) - russian number-to-words and currency formatting with grammatical declension
+- (JSON) [Hosted for world data](https://simplelocalize.io/data/) - hosted and free list of languages, countries, flags, and timezones in json
 
 
 ## Apps and extensions for translation management
@@ -174,9 +175,6 @@
 - [i18n-convert](https://github.com/i18n-agent/i18n-convert) - cli that losslessly converts between i18n file formats
 - [XLIFF Word Counter](https://nextgenailearning.com/tools/xliff-word-counter) - counts translatable words in XLIFF, minus locked units and repeats
 - [enum-plus](https://github.com/shijistar/enum-plus) - localized labels, badges and dropdowns straight from your enums React + Vue
-- [Store Localizer](https://asolocalization.com) - paid tool to localize mobile store listings
-- [AppStore Localizer](https://simplelocalize.io/tools/app-store-localizer/) - free tool to translate AppStore listings
-- [Google Play Store Localizer](https://simplelocalize.io/tools/google-play-localizer/) - free tool to translate Google Play listings
 
 
 ## Text translation services
@@ -192,7 +190,10 @@
 - [fakenumber.org](https://fakenumber.org) - fake phone number generator
 - [Spoof Me](https://spoof-me.com/) - chrome/firefox extension to view sites as a user with another language, locale and timezone
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - switch android emulator and phone locale, rtl and pseudo-locales in one click on macos
-- [Hosted for world data in JSON](https://simplelocalize.io/data/) - hosted and free list of languages, countries, flags, and timezones in json
+- [AppStore Localizer](https://simplelocalize.io/tools/app-store-localizer/) - free tool to translate AppStore listings
+- [Google Play Store Localizer](https://simplelocalize.io/tools/google-play-localizer/) - free tool to translate Google Play listings
+- [Store Localizer](https://asolocalization.com) - paid tool to localize mobile store listings
+
 
 ## 📚 Resources
 
