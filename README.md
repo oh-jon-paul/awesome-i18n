@@ -52,6 +52,7 @@
 - [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for JavaScript, plural and gender capable messages
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
 - [ilingo](https://ilingo.tada5hi.net) - framework-agnostic i18n core with pluggable stores, BCP-47 fallback and Intl-native plurals & formatters
+- [@i18n-micro/runtime](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/runtime) - framework-agnostic createI18n for browser and workers, no fs
 - [bazi-terms](https://github.com/favkit/bazi-kit) - bilingual (zh/en) bazi & four-pillars terminology database with a translate() helper
 - [BidiLens](https://github.com/CodeinScrubs/BidiLens) - per-block rtl/ltr direction and inline isolation without rewriting source text
 
@@ -79,6 +80,7 @@
 - [react-translate-component](https://github.com/martinandert/react-translate-component) - component that utilizes the Counterpart/Interpolate components
 - [react-littera](https://github.com/DRFR0ST/react-littera) - lightweight library for i18n using hooks
 - [talkr](https://github.com/DoneDeal0/Talkr) - light i18n provider for React (< 1kb), Typescript, smart autocompletion, plural rules
+- [babelize elements](https://github.com/babelize/babelize-elements) - copy-paste React + Tailwind components for language switchers and locale pickers
 
 
 #### Other JS/TS frameworks 
@@ -121,6 +123,7 @@
 - [Python-i18n](https://pypi.org/project/python-i18n/) - internationalization package
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - library to translate between different languages in a simple way using multiple translators
 - [LangLint](https://github.com/HzaCode/Langlint) - high-performance Rust-powered automated translation tool for code comments and docstrings
+- [languages-of-the-world](https://github.com/jnehring/languages-of-the-world) - ISO 639 codes, endonyms, scripts and official languages per country for 7,900+ languages
 
 ### Jekyll
 
@@ -137,6 +140,7 @@
 - (JS) [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - (JS) [ux-ui-audit](https://github.com/uxbyissa/ux-ui-audit) - browser probes that audit arabic plural agreement, numeral mixing and bidi hazards
 - (JS) [arabic-core](https://github.com/getkirnu/arabic-core) - grammatical arabic number-to-words, currency amounts in words, hijri dates, zero deps
+- (JS) [Hreflang Cluster Auditor](https://github.com/edilec/hreflang-cluster-auditor) - checks reciprocal hreflang links in exported pages
 
 
 ## Apps and extensions for translation management
@@ -179,6 +183,7 @@
 ## Other
 
 - [fakenumber.org](https://fakenumber.org) - fake phone number generator
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) - switch android emulator and phone locale, rtl and pseudo-locales in one click on macos
 
 
 ## 📚 Resources
