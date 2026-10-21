@@ -178,6 +178,7 @@
 ## Other
 
 - [fakenumber.org](https://fakenumber.org) - fake phone number generator
+- [Spoof Me](https://spoof-me.com/) - free chrome/firefox extension to view sites as a user with another language, locale and timezone
 
 
 ## 📚 Resources
