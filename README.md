@@ -136,7 +136,7 @@
 - (JS) [anywhen](https://github.com/kirilinsky/anywhen) - relative and absolute fuzzy date formatting for any language, zero deps, native Intl
 - (JS) [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - (JS) [ux-ui-audit](https://github.com/uxbyissa/ux-ui-audit) - browser probes that audit arabic plural agreement, numeral mixing and bidi hazards
-- (JS) [fitlocale](https://melliforge.github.io/localization-layout-tester/) - playwright checks: truncated text, raw keys, pseudo-locales, rtl bugs
+- (JS) [fitlocale](https://melliforge.github.io/fitlocale/) - playwright checks: truncated text, raw keys, pseudo-locales, rtl bugs
 
 
 ## Apps and extensions for translation management
