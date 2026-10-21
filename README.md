@@ -122,6 +122,7 @@
 - [Python-i18n](https://pypi.org/project/python-i18n/) - internationalization package
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - library to translate between different languages in a simple way using multiple translators
 - [LangLint](https://github.com/HzaCode/Langlint) - high-performance Rust-powered automated translation tool for code comments and docstrings
+- [languages-of-the-world](https://github.com/jnehring/languages-of-the-world) - ISO 639 codes, endonyms, scripts and official languages per country for 7,900+ languages
 
 ### Jekyll
 
