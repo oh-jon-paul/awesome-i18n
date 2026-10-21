@@ -11,7 +11,7 @@
 - do not add libraries that required paid service to work
 - do not add the same link into multiple categories
 - do not add links with query search like example.com/?q=php
-- keep your entry as short as possible (<150 chars)
+- keep your entry as short as possible (**less than 120 chars**)
 - entry must be short enough to not wrap
 - do not end your entry with a period
 - try to keep it lowercase
