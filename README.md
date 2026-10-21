@@ -185,6 +185,7 @@
 ## Other
 
 - [fakenumber.org](https://fakenumber.org) - fake phone number generator
+- [Spoof Me](https://spoof-me.com/) - chrome/firefox extension to view sites as a user with another language, locale and timezone
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - switch android emulator and phone locale, rtl and pseudo-locales in one click on macos
 
 
