@@ -50,11 +50,11 @@
 - [schummar-translate](https://github.com/schummar/schummar-translate) - TypeScript powered translation library for React and Node.js
 - [messageformat](https://github.com/messageformat/messageformat) - ICU MessageFormat for JavaScript, plural and gender capable messages
 - [rosetta](https://github.com/lukeed/rosetta) - A general purpose internationalization library in ~300 bytes (including dependencies)
-- [ilingo](https://ilingo.tada5hi.net) - framework-agnostic i18n core with pluggable stores, BCP-47 fallback and Intl-native plurals & formatters
+- [ilingo](https://ilingo.tada5hi.net) - framework-agnostic i18n core with pluggable stores and intl-native plurals/formatters
 - [@i18n-micro/runtime](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/runtime) - framework-agnostic createI18n for browser and workers, no fs
 - [bazi-terms](https://github.com/favkit/bazi-kit) - bilingual (zh/en) bazi & four-pillars terminology database with a translate() helper
 - [BidiLens](https://github.com/CodeinScrubs/BidiLens) - per-block rtl/ltr direction and inline isolation without rewriting source text
-- [comvi](https://github.com/comvi-io/comvi-js) - type-checked keys, icu plurals, html tags in translations without innerHTML; bindings for vue/react/svelte/solid/next/nuxt
+- [comvi](https://github.com/comvi-io/comvi-js) - type-checked keys, plurals, html tags in translations
 
 - (archived) [Intl.js](https://github.com/andyearnshaw/Intl.js) - implementation of the ECMAScript Internationalization API
 - (archived) [facebook/fbt](https://github.com/facebook/fbt) - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
@@ -123,7 +123,7 @@
 - [Python-i18n](https://pypi.org/project/python-i18n/) - internationalization package
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - library to translate between different languages in a simple way using multiple translators
 - [LangLint](https://github.com/HzaCode/Langlint) - high-performance Rust-powered automated translation tool for code comments and docstrings
-- [languages-of-the-world](https://github.com/jnehring/languages-of-the-world) - ISO 639 codes, endonyms, scripts and official languages per country for 7,900+ languages
+- [Languages](https://github.com/jnehring/languages-of-the-world) - ISO-639 codes, endonyms, scripts and official languages per country for 7,900+ languages
 
 ### Jekyll
 
@@ -192,7 +192,7 @@
 - [fakenumber.org](https://fakenumber.org) - fake phone number generator
 - [Spoof Me](https://spoof-me.com/) - chrome/firefox extension to view sites as a user with another language, locale and timezone
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - switch android emulator and phone locale, rtl and pseudo-locales in one click on macos
-
+- [Hosted for world data in JSON](https://simplelocalize.io/data/) - hosted and free list of languages, countries, flags, and timezones in json
 
 ## 📚 Resources
 
