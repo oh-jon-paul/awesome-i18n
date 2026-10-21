@@ -25,7 +25,6 @@
 
 ### JavaScript / TypeScript
 
-
 - [MessageFormat2](https://messageformat.unicode.org) - full featured localization system, from Unicode
 - [date-formatter-i18n](https://github.com/asmaelabid/date-formatter-i18n) - lightweight library for formatting dates with i18n support, relative time
 - [airbnb.io/polyglot.js](http://airbnb.io/polyglot.js/) - tiny i18n helper, works in browser and CommonJS environment
@@ -140,14 +139,13 @@
 - (JS) [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - (JS) [ux-ui-audit](https://github.com/uxbyissa/ux-ui-audit) - browser probes that audit arabic plural agreement, numeral mixing and bidi hazards
 - (JS) [arabic-core](https://github.com/getkirnu/arabic-core) - grammatical arabic number-to-words, currency amounts in words, hijri dates, zero deps
-- (JS) [Hreflang Cluster Auditor](https://github.com/edilec/hreflang-cluster-auditor) - checks reciprocal hreflang links in exported pages
+- (JS) [Hreflang Cluster Auditor](https://github.com/edilec/hreflang-cluster-auditor) - verifies hreflang links
 
 
 ## Apps and extensions for translation management
 
 - [POEditor](https://poeditor.com) - tool for managing PO language files
 - [SimpleLocalize.io](https://simplelocalize.io) - dead simple app for managing translations and markdowns
-- [App Store Localizer](https://asolocalization.com) - free OSS tool to localize App Store / Play Store listing metadata and screenshots
 - [Dire](https://github.com/juliandreas/dire-cli) - cli that processes missing translations in JSON files using AI
 - [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) - IntelliJ IDEA plugin for extracing i18n keys
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - lightweight desktop translator
@@ -157,7 +155,6 @@
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that translates i18n files (XLIFF, JSON) using LLM providers
 - [i18n Checker](https://github.com/theluckystrike/bln-i18n-checker) - GitHub Action that detects hardcoded user-facing strings in JS/TS
 - [japan-ux-copy](https://github.com/create-aquarius/japan-ux-copy) - local-first CLI and GitHub Action for Japanese locale checks
-- [Shipi18n](https://github.com/Shipi18n/shipi18n) - ci linter for locale files: key/placeholder/plural checks + optional llm mistranslation pass; json, po, xliff, arb, xcstrings
 - [gettext](http://www.gnu.org/software/gettext) - tool for adding native language support to applications
 - [i18n-ally](https://github.com/antfu/i18n-ally) - VS Code extension for i18n
 - [i18n-inline-editor](https://github.com/thezuck/i18n-inline-editor-vite-demo) - inline translation editor for Vite
@@ -170,7 +167,10 @@
 - [Fink](https://inlang.com/m/tdozzpar/app-inlang-editor) - git-based editor in the browser that connects to your repo
 - [i18n-convert](https://github.com/i18n-agent/i18n-convert) - cli that losslessly converts between i18n file formats
 - [XLIFF Word Counter](https://nextgenailearning.com/tools/xliff-word-counter) - counts translatable words in XLIFF, minus locked units and repeats
-- [enum-plus](https://github.com/shijistar/enum-plus) - localized labels, badges and dropdown options straight from your enums, with React/Vue/Next plugins
+- [enum-plus](https://github.com/shijistar/enum-plus) - localized labels, badges and dropdowns straight from your enums React + Vue
+- [Store Localizer](https://asolocalization.com) - paid tool to localize mobile store listings
+- [AppStore Localizer](https://simplelocalize.io/tools/app-store-localizer/) - free tool to translate AppStore listings
+- [Google Play Store Localizer](https://simplelocalize.io/tools/google-play-localizer/) - free tool to translate Google Play listings
 
 
 ## Text translation services
