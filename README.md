@@ -144,6 +144,7 @@
 - (JS) [zhtw-guard](https://github.com/zzoraemon043/zhtw-guard) - flags simplified characters, mainland terms and mojibake in traditional chinese (taiwan) text
 - (JS) [Hreflang Cluster Auditor](https://github.com/edilec/hreflang-cluster-auditor) - verifies hreflang links
 - (Rust) [chislo](https://github.com/rekurt/chislo) - russian number-to-words with gender, currency and date formatting
+- (Go) [go-propisyu](https://github.com/rekurt/go-propisyu) - russian number-to-words and currency formatting with grammatical declension
 
 
 ## Apps and extensions for translation management
