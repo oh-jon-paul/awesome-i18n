@@ -182,7 +182,7 @@
 - [Google Translate](https://translate.google.com) - text translation service
 - [Microsoft Translator](https://www.microsoft.com/en-GB/translator/) - text translation service
 - [Gengo](https://gengo.com) - translation made by real people, but you can make an order using API
-- [TheSubAI](https://thesubai.com) - freemium movie subtitles translation service (*.src, *.vtt, *.ass, *.saa, *.sbv, *.ttml)
+- [TheSubAI](https://thesubai.com) - freemium movie subtitles translation service (*.srt, *.vtt, *.ass, *.ssa, *.sbv, *.sub)
 
 
 ## Other
