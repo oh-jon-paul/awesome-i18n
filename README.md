@@ -143,6 +143,7 @@
 - (JS) [arabic-core](https://github.com/getkirnu/arabic-core) - grammatical arabic number-to-words, currency amounts in words, hijri dates, zero deps
 - (JS) [zhtw-guard](https://github.com/zzoraemon043/zhtw-guard) - flags simplified characters, mainland terms and mojibake in traditional chinese (taiwan) text
 - (JS) [Hreflang Cluster Auditor](https://github.com/edilec/hreflang-cluster-auditor) - verifies hreflang links
+- (JS) [locale-doctor](https://github.com/aozkurt/locale-doctor) - checks json catalogs and android strings.xml together: placeholders, plurals, escaping
 - (Rust) [chislo](https://github.com/rekurt/chislo) - russian number-to-words with gender, currency and date formatting
 - (Go) [go-propisyu](https://github.com/rekurt/go-propisyu) - russian number-to-words and currency formatting with grammatical declension
 - (JSON) [Hosted for world data](https://simplelocalize.io/data/) - hosted and free list of languages, countries, flags, and timezones in json
