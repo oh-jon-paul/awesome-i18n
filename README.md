@@ -193,6 +193,7 @@
 - [AppStore Localizer](https://simplelocalize.io/tools/app-store-localizer/) - free tool to translate AppStore listings
 - [Google Play Store Localizer](https://simplelocalize.io/tools/google-play-localizer/) - free tool to translate Google Play listings
 - [Store Localizer](https://asolocalization.com) - paid tool to localize mobile store listings
+- [knobs](https://knobs.dev/) - chrome extension to test a page in another locale, right-to-left, pseudolocale or time zone
 
 
 ## 📚 Resources
