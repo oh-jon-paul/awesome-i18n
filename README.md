@@ -140,6 +140,7 @@
 - (JS) [FormatJS CLI](https://formatjs.io/docs/tooling/cli/) - extract messages from project with FormatJS library
 - (JS) [ux-ui-audit](https://github.com/uxbyissa/ux-ui-audit) - browser probes that audit arabic plural agreement, numeral mixing and bidi hazards
 - (JS) [fitlocale](https://melliforge.github.io/fitlocale/) - playwright checks: truncated text, raw keys, pseudo-locales, rtl bugs
+- (JS) [Will It Clip?](https://privacy.iamtaoxin.com/will-it-clip/) - check clipped labels in PNGs with local OCR
 - (JS) [arabic-core](https://github.com/getkirnu/arabic-core) - grammatical arabic number-to-words, currency amounts in words, hijri dates, zero deps
 - (JS) [zhtw-guard](https://github.com/zzoraemon043/zhtw-guard) - flags simplified characters, mainland terms and mojibake in traditional chinese (taiwan) text
 - (JS) [Hreflang Cluster Auditor](https://github.com/edilec/hreflang-cluster-auditor) - verifies hreflang links
