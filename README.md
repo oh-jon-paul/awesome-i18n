@@ -207,6 +207,7 @@
 - [Blog post: What is 'hreflang' attribute](https://simplelocalize.io/blog/posts/what-is-hreflang/)
 - [Blog post: i18n with React Intl and SimpleLocalize](https://dujushi.github.io/2021/04/14/i18n-with-react-intl-and-simple-localize.html)
 - [Blog post: What language 158 million websites declare (2026)](https://www.stackscan.com/blog/website-language-statistics)
+- [Blog post: Arabic PDFs that ATS parsers can read back](https://foliumcv.hashnode.dev/arabic-resumes-with-react-pdf-four-shaping-bugs-one-font-swap-and-a-pdf-that-ats-can-read)
 - [Dataset: Currency symbols and separators by country](https://alice51849.github.io/ios-app-guide/data/currency-format-by-country.html)
 - [GitHub: FormatJS example project](https://github.com/simplelocalize/simplelocalize-react-intl)
 - [GitHub: i18next example project](https://github.com/simplelocalize/simplelocalize-i18next)
