@@ -145,6 +145,7 @@
 - (JS) [Hreflang Cluster Auditor](https://github.com/edilec/hreflang-cluster-auditor) - verifies hreflang links
 - (Rust) [chislo](https://github.com/rekurt/chislo) - russian number-to-words with gender, currency and date formatting
 - (Go) [go-propisyu](https://github.com/rekurt/go-propisyu) - russian number-to-words and currency formatting with grammatical declension
+- (Python) [terimce](https://github.com/misutesu-desu/terimce) - lints game translation files: broken placeholders, turkish dotted i, glossary terms
 - (JSON) [Hosted for world data](https://simplelocalize.io/data/) - hosted and free list of languages, countries, flags, and timezones in json
 
 
